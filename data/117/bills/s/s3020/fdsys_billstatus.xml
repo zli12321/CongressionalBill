@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3020</number>
+    <updateDate>2022-12-30T07:48:47Z</updateDate>
+    <updateDateIncludingText>2022-12-30T07:48:47Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-10-20</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssva00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-10-20T16:46:33Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-10-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-10-20</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <firstName>Bernard</firstName>
+        <lastName>Sanders</lastName>
+        <party>I</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-10-20</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-12-06T18:37:25Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Veterans State Eligibility Standardization Act</b></p> <p>This bill requires the Department of Veterans Affairs (VA) to make modifications related to areas of residence and variable income thresholds for purposes of determining whether veterans qualify for treatment as low-income families for enrollment in the VA health care system.</p> <p>The bill also requires the VA to ensure that all veterans who enroll in the VA health care system remain eligible to continue receiving health care furnished by the VA, subject to cost-sharing requirements that apply under current law. </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Veterans State Eligibility Standardization Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Veterans State Eligibility Standardization Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Veterans State Eligibility Standardization Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Secretary of Veterans Affairs to modify the eligibility of veterans for treatment as a low-income family for purposes of enrollment in the patient enrollment system of the Department of Veterans Affairs and to guarantee health care benefits for veterans enrolled in such system, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-10-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3020is/xml/BILLS-117s3020is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-20</actionDate>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

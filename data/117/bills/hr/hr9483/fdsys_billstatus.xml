@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>9483</number>
+    <updateDate>2022-12-20T21:15:23Z</updateDate>
+    <updateDateIncludingText>2022-12-20T21:15:23Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2022-12-08</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-12-08T14:00:35Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-12-08</actionDate>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-12-08</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-12-08</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001196</bioguideId>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <firstName>Elise</firstName>
+        <lastName>Stefanik</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S001196</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>21</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001087</bioguideId>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <firstName>Eric</firstName>
+        <lastName>Crawford</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>C001087</bioguideId>
+        </identifiers>
+        <middleName>A. "Rick"</middleName>
+        <district>1</district>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000026</bioguideId>
+        <fullName>Rep. Nehls, Troy E. [R-TX-22]</fullName>
+        <firstName>Troy</firstName>
+        <lastName>Nehls</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>N000026</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>22</district>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001306</bioguideId>
+        <fullName>Rep. Balderson, Troy [R-OH-12]</fullName>
+        <firstName>Troy</firstName>
+        <lastName>Balderson</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>B001306</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001307</bioguideId>
+        <fullName>Rep. Baird, James R. [R-IN-4]</fullName>
+        <firstName>James</firstName>
+        <lastName>Baird</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001307</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000578</bioguideId>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <firstName>Doug</firstName>
+        <lastName>LaMalfa</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000446</bioguideId>
+        <fullName>Rep. Feenstra, Randy [R-IA-4]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Feenstra</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>F000446</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001091</bioguideId>
+        <fullName>Rep. Hinson, Ashley [R-IA-1]</fullName>
+        <firstName>Ashley</firstName>
+        <lastName>Hinson</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>H001091</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001212</bioguideId>
+        <fullName>Rep. Moore, Barry [R-AL-2]</fullName>
+        <firstName>Barry</firstName>
+        <lastName>Moore</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>M001212</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000301</bioguideId>
+        <fullName>Rep. Johnson, Dusty [R-SD-At Large]</fullName>
+        <firstName>Dusty</firstName>
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>J000301</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000294</bioguideId>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Emmer</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001211</bioguideId>
+        <fullName>Rep. Miller, Mary E. [R-IL-15]</fullName>
+        <firstName>Mary</firstName>
+        <lastName>Miller</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>M001211</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>15</district>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001260</bioguideId>
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <firstName>Vern</firstName>
+        <lastName>Buchanan</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>B001260</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2022-12-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000609</bioguideId>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <firstName>John</firstName>
+        <lastName>Rutherford</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000609</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2022-12-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Agriculture and Food</name>
+      </policyArea>
+    </subjects>
+    <title>Agriculture Foreign Investment Transparency Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Agriculture Foreign Investment Transparency Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Agriculture Foreign Investment Transparency Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Agricultural Foreign Investment Disclosure Act of 1978 with respect to certain agricultural land transactions, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-12-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr9483ih/xml/BILLS-117hr9483ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-12-08</actionDate>
+      <text>Referred to the House Committee on Agriculture.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

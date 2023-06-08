@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2396</number>
+    <updateDate>2022-12-31T07:15:26Z</updateDate>
+    <updateDateIncludingText>2022-12-31T07:15:26Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-04-08</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 61 (Thursday, April 8, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. COHEN:H.R. 2396.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H1720]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif18</systemCode>
+            <name>Environment and Climate Change Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-04-13T22:50:38Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-04-08T19:03:05Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-04-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif18</systemCode>
+            <name>Environment and Climate Change Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment and Climate Change.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-04-08</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-04-08</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-04-08</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001200</bioguideId>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <firstName>Darren</firstName>
+        <lastName>Soto</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-05-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-05-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001145</bioguideId>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <firstName>JANICE</firstName>
+        <lastName>SCHAKOWSKY</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <sponsorshipDate>2021-05-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000192</bioguideId>
+        <fullName>Rep. Newman, Marie [D-IL-3]</fullName>
+        <firstName>Marie</firstName>
+        <lastName>Newman</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>N000192</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-05-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001300</bioguideId>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <firstName>Nanette</firstName>
+        <lastName>Barragan</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>B001300</bioguideId>
+        </identifiers>
+        <middleName>Diaz</middleName>
+        <district>44</district>
+        <sponsorshipDate>2021-05-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000481</bioguideId>
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <firstName>Rashida</firstName>
+        <lastName>Tlaib</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>T000481</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-05-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000197</bioguideId>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <firstName>DIANA</firstName>
+        <lastName>DEGETTE</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>D000197</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-05-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000574</bioguideId>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <firstName>EARL</firstName>
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000288</bioguideId>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <firstName>Henry</firstName>
+        <lastName>Johnson</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+        </identifiers>
+        <middleName>C. "Hank"</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001068</bioguideId>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <firstName>Jared</firstName>
+        <lastName>Huffman</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-06-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000081</bioguideId>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <firstName>NYDIA</firstName>
+        <lastName>VELAZQUEZ</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-07-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000297</bioguideId>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <firstName>Adriano</firstName>
+        <lastName>Espaillat</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-07-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000618</bioguideId>
+        <fullName>Rep. Porter, Katie [D-CA-45]</fullName>
+        <firstName>Katie</firstName>
+        <lastName>Porter</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000618</bioguideId>
+        </identifiers>
+        <district>45</district>
+        <sponsorshipDate>2021-07-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000754</bioguideId>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>COOPER</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>5</district>
+        <sponsorshipDate>2021-07-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000002</bioguideId>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <firstName>JERROLD</firstName>
+        <lastName>NADLER</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001270</bioguideId>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <firstName>Karen</firstName>
+        <lastName>Bass</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+        </identifiers>
+        <district>37</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000482</bioguideId>
+        <fullName>Rep. Doyle, Michael F. [D-PA-18]</fullName>
+        <firstName>MIKE</firstName>
+        <lastName>DOYLE</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+        <district>18</district>
+        <sponsorshipDate>2021-12-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001190</bioguideId>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <firstName>Bradley</firstName>
+        <lastName>Schneider</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>S001190</bioguideId>
+        </identifiers>
+        <middleName>Scott</middleName>
+        <district>10</district>
+        <sponsorshipDate>2022-07-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Air quality</name>
+        </item>
+        <item>
+          <name>Coal</name>
+        </item>
+        <item>
+          <name>Electric power generation and transmission</name>
+        </item>
+        <item>
+          <name>Environmental Protection Agency (EPA)</name>
+        </item>
+        <item>
+          <name>Environmental assessment, monitoring, research</name>
+        </item>
+        <item>
+          <name>Environmental health</name>
+        </item>
+        <item>
+          <name>Environmental regulatory procedures</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Hazardous wastes and toxic substances</name>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+        </item>
+        <item>
+          <name>Pollution liability</name>
+        </item>
+        <item>
+          <name>Public participation and lobbying</name>
+        </item>
+        <item>
+          <name>Solid waste and recycling</name>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+        </item>
+        <item>
+          <name>Water quality</name>
+        </item>
+        <item>
+          <name>Water use and supply</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Environmental Protection</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-04-08</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-03-23T21:11:23Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Ensuring Safe Disposal of Coal Ash Act</strong></p> <p>This bill updates the requirements related to state permit programs for the regulation of coal combustion residuals units, as administered by the Environmental Protection Agency (EPA).</p> <p>Specifically, the EPA must revise its regulations related to approved state programs for regulating coal combustion residuals units to include any criteria necessary to protect human health and the environment, including the health of vulnerable or disproportionately exposed subpopulations. The regulation revisions must include specified requirements, for example, requiring meaningful public participation in the issuance and renewal of all permits or other prior approvals.</p> <p>The EPA must promulgate regulations that (1) set forth minimum requirements for state and federal coal combustion residuals permit programs, and (2) require owners of closed coal combustion residuals disposal sites to identify the locations of such sites and record the information in the public record to ensure that the locations are known and can be located in the future.</p> <p>Under the bill, the EPA must also</p> <ul> <li>implement a requirement for a public hearing in the approval process for establishing a state permit program;</li> <li>review state permit programs at least once every 5 years (the current requirement is once every 12 years);</li> <li>review such programs not later than one year after it revises applicable criteria for federal regulations related to coal combustion residuals units; and</li> <li>include a reasonable period of time, not to exceed 180 days, for a state to correct deficiencies with respect to its permit program.</li> </ul>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Ensuring Safe Disposal of Coal Ash Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Ensuring Safe Disposal of Coal Ash Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Ensuring Safe Disposal of Coal Ash Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Solid Waste Disposal Act to ensure the safe disposal of coal combustion residuals.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-04-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr2396ih/xml/BILLS-117hr2396ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-04-13</actionDate>
+      <text>Referred to the Subcommittee on Environment and Climate Change.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

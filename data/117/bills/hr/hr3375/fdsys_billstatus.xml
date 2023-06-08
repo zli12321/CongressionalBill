@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3375</number>
+    <updateDate>2022-12-31T10:35:42Z</updateDate>
+    <updateDateIncludingText>2022-12-31T10:35:42Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-05-20</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 88 (Thursday, May 20, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. BROOKS:H.R. 3375.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H2652]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-11-09T16:14:10Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-20T13:03:25Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-11-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-05-20</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-05-20</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-05-20</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001274</bioguideId>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <firstName>Mo</firstName>
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>G000589</bioguideId>
+        <fullName>Rep. Gooden, Lance [R-TX-5]</fullName>
+        <firstName>Lance</firstName>
+        <lastName>Gooden</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000589</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-05-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000599</bioguideId>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Posey</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001305</bioguideId>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Budd</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-06-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001054</bioguideId>
+        <fullName>Rep. Carl, Jerry L. [R-AL-1]</fullName>
+        <firstName>Jerry</firstName>
+        <lastName>Carl</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>C001054</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative remedies</name>
+        </item>
+        <item>
+          <name>Border security and unlawful immigration</name>
+        </item>
+        <item>
+          <name>Citizenship and naturalization</name>
+        </item>
+        <item>
+          <name>Civil actions and liability</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Detention of persons</name>
+        </item>
+        <item>
+          <name>Drug, alcohol, tobacco use</name>
+        </item>
+        <item>
+          <name>Government liability</name>
+        </item>
+        <item>
+          <name>Immigration status and procedures</name>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+        </item>
+        <item>
+          <name>Law enforcement administration and funding</name>
+        </item>
+        <item>
+          <name>Motor vehicles</name>
+        </item>
+        <item>
+          <name>State and local finance</name>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+        </item>
+        <item>
+          <name>Terrorism</name>
+        </item>
+        <item>
+          <name>Transportation safety and security</name>
+        </item>
+        <item>
+          <name>Visas and passports</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Immigration</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-20</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-12-21T22:34:54Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>No Sanctuary for Criminals Act</strong></p> <p>This bill addresses issues related to immigration enforcement.</p> <p>A government entity may not prohibit its personnel or another government entity from cooperating with federal immigration enforcement efforts or making inquiries about an individual's immigration status. Currently, a government entity is only barred from prohibiting the sharing of immigration-related information with the Department of Homeland Security (DHS). </p> <p>A noncomplying state or local government shall be ineligible for certain grants and assistance related to law enforcement, terrorism, and immigration.</p> <p>DHS may (1) decline to transfer a detained alien to a noncomplying government entity even if that entity has issued a writ or warrant, and (2) issue a detainer if it believes that an individual arrested for any criminal or motor vehicle offense is inadmissible or deportable. DHS may not transfer an alien with a final order of removal to a noncomplying government entity.</p> <p>The bill also allows a victim of certain felonies (including murder and rape) to sue a state or local government entity if that entity had refused to honor an immigration detainer request and released the individual who later committed the crime. </p> <p>Furthermore, the bill (1) expands the categories of offenses requiring mandatory detention, (2) provides immunity for a state or local government entity or official temporarily detaining an alien under federal authority, (3) provides that an alien may be detained without time limitation while removal proceedings are pending, and (4) restricts a detained alien's release on bond. </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>No Sanctuary for Criminals Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>No Sanctuary for Criminals Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Immigration and Nationality Act to modify provisions relating to assistance by States, and political subdivisions of States, in the enforcement of Federal immigration laws, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>No Sanctuary for Criminals Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-05-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr3375ih/xml/BILLS-117hr3375ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-11-09</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

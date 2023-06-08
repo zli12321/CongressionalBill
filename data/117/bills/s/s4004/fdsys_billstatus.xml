@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>4004</number>
+    <updateDate>2022-12-29T23:48:38Z</updateDate>
+    <updateDateIncludingText>2022-12-29T23:48:38Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-04-05</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssbk00</systemCode>
+        <name>Banking, Housing, and Urban Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-04-05T21:14:43Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Small LENDER Act</title>
+        <congress>117</congress>
+        <number>6732</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-02-15</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-04-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-04-05</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <lastName>Boozman</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <firstName>Kevin</firstName>
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-04-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000571</bioguideId>
+        <fullName>Sen. Lummis, Cynthia M. [R-WY]</fullName>
+        <firstName>Cynthia</firstName>
+        <lastName>Lummis</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>L000571</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2022-04-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <fullName>Sen. Tillis, Thomas [R-NC]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Tillis</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <middleName>Roland</middleName>
+        <sponsorshipDate>2022-04-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000393</bioguideId>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <firstName>John</firstName>
+        <lastName>Kennedy</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>K000393</bioguideId>
+        </identifiers>
+        <middleName>Neely</middleName>
+        <sponsorshipDate>2022-05-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-05-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-06-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>Charles</firstName>
+        <lastName>Grassley</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2022-07-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Commerce</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-04-05</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-12-01T19:15:00Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Small Lenders Exempt from New Data and Excessive Reporting Act or the Small LENDER Act</b></p> <p>This bill exempts certain financial institutions and transactions from the Consumer Financial Protection Bureau (CFPB) reporting requirements with respect to data about small business credit applications.</p> <p>Under the bill, the requirements apply only to financial institutions that originate at least 500 credit transactions to small businesses in each of the preceding two years. The bill further defines small businesses as those with annual revenue of $1 million or less.</p> <p>Currently, the CFPB has proposed a rule that the requirements apply only to financial institutions that originate at least 25 annual credit transactions to small businesses in each of the preceding two years. The rule further defines small businesses as those with annual revenue of $5 million or less.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Small LENDER Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Small LENDER Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Small LENDER Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Small Lenders Exempt from New Data and Excessive Reporting Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to alter requirements associated with small business loan data collection, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-04-05T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s4004is/xml/BILLS-117s4004is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-04-05</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

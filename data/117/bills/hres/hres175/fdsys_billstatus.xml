@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>175</number>
+    <updateDate>2022-12-16T14:11:31Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:11:31Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-02-26</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hlig00</systemCode>
+        <name>Intelligence (Permanent Select) Committee</name>
+        <chamber>House</chamber>
+        <type>Select</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-26T14:03:00Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-26T14:02:50Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-02-26</actionDate>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hlig00</systemCode>
+            <name>Intelligence (Permanent Select) Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-26</actionDate>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-26</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-26</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>T000483</bioguideId>
+        <fullName>Rep. Trone, David J. [D-MD-6]</fullName>
+        <firstName>David</firstName>
+        <lastName>Trone</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>T000483</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <district>6</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <firstName>Gerald</firstName>
+        <lastName>Connolly</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>11</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-03-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Arms control and nonproliferation</name>
+        </item>
+        <item>
+          <name>Correctional facilities and imprisonment</name>
+        </item>
+        <item>
+          <name>Crime victims</name>
+        </item>
+        <item>
+          <name>Criminal investigation, prosecution, interrogation</name>
+        </item>
+        <item>
+          <name>Diplomacy, foreign officials, Americans abroad</name>
+        </item>
+        <item>
+          <name>Economic development</name>
+        </item>
+        <item>
+          <name>Government ethics and transparency, public corruption</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Human rights</name>
+        </item>
+        <item>
+          <name>Intelligence activities, surveillance, classified information</name>
+        </item>
+        <item>
+          <name>International law and treaties</name>
+        </item>
+        <item>
+          <name>Middle East</name>
+        </item>
+        <item>
+          <name>Military assistance, sales, and agreements</name>
+        </item>
+        <item>
+          <name>Military operations and strategy</name>
+        </item>
+        <item>
+          <name>News media and reporting</name>
+        </item>
+        <item>
+          <name>Nuclear power</name>
+        </item>
+        <item>
+          <name>Sanctions</name>
+        </item>
+        <item>
+          <name>Saudi Arabia</name>
+        </item>
+        <item>
+          <name>Terrorism</name>
+        </item>
+        <item>
+          <name>Trade restrictions</name>
+        </item>
+        <item>
+          <name>Violent crime</name>
+        </item>
+        <item>
+          <name>Yemen</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-26</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-06-22T20:05:19Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution calls on the U.S. government to cease all arms transfers to Saudi Arabia until Saudi Arabia takes specified actions, including demonstrating true accountability for the murder of Jamal Khashoggi and ending military operations in Yemen. Further, it calls for (1) sanctions against Saudi government officials and certain other individuals, and (2) a cease to nuclear cooperation with Saudi Arabia until Saudi Arabia guarantees that its nuclear program is for civilian purposes only and that the enrichment of uranium or reprocessing of spent nuclear fuel within Saudi territory is prohibited.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Expressing the sense of the House of Representatives regarding United States arms transfers to Saudi Arabia.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of the House of Representatives regarding United States arms transfers to Saudi Arabia.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of the House of Representatives regarding United States arms transfers to Saudi Arabia.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-02-26T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres175ih/xml/BILLS-117hres175ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-26</actionDate>
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

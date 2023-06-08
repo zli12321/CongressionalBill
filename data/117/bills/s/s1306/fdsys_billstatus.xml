@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1306</number>
+    <updateDate>2022-12-31T12:17:38Z</updateDate>
+    <updateDateIncludingText>2022-12-31T12:17:38Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-04-22</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2022-12-19T21:17:03Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2021-05-12T13:30:02Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-04-22T17:38:16Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Make PPE in America Act</title>
+        <congress>117</congress>
+        <number>2720</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-14</actionDate>
+          <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-12-19</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 668.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2022-12-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-269.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-12-19</actionDate>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-269.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-05-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-04-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-04-22</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <firstName>Rob</firstName>
+        <lastName>Portman</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-04-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-05-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Buy American requirements</name>
+        </item>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Health promotion and preventive care</name>
+        </item>
+        <item>
+          <name>Health technology, devices, supplies</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Manufacturing</name>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+        </item>
+        <item>
+          <name>Strategic materials and reserves</name>
+        </item>
+        <item>
+          <name>Worker safety and health</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Government Operations and Politics</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-04-22</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-06-16T16:40:59Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Make PPE in America Act</b></p> <p>This bill requires procurement contracts for personal protective equipment (PPE) to be long-term and for domestically manufactured PPE.</p> <p>Specifically, contracts entered into by the Departments of Homeland Security, Health and Human Services, Defense, Education, or Veterans Affairs for the procurement of PPE must be for a duration of at least three years, including a base period and all option periods, to incentivize investment in the production of PPE, and materials and components of PPE, in the United States.</p> <p>The bill provides exceptions (1) where a nonavailability determination has been made, (2) where a sufficient quantity of a satisfactory quality cannot be procured as and when needed at U.S. market prices, and (3) where the department certifies every 120 days that it is necessary to procure PPE under alternate procedures to respond to the immediate needs of a public health emergency.</p> <p>Such departments may transfer to the Strategic National Stockpile any excess PPE acquired under a contract.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Make PPE in America Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Make PPE in America Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <title>Make PPE in America Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Reported to Senate</billTextVersionName>
+        <billTextVersionCode>RS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Make PPE in America Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for domestic sourcing of personal protective equipment, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2022-12-19T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1306rs/xml/BILLS-117s1306rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-04-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1306is/xml/BILLS-117s1306is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-12-19</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 668.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

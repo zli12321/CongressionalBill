@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>49</number>
+    <updateDate>2022-12-16T14:07:26Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:07:26Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-01-19</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsgo00</systemCode>
+        <name>Oversight and Reform Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-01-19T18:01:30Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-01-19</actionDate>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-01-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001285</bioguideId>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <firstName>Julia</firstName>
+        <lastName>Brownley</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+        </identifiers>
+        <district>26</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>P000608</bioguideId>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>52</district>
+        <sponsorshipDate>2021-01-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000474</bioguideId>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <firstName>Norma</firstName>
+        <lastName>Torres</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>T000474</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <district>35</district>
+        <sponsorshipDate>2021-01-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001188</bioguideId>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <firstName>Grace</firstName>
+        <lastName>Meng</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-01-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-01-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001066</bioguideId>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <firstName>Kathy</firstName>
+        <lastName>Castor</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2021-01-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000171</bioguideId>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>O'Halleran</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-01-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000582</bioguideId>
+        <fullName>Resident Commissioner González-Colón, Jenniffer [R-PR-At Large]</fullName>
+        <firstName>Jenniffer</firstName>
+        <lastName>Gonzalez-Colon</lastName>
+        <party>R</party>
+        <state>PR</state>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2021-02-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001286</bioguideId>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <firstName>Cheri</firstName>
+        <lastName>Bustos</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-02-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001080</bioguideId>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <firstName>Judy</firstName>
+        <lastName>Chu</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <district>27</district>
+        <sponsorshipDate>2021-02-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-02-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H000324</bioguideId>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <firstName>ALCEE</firstName>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>20</district>
+        <sponsorshipDate>2021-02-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000389</bioguideId>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <firstName>Ro</firstName>
+        <lastName>Khanna</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-02-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001081</bioguideId>
+        <fullName>Rep. Hayes, Jahana [D-CT-5]</fullName>
+        <firstName>Jahana</firstName>
+        <lastName>Hayes</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>H001081</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-04-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-12-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001195</bioguideId>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <firstName>Alexander</firstName>
+        <lastName>Mooney</lastName>
+        <party>R</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+        <middleName>X.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-08-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Postal service</name>
+        </item>
+        <item>
+          <name>U.S. Postal Service</name>
+        </item>
+        <item>
+          <name>Veterans' organizations and recognition</name>
+        </item>
+        <item>
+          <name>Women's employment</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-01-19</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-01-25T16:52:49Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution expresses the sense of the House of Representatives that the U.S. Postal Service should issue a commemorative stamp series honoring women veterans.</p> <ul> </ul>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Expressing the sense of the Congress that a commemorative postage stamp series should be issued honoring women veterans, and that the Citizens' Stamp Advisory Committee should recommend to the Postmaster General that such a stamp series be issued.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of the Congress that a commemorative postage stamp series should be issued honoring women veterans, and that the Citizens' Stamp Advisory Committee should recommend to the Postmaster General that such a stamp series be issued.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of the Congress that a commemorative postage stamp series should be issued honoring women veterans, and that the Citizens' Stamp Advisory Committee should recommend to the Postmaster General that such a stamp series be issued.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-01-19T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres49ih/xml/BILLS-117hres49ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-01-19</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

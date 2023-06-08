@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>48</number>
+    <updateDate>2022-12-30T10:33:29Z</updateDate>
+    <updateDateIncludingText>2022-12-30T10:33:29Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HCONRES</type>
+    <introducedDate>2021-08-27</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-10-05T14:38:05Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-08-27T14:00:05Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Expressing the sense of Congress that August 30, 2021, be observed as the 131st anniversary of the 1890 Institutions.</title>
+        <congress>117</congress>
+        <number>103</number>
+        <type>HCONRES</type>
+        <latestAction>
+          <actionDate>2022-09-29</actionDate>
+          <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-10-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag14</systemCode>
+            <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-08-27</actionDate>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-08-27</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR E929)</text>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-08-27</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-08-27</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>A000370</bioguideId>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <firstName>Alma</firstName>
+        <lastName>Adams</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>A000370</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>12</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001282</bioguideId>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <firstName>Andy</firstName>
+        <lastName>Barr</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000490</bioguideId>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <firstName>SANFORD</firstName>
+        <lastName>BISHOP</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001286</bioguideId>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <firstName>Cheri</firstName>
+        <lastName>Bustos</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000754</bioguideId>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>COOPER</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>5</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000096</bioguideId>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <firstName>DANNY</firstName>
+        <lastName>DAVIS</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <firstName>SHEILA</firstName>
+        <lastName>JACKSON LEE</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <district>18</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000009</bioguideId>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <firstName>MARCY</firstName>
+        <lastName>KAPTUR</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000389</bioguideId>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <firstName>Ro</firstName>
+        <lastName>Khanna</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000586</bioguideId>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <firstName>Al</firstName>
+        <lastName>Lawson</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>L000586</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000607</bioguideId>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Pocan</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001157</bioguideId>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <firstName>David</firstName>
+        <lastName>Scott</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>S001157</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001185</bioguideId>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <firstName>Terri</firstName>
+        <lastName>Sewell</lastName>
+        <party>D</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>S001185</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000483</bioguideId>
+        <fullName>Rep. Trone, David J. [D-MD-6]</fullName>
+        <firstName>David</firstName>
+        <lastName>Trone</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>T000483</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <district>6</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000463</bioguideId>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Turner</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>T000463</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>10</district>
+        <sponsorshipDate>2021-08-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000788</bioguideId>
+        <fullName>Rep. Williams, Nikema [D-GA-5]</fullName>
+        <firstName>Nikema</firstName>
+        <lastName>Williams</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>W000788</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-09-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Agricultural education</name>
+        </item>
+        <item>
+          <name>Agricultural research</name>
+        </item>
+        <item>
+          <name>Commemorative events and holidays</name>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>Education programs funding</name>
+        </item>
+        <item>
+          <name>Higher education</name>
+        </item>
+        <item>
+          <name>Minority education</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Agriculture and Food</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-08-27</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-09-01T10:22:20Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution (1) recognizes the 131 years of significant and meaningful contributions the 1890 Institutions (i.e., historically Black universities established under the Second Morrill Act of 1890) have made to the United States, (2) supports the efforts of the Department of Agriculture and other federal agencies to build stronger partnerships with such institutions, and (3) commits to working in a bipartisan way to address the past funding and program inequities of such institutions.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Expressing the sense of Congress that August 30, 2021, be observed as the 131st anniversary of the 1890 Institutions.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of Congress that August 30, 2021, be observed as the 131st anniversary of the 1890 Institutions.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of Congress that August 30, 2021, be observed as the 131st anniversary of the 1890 Institutions.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-08-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres48ih/xml/BILLS-117hconres48ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-05</actionDate>
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

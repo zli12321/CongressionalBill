@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1525</number>
+    <updateDate>2022-12-31T11:28:46Z</updateDate>
+    <updateDateIncludingText>2022-12-31T11:28:46Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-04-29</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-04-29T20:56:27Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>THRIVE Act</title>
+        <congress>117</congress>
+        <number>2919</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-05-03</actionDate>
+          <text>Referred to the Subcommittee on Environment and Climate Change.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-04-29</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-04-29</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>Edward</firstName>
+        <lastName>Markey</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2021-04-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>Ron</firstName>
+        <lastName>Wyden</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-04-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000128</bioguideId>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-04-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-04-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-04-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <firstName>Bernard</firstName>
+        <lastName>Sanders</lastName>
+        <party>I</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-04-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-04-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Advisory bodies</name>
+        </item>
+        <item>
+          <name>Agricultural conservation and pollution</name>
+        </item>
+        <item>
+          <name>Agricultural practices and innovations</name>
+        </item>
+        <item>
+          <name>Air quality</name>
+        </item>
+        <item>
+          <name>Alaska Natives and Hawaiians</name>
+        </item>
+        <item>
+          <name>Alternative and renewable resources</name>
+        </item>
+        <item>
+          <name>Budget process</name>
+        </item>
+        <item>
+          <name>Building construction</name>
+        </item>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Child care and development</name>
+        </item>
+        <item>
+          <name>Climate change and greenhouse gases</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Ecology</name>
+        </item>
+        <item>
+          <name>Economic performance and conditions</name>
+        </item>
+        <item>
+          <name>Education programs funding</name>
+        </item>
+        <item>
+          <name>Elementary and secondary education</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Employee hiring</name>
+        </item>
+        <item>
+          <name>Employment and training programs</name>
+        </item>
+        <item>
+          <name>Employment discrimination and employee rights</name>
+        </item>
+        <item>
+          <name>Energy efficiency and conservation</name>
+        </item>
+        <item>
+          <name>Environmental assessment, monitoring, research</name>
+        </item>
+        <item>
+          <name>Environmental health</name>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+        </item>
+        <item>
+          <name>Federal-Indian relations</name>
+        </item>
+        <item>
+          <name>Food supply, safety, and labeling</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Hazardous wastes and toxic substances</name>
+        </item>
+        <item>
+          <name>Health care coverage and access</name>
+        </item>
+        <item>
+          <name>Health facilities and institutions</name>
+        </item>
+        <item>
+          <name>Home and outpatient care</name>
+        </item>
+        <item>
+          <name>Housing and community development funding</name>
+        </item>
+        <item>
+          <name>Housing supply and affordability</name>
+        </item>
+        <item>
+          <name>Hybrid, electric, and advanced technology vehicles</name>
+        </item>
+        <item>
+          <name>Indian social and development programs</name>
+        </item>
+        <item>
+          <name>Industrial policy and productivity</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Internet and video services</name>
+        </item>
+        <item>
+          <name>Internet, web applications, social media</name>
+        </item>
+        <item>
+          <name>Labor-management relations</name>
+        </item>
+        <item>
+          <name>Land use and conservation</name>
+        </item>
+        <item>
+          <name>Low- and moderate-income housing</name>
+        </item>
+        <item>
+          <name>Manufacturing</name>
+        </item>
+        <item>
+          <name>Minority health</name>
+        </item>
+        <item>
+          <name>Pedestrians and bicycling</name>
+        </item>
+        <item>
+          <name>Public housing</name>
+        </item>
+        <item>
+          <name>Public transit</name>
+        </item>
+        <item>
+          <name>Public utilities and utility rates</name>
+        </item>
+        <item>
+          <name>Racial and ethnic relations</name>
+        </item>
+        <item>
+          <name>Sex, gender, sexual orientation discrimination</name>
+        </item>
+        <item>
+          <name>Social work, volunteer service, charitable organizations</name>
+        </item>
+        <item>
+          <name>Solid waste and recycling</name>
+        </item>
+        <item>
+          <name>Unemployment</name>
+        </item>
+        <item>
+          <name>Wages and earnings</name>
+        </item>
+        <item>
+          <name>Water use and supply</name>
+        </item>
+        <item>
+          <name>Wildlife conservation and habitat protection</name>
+        </item>
+        <item>
+          <name>Worker safety and health</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Economics and Public Finance</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-04-29</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-10-21T15:42:00Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Transform, Heal, and Renew by Investing in a Vibrant Economy Act or the THRIVE Act</b></p> <p>This bill establishes a program to address the economy, racial justice, and climate change.</p> <p>The President must establish a board to advise the President and the heads of federal departments and agencies regarding the implementation of this bill. The President, in consultation with the board, must establish a 10-year plan to create a society that enables and supports</p> <ul> <li>greater racial, Indigenous, gender, environmental, and economic justice; </li> <li> work opportunities; </li> <li>healthy communities; </li> <li>a stable climate; and </li> <li> healthy ecosystems.</li> </ul> <p>In addition, the President, in consultation with the board, must implement a program that provides support to public or private entities that carry out qualified programs. The programs must meet certain labor, equity, and environmental conditions and support</p> <ul> <li>infrastructure, including to expand access to pollution-free, renewable, and affordable energy;</li> <li>care workers and social infrastructure (e.g., health care infrastructure);</li> <li>expanded access to housing;</li> <li>efforts to protect and restore biodiversity or natural habitats and efforts to remediate pollution in communities harmed by environmental, economic, or socioeconomic injustice;</li> <li>agriculture, including agricultural workers; or </li> <li>the development and transformation of the U.S. industrial base, including by expanding manufacturing of clean technologies.</li> </ul>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>THRIVE Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>THRIVE Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish a Federal agenda to transform, heal, and renew the United States by investing in a vibrant economy, to provide funds to certain Federal investment programs that meet related labor, equity, and environmental standards, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>THRIVE Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Transform, Heal, and Renew by Investing in a Vibrant Economy Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-04-29T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1525is/xml/BILLS-117s1525is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-04-29</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

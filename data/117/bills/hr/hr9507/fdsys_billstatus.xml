@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>9507</number>
+    <updateDate>2022-12-24T08:15:21Z</updateDate>
+    <updateDateIncludingText>2022-12-24T08:15:21Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2022-12-13</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsed00</systemCode>
+        <name>Education and Labor Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-12-13T15:03:20Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-12-13</actionDate>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Labor Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-12-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-12-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000450</bioguideId>
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <firstName>Virginia</firstName>
+        <lastName>Foxx</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>F000450</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S000250</bioguideId>
+        <fullName>Rep. Sessions, Pete [R-TX-17]</fullName>
+        <firstName>PETE</firstName>
+        <lastName>SESSIONS</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2022-12-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Families</name>
+      </policyArea>
+    </subjects>
+    <title>Parental Right to Protect Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Parental Right to Protect Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Parental Right to Protect Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Child Abuse Prevention and Treatment Act to prevent State child protective services systems from removing a child from the custody of the child's parent or legal guardian due to the parent's or legal guardian's reluctance or refusal to consent to the child receiving a gender-transition intervention, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-12-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr9507ih/xml/BILLS-117hr9507ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-12-13</actionDate>
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

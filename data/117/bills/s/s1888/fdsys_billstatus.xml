@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1888</number>
+    <updateDate>2022-12-31T13:59:55Z</updateDate>
+    <updateDateIncludingText>2022-12-31T13:59:55Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-05-27</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-27T16:35:35Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Law Enforcement Officers Equity Act</title>
+        <congress>117</congress>
+        <number>962</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-02-11</actionDate>
+          <text>Referred to the House Committee on Oversight and Reform.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-05-27</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-05-27</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <firstName>Rob</firstName>
+        <lastName>Portman</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001076</bioguideId>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Maggie</firstName>
+        <lastName>Hassan</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-01-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>Sherrod</firstName>
+        <lastName>Brown</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-03-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Cardin</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-04-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-07-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Criminal investigation, prosecution, interrogation</name>
+        </item>
+        <item>
+          <name>Customs enforcement</name>
+        </item>
+        <item>
+          <name>Department of Homeland Security</name>
+        </item>
+        <item>
+          <name>Department of Veterans Affairs</name>
+        </item>
+        <item>
+          <name>Department of the Treasury</name>
+        </item>
+        <item>
+          <name>Government employee pay, benefits, personnel management</name>
+        </item>
+        <item>
+          <name>Internal Revenue Service (IRS)</name>
+        </item>
+        <item>
+          <name>Law enforcement officers</name>
+        </item>
+        <item>
+          <name>Tax administration and collection, taxpayers</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Government Operations and Politics</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-27</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-07-26T18:04:33Z</updateDate>
+        <text>
+          <![CDATA[ <p><STRONG>Law Enforcement Officers Equity Act</STRONG></p> <p>This bill expands the definition of <i>law enforcement officer</i> under provisions of the Federal Employees Retirement System (FERS) and the Civil Service Retirement System (CSRS).</p> <p>Specifically, the bill expands the definition to include (1) federal employees whose duties encompass the investigation or apprehension of suspected or convicted criminals and who are authorized to carry a firearm; (2) Internal Revenue Service employees whose duties are primarily the collection of delinquent taxes and the securing of delinquent returns; (3) U.S. Postal Inspection Service employees; (4) Department of Veterans Affairs police officers; and (5) certain U.S. Customs and Border Protection employees who are seized-property specialists with duties relating to custody, management, and disposition of seized and forfeited property. </p> <p>The bill deems service performed by an incumbent law enforcement officer on or after the enactment date of this bill to be service performed as a law enforcement officer for retirement purposes. The past service of such incumbents shall be treated as service performed by a law enforcement officer for retirement purposes only if a written election is submitted to the Office of Personnel Management within five years after the enactment of this bill or before separation from government service, whichever is earlier. An incumbent who makes an election before the enactment of this bill may pay a deposit into the Civil Service Retirement and Disability Fund to cover prior service. </p> <p>A law enforcement officer shall not be subject to mandatory separation during the three-year period beginning on the enactment of this bill.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Law Enforcement Officers Equity Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Law Enforcement Officers Equity Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 5, United States Code, to include certain Federal positions within the definition of law enforcement officer for retirement purposes, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Law Enforcement Officers Equity Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-05-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1888is/xml/BILLS-117s1888is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-05-27</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>71</number>
+    <updateDate>2022-12-16T14:11:36Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:11:36Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-01-27</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-01-27T21:51:55Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Accountability Through Electronic Verification Act</title>
+        <congress>117</congress>
+        <number>2298</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-10-19</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-01-27</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-01-27</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>Charles</firstName>
+        <lastName>Grassley</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Inhofe</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <firstName>Marsha</firstName>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <firstName>Shelley</firstName>
+        <lastName>Capito</lastName>
+        <party>R</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <middleName>Moore</middleName>
+        <sponsorshipDate>2021-01-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000577</bioguideId>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Lee</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <lastName>Boozman</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001079</bioguideId>
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+        <firstName>Cindy</firstName>
+        <lastName>Hyde-Smith</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>H001079</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <firstName>John</firstName>
+        <lastName>Thune</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2021-01-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <firstName>Roger</firstName>
+        <lastName>Wicker</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2021-01-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000278</bioguideId>
+        <fullName>Sen. Tuberville, Tommy [R-AL]</fullName>
+        <firstName>Tommy</firstName>
+        <lastName>Tuberville</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>T000278</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-02-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-05-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Border security and unlawful immigration</name>
+        </item>
+        <item>
+          <name>Civil actions and liability</name>
+        </item>
+        <item>
+          <name>Computer security and identity theft</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Federal preemption</name>
+        </item>
+        <item>
+          <name>Foreign labor</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Internet and video services</name>
+        </item>
+        <item>
+          <name>Internet, web applications, social media</name>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+        </item>
+        <item>
+          <name>Rural conditions and development</name>
+        </item>
+        <item>
+          <name>Small business</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Immigration</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-01-27</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-04-22T18:55:17Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Accountability Through Electronic Verification Act</b></p> <p>This bill expands the E-Verify program by requiring all employers to use it and permanently reauthorizes the program. Currently, E-Verify use is voluntary for most employers, although some states mandate its use.</p> <p>All employers shall use E-Verify to confirm the identity and employment eligibility of all recruited, referred, or hired individuals, including current employees who were never verified under the program. Failure to use E-Verify shall create a rebuttable presumption that the employer is violating immigration law. </p> <p>U.S. Citizenship and Immigration Services shall generate weekly reports about individuals who have received a final nonconfirmation of employment eligibility. The Department of Homeland Security (DHS) shall use the report to enforce immigration laws.</p> <p>DHS shall establish a program to help certain small businesses verify employee eligibility. DHS shall also update E-Verify's design to help prevent and detect fraud and identity theft.</p> <p>The bill increases civil and criminal penalties for hiring unauthorized aliens. DHS shall debar repeat offenders and those criminally convicted from holding federal contracts, grants, or cooperative agreements.</p> <p>The Social Security Administration, Internal Revenue Service, Department of the Treasury, and DHS shall jointly establish a program to share information to help identify unauthorized aliens.</p> <p>The bill establishes the Employer Compliance Inspection Center within Homeland Security Investigations of U.S. Immigration and Customs Enforcement. The center's duties include processing I-9 employment eligibility verification forms and ensuring compliance with employment eligibility laws. </p> <p>DHS shall report to Congress on ways to simplify procedures relating to I-9 forms and on whether the I-9 process should be eliminated.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Accountability Through Electronic Verification Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Accountability Through Electronic Verification Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Accountability Through Electronic Verification Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to expand the use of E-Verify to hold employers accountable, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-01-27T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s71is/xml/BILLS-117s71is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-01-27</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

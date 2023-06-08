@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3021</number>
+    <updateDate>2022-12-30T07:48:47Z</updateDate>
+    <updateDateIncludingText>2022-12-30T07:48:47Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-10-20</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssas00</systemCode>
+        <name>Armed Services Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-10-20T16:47:47Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>COMFORT Act</title>
+        <congress>117</congress>
+        <number>5758</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-10-27</actionDate>
+          <text>Referred to the House Committee on Armed Services.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-10-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-10-20</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <firstName>Kyrsten</firstName>
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-10-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-06-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <firstName>Roger</firstName>
+        <lastName>Wicker</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2022-06-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <firstName>Kevin</firstName>
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-06-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-06-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <lastName>Boozman</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-06-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001198</bioguideId>
+        <fullName>Sen. Sullivan, Dan [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <lastName>Sullivan</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-07-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <firstName>Angus</firstName>
+        <lastName>King</lastName>
+        <party>I</party>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2022-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2022-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000174</bioguideId>
+        <fullName>Sen. Ossoff, Jon [D-GA]</fullName>
+        <firstName>Jon</firstName>
+        <lastName>Ossoff</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>O000174</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000145</bioguideId>
+        <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+        <firstName>Alex</firstName>
+        <lastName>Padilla</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000145</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000377</bioguideId>
+        <fullName>Sen. Kelly, Mark [D-AZ]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Kelly</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>K000377</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-09-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-09-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Health personnel</name>
+        </item>
+        <item>
+          <name>Mental health</name>
+        </item>
+        <item>
+          <name>Military medicine</name>
+        </item>
+        <item>
+          <name>Military personnel and dependents</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-10-20</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-12-08T17:31:23Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Comforting Our Military Families through On-base or Remote Treatment Act of 2021 or the COMFORT Act of 2021</strong></p> <p>This bill authorizes the Office of Military Family Readiness Policy within the Department of Defense (DOD) to coordinate programs and activities for the provision of nonmedical counseling services to military families through the DOD Military and Family Life Counseling Program. Under the bill, <em>nonmedical counseling services</em> means mental health care services that are nonclinical, short-term, and solution-focused to address topics related to personal growth, development, and positive functioning.</p> <p>The bill authorizes mental health professionals to provide non-medical counseling services regardless of where the provider or recipient is located so long as the provision of service is within the scope of the authorized duties of the provider. For purposes of the bill, <em>mental health professionals</em> include licensed or certified mental health professionals or members of the uniformed services, civilian DOD employees, or DOD contractors.<br> </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>COMFORT Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>COMFORT Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>COMFORT Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Comforting Our Military Families through On-base or Remote Treatment Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide non-medical counseling services for military families.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-10-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3021is/xml/BILLS-117s3021is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-20</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

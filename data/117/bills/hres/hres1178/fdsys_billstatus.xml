@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1178</number>
+    <updateDate>2022-12-29T17:33:54Z</updateDate>
+    <updateDateIncludingText>2022-12-29T17:33:54Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2022-06-15</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw12</systemCode>
+            <name>Highways and Transit Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2022-06-16T13:03:58Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-06-15T14:03:25Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-06-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw12</systemCode>
+            <name>Highways and Transit Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-06-15</actionDate>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-06-15</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-06-15</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C000754</bioguideId>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>COOPER</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>5</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>H001067</bioguideId>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Hudson</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>H001067</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2022-06-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000577</bioguideId>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <firstName>TIM</firstName>
+        <lastName>RYAN</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2022-06-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000190</bioguideId>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <firstName>Ralph</firstName>
+        <lastName>Norman</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-06-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001298</bioguideId>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <firstName>Don</firstName>
+        <lastName>Bacon</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-06-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000568</bioguideId>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <firstName>H.</firstName>
+        <lastName>Griffith</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>G000568</bioguideId>
+        </identifiers>
+        <middleName>Morgan</middleName>
+        <district>9</district>
+        <sponsorshipDate>2022-06-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000821</bioguideId>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <firstName>Bruce</firstName>
+        <lastName>Westerman</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>W000821</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2022-07-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Transportation and Public Works</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-06-15</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-09-30T18:41:13Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution expresses that the House of Representatives</p> <ul> <li>supports the designation of National Tire Safety Week;</li> <li>expresses strong support for the goals and ideals of National Tire Safety Week and efforts to reduce tire-related accidents, fatalities, and injuries; and</li> <li>encourages the people of the United States to participate in National Tire Safety Week events and activities and educate themselves and others on the importance of regularly inspecting and maintaining a vehicle's tires. </li></ul>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Expressing support for the designation of the week of June 27 through July 3, 2022, as "National Tire Safety Week" in the United States, and supporting the goals and ideals of National Tire Safety Week to educate American motorists about the importance of proper tire care and maintenance.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing support for the designation of the week of June 27 through July 3, 2022, as "National Tire Safety Week" in the United States, and supporting the goals and ideals of National Tire Safety Week to educate American motorists about the importance of proper tire care and maintenance.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for the designation of the week of June 27 through July 3, 2022, as "National Tire Safety Week" in the United States, and supporting the goals and ideals of National Tire Safety Week to educate American motorists about the importance of proper tire care and maintenance.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-06-15T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1178ih/xml/BILLS-117hres1178ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-06-16</actionDate>
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

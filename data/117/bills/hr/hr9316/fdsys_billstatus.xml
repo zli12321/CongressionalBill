@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>9316</number>
+    <updateDate>2022-12-29T13:48:54Z</updateDate>
+    <updateDateIncludingText>2022-12-29T13:48:54Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2022-11-16</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsba00</systemCode>
+        <name>Financial Services Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-11-16T15:01:05Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>250th Anniversary of the United States Marine Corps Commemorative Coin Act</title>
+        <congress>117</congress>
+        <number>5112</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2022-11-16</actionDate>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-11-16</actionDate>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-11-16</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-11-16</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001196</bioguideId>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <firstName>Seth</firstName>
+        <lastName>Moulton</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>E000071</bioguideId>
+        <fullName>Rep. Ellzey, Jake [R-TX-6]</fullName>
+        <firstName>Jake</firstName>
+        <lastName>Ellzey</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>E000071</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-11-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000479</bioguideId>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <firstName>Van</firstName>
+        <lastName>Taylor</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>T000479</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-11-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000615</bioguideId>
+        <fullName>Rep. Pence, Greg [R-IN-6]</fullName>
+        <firstName>Greg</firstName>
+        <lastName>Pence</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>P000615</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-11-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000588</bioguideId>
+        <fullName>Rep. Lamb, Conor [D-PA-17]</fullName>
+        <firstName>Conor</firstName>
+        <lastName>Lamb</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>L000588</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2022-11-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000574</bioguideId>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <firstName>Ruben</firstName>
+        <lastName>Gallego</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2022-11-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001204</bioguideId>
+        <fullName>Del. San Nicolas, Michael F. Q. [D-GU-At Large]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>San Nicolas</lastName>
+        <party>D</party>
+        <state>GU</state>
+        <identifiers>
+          <bioguideId>S001204</bioguideId>
+        </identifiers>
+        <middleName>F. Q.</middleName>
+        <district>0</district>
+        <sponsorshipDate>2022-11-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001301</bioguideId>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <firstName>Jack</firstName>
+        <lastName>Bergman</lastName>
+        <party>R</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>B001301</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-11-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Finance and Financial Sector</name>
+      </policyArea>
+    </subjects>
+    <title>250th Anniversary of the United States Marine Corps Commemorative Coin Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>250th Anniversary of the United States Marine Corps Commemorative Coin Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>250th Anniversary of the United States Marine Corps Commemorative Coin Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the Secretary of the Treasury to mint coins in commemoration of the 250th Anniversary of the United States Marine Corps, and to support programs at the Marine Corps Heritage Center.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-11-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr9316ih/xml/BILLS-117hr9316ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-11-16</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

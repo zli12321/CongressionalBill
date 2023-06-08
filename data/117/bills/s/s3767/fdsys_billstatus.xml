@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3767</number>
+    <updateDate>2022-12-29T22:33:33Z</updateDate>
+    <updateDateIncludingText>2022-12-29T22:33:33Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-03-07</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssev00</systemCode>
+        <name>Environment and Public Works Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Hearings by</name>
+            <date>2022-06-15T14:00:04Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2022-03-07T22:34:45Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Delaware River Basin Conservation Reauthorization Act of 2022</title>
+        <congress>117</congress>
+        <number>6949</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-06-16</actionDate>
+          <text>Subcommittee Hearings Held.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-06-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-03-07</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works. (Sponsor introductory remarks on measure: CR S1017; text: CR S1017)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-03-07</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C000174</bioguideId>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Carper</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-03-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2022-03-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-03-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-03-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000148</bioguideId>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <firstName>Charles</firstName>
+        <lastName>Schumer</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2022-03-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Aquatic ecology</name>
+        </item>
+        <item>
+          <name>Delaware</name>
+        </item>
+        <item>
+          <name>Economic development</name>
+        </item>
+        <item>
+          <name>Environmental assessment, monitoring, research</name>
+        </item>
+        <item>
+          <name>Floods and storm protection</name>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+        </item>
+        <item>
+          <name>Lakes and rivers</name>
+        </item>
+        <item>
+          <name>Land use and conservation</name>
+        </item>
+        <item>
+          <name>Marine and coastal resources, fisheries</name>
+        </item>
+        <item>
+          <name>New Jersey</name>
+        </item>
+        <item>
+          <name>New York State</name>
+        </item>
+        <item>
+          <name>Pennsylvania</name>
+        </item>
+        <item>
+          <name>Water quality</name>
+        </item>
+        <item>
+          <name>Water resources funding</name>
+        </item>
+        <item>
+          <name>Water use and supply</name>
+        </item>
+        <item>
+          <name>Watersheds</name>
+        </item>
+        <item>
+          <name>Wildlife conservation and habitat protection</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Water Resources Development</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-03-07</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-06-27T21:38:43Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Delaware River Basin Conservation Reauthorization Act of 2022</strong></p> <p>This bill reauthorizes the Delaware River Basin Restoration Program and increases the federal cost share for certain grant projects. </p> <p>Specifically, the bill extends the program through FY2030 and increases the federal cost share of a grant project that serves a small, rural, or disadvantaged community to 90% of the total cost of the project. However, the federal share may be increased to 100% of the project's total cost if the grant recipient is unable to pay, or would experience significant financial hardship if required to pay, the nonfederal share.</p> <p>The bill also repeals the prohibition on the use of program funds for the acquisition by the federal government of any interest in land.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Delaware River Basin Conservation Reauthorization Act of 2022</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Delaware River Basin Conservation Reauthorization Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Delaware River Basin Conservation Reauthorization Act of 2022</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Water Infrastructure Improvements for the Nation Act to reauthorize Delaware River Basin conservation programs, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-03-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3767is/xml/BILLS-117s3767is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-06-15</actionDate>
+      <text>Committee on Environment and Public Works. Hearings held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

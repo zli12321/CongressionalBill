@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3759</number>
+    <updateDate>2022-12-29T22:33:33Z</updateDate>
+    <updateDateIncludingText>2022-12-29T22:33:33Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-03-03</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>slin00</systemCode>
+        <name>Intelligence (Select) Committee</name>
+        <chamber>Senate</chamber>
+        <type>Select</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-03-03T20:39:43Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-03-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>slin00</systemCode>
+            <name>Intelligence (Select) Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Select Committee on Intelligence.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-03-03</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>H001089</bioguideId>
+        <fullName>Sen. Hawley, Josh [R-MO]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Hawley</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>H001089</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-03-03</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-09-16T15:04:56Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Afghanistan Vetting and Accountability Act of 2022</strong></p> <p>This bill requires the Department of Homeland Security to verify the personal and biometric information and conduct in-person vetting of each individual, other than a U.S. citizen or member of the Armed Forces, evacuated from Afghanistan during a specified time period. An individual who has not provided such information and undergone in-person vetting may not receive any federal means-tested public benefit.</p> <p>The bill also requires the Office of the Director of National Intelligence to declassify all intelligence products relating to the withdrawal of the Armed Forces from Afghanistan.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Afghanistan Vetting and Accountability Act of 2022</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Afghanistan Vetting and Accountability Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Afghanistan Vetting and Accountability Act of 2022</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require verification of the personal and biometric information of all individuals evacuated from Afghanistan and in-person interviews of such individuals, prohibit Afghan evacuees who do not provide such information or submit to such interviews from receiving Federal assistance, and require the declassification of intelligence related to the withdrawal of the United States Armed Forces from Afghanistan.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-03-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3759is/xml/BILLS-117s3759is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-03-03</actionDate>
+      <text>Read twice and referred to the Select Committee on Intelligence.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

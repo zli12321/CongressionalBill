@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>862</number>
+    <updateDate>2022-12-16T14:07:07Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:07:07Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-02-05</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 22 (Friday, February 5, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Ms. BLUNT ROCHESTER:H.R. 862.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, clause 3Article I, Section 8, clause 18[Page H469]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif18</systemCode>
+            <name>Environment and Climate Change Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-08T20:39:25Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-05T14:04:05Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-02-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif18</systemCode>
+            <name>Environment and Climate Change Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment and Climate Change.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-05</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-05</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-05</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001303</bioguideId>
+        <fullName>Rep. Blunt Rochester, Lisa [D-DE-At Large]</fullName>
+        <firstName>Lisa</firstName>
+        <lastName>Blunt Rochester</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <bioguideId>B001303</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-02-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001166</bioguideId>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <firstName>Jerry</firstName>
+        <lastName>McNerney</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-02-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-02-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000298</bioguideId>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <firstName>Pramila</firstName>
+        <lastName>Jayapal</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-02-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001163</bioguideId>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <firstName>Doris</firstName>
+        <lastName>Matsui</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+        </identifiers>
+        <middleName>O.</middleName>
+        <district>6</district>
+        <sponsorshipDate>2021-02-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001200</bioguideId>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <firstName>Darren</firstName>
+        <lastName>Soto</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000579</bioguideId>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <firstName>Alan</firstName>
+        <lastName>Lowenthal</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>47</district>
+        <sponsorshipDate>2022-02-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000582</bioguideId>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Lieu</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <district>33</district>
+        <sponsorshipDate>2022-02-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2022-02-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>Q000023</bioguideId>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Quigley</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-05-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Air quality</name>
+        </item>
+        <item>
+          <name>Climate change and greenhouse gases</name>
+        </item>
+        <item>
+          <name>Electric power generation and transmission</name>
+        </item>
+        <item>
+          <name>Energy efficiency and conservation</name>
+        </item>
+        <item>
+          <name>Energy storage, supplies, demand</name>
+        </item>
+        <item>
+          <name>Environmental assessment, monitoring, research</name>
+        </item>
+        <item>
+          <name>Environmental health</name>
+        </item>
+        <item>
+          <name>Environmental technology</name>
+        </item>
+        <item>
+          <name>Hazardous wastes and toxic substances</name>
+        </item>
+        <item>
+          <name>Hybrid, electric, and advanced technology vehicles</name>
+        </item>
+        <item>
+          <name>Labor standards</name>
+        </item>
+        <item>
+          <name>Lighting, heating, cooling</name>
+        </item>
+        <item>
+          <name>Marine and inland water transportation</name>
+        </item>
+        <item>
+          <name>Minority health</name>
+        </item>
+        <item>
+          <name>Motor carriers</name>
+        </item>
+        <item>
+          <name>Motor vehicles</name>
+        </item>
+        <item>
+          <name>Navigation, waterways, harbors</name>
+        </item>
+        <item>
+          <name>Racial and ethnic relations</name>
+        </item>
+        <item>
+          <name>Research administration and funding</name>
+        </item>
+        <item>
+          <name>Wages and earnings</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Energy</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-05</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-03-10T11:41:44Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Climate Action Planning for Ports Act of 2021</b></p> <p>This bill authorizes the Environmental Protection Agency to award grants for developing climate action plans to reduce greenhouse gas emissions or other air pollutants at ports or port facilities or implementing plans to reduce greenhouse gas emissions at one or more ports or port facilities. Climate action plans must demonstrate that the measures proposed to be implemented through the grants will do at least two of the following:</p> <ul> <li>improve energy efficiency at ports or port facilities,</li> <li>deploy technology or processes that reduce idling of vehicles at ports or port facilities, or </li> <li>reduce the direct emissions of greenhouse gases and other air pollutants with a goal of achieving zero emissions.</li> </ul>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Climate Action Planning for Ports Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Climate Action Planning for Ports Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Climate Action Planning for Ports Act of 2021</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To authorize the Administrator of the Environmental Protection Agency to award grants to eligible entities to reduce greenhouse gas emissions at ports, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-02-05T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr862ih/xml/BILLS-117hr862ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-08</actionDate>
+      <text>Referred to the Subcommittee on Environment and Climate Change.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

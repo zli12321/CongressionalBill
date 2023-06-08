@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1588</number>
+    <updateDate>2022-12-31T14:00:04Z</updateDate>
+    <updateDateIncludingText>2022-12-31T14:00:04Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-05-12</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssev00</systemCode>
+        <name>Environment and Public Works Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-12T20:14:20Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Captive Primate Safety Act</title>
+        <congress>117</congress>
+        <number>3135</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-29</actionDate>
+          <text>Subcommittee Hearings Held.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-05-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-05-12</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>Dianne</firstName>
+        <lastName>Feinstein</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-05-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>Edward</firstName>
+        <lastName>Markey</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2021-05-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000145</bioguideId>
+        <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+        <firstName>Alex</firstName>
+        <lastName>Padilla</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000145</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-06-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000122</bioguideId>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <firstName>John</firstName>
+        <lastName>Reed</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2021-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-09-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001042</bioguideId>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <lastName>Hirono</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2021-09-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2021-09-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>Susan</firstName>
+        <lastName>Collins</lastName>
+        <party>R</party>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2021-10-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Animal protection and human-animal relationships</name>
+        </item>
+        <item>
+          <name>Civil actions and liability</name>
+        </item>
+        <item>
+          <name>Crimes against animals and natural resources</name>
+        </item>
+        <item>
+          <name>Department of the Interior</name>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+        </item>
+        <item>
+          <name>Mammals</name>
+        </item>
+        <item>
+          <name>Trade restrictions</name>
+        </item>
+        <item>
+          <name>Wildlife conservation and habitat protection</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Animals</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-12</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-10-21T19:18:31Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Captive Primate Safety Act</b></p> <p>This bill limits the trade and possession of nonhuman primates. For example, the bill prohibits most individuals from owning a nonhuman primate as a pet.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Captive Primate Safety Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Captive Primate Safety Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Lacey Act Amendments of 1981 to prohibit importation, exportation, transportation, sale, receipt, acquisition, and purchase in interstate or foreign commerce, or in a manner substantially affecting interstate or foreign commerce, or possession, of any live animal of any prohibited primate species.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Captive Primate Safety Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-05-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1588is/xml/BILLS-117s1588is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-05-12</actionDate>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

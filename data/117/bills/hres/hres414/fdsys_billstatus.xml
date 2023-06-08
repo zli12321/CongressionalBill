@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>414</number>
+    <updateDate>2021-07-14T13:00:25Z</updateDate>
+    <updateDateIncludingText>2021-07-14T13:00:25Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-05-19</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsha00</systemCode>
+        <name>Committee on House Administration</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-19T14:00:30Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-05-19</actionDate>
+        <actionTime>18:22:24</actionTime>
+        <text>On motion to table the measure Agreed to by the Yeas and Nays: 218 - 210 (Roll no. 153). (text: CR H2591)</text>
+        <type>Floor</type>
+        <actionCode>H36510</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>153</rollNumber>
+            <url>https://clerk.house.gov/evs/2021/roll153.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2021-05-19T22:22:24Z</date>
+            <sessionNumber>1</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2021-05-19</actionDate>
+        <actionTime>17:43:37</actionTime>
+        <text>Mr. Hoyer moved to table the measure.</text>
+        <type>Floor</type>
+        <actionCode>H36500</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-05-19</actionDate>
+        <actionTime>17:40:29</actionTime>
+        <text>Considered as privileged matter. (consideration: CR H2591-2592)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-05-19</actionDate>
+        <text>Referred to the House Committee on House Administration.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-05-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-05-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001165</bioguideId>
+        <fullName>Rep. McCarthy, Kevin [R-CA-23]</fullName>
+        <firstName>Kevin</firstName>
+        <lastName>McCarthy</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>M001165</bioguideId>
+        </identifiers>
+        <district>23</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>W000815</bioguideId>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <firstName>Brad</firstName>
+        <lastName>Wenstrup</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>W000815</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001052</bioguideId>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <firstName>Andy</firstName>
+        <lastName>Harris</lastName>
+        <party>R</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Burgess</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <district>26</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000302</bioguideId>
+        <fullName>Rep. Joyce, John [R-PA-13]</fullName>
+        <firstName>John</firstName>
+        <lastName>Joyce</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>J000302</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001275</bioguideId>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <firstName>Larry</firstName>
+        <lastName>Bucshon</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001275</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001210</bioguideId>
+        <fullName>Rep. Murphy, Gregory [R-NC-3]</fullName>
+        <firstName>Gregory</firstName>
+        <lastName>Murphy</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>M001210</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000465</bioguideId>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <firstName>A.</firstName>
+        <lastName>Ferguson</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>F000465</bioguideId>
+        </identifiers>
+        <middleName>Drew</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001103</bioguideId>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <firstName>Earl</firstName>
+        <lastName>Carter</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+        </identifiers>
+        <middleName>L. "Buddy"</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000133</bioguideId>
+        <fullName>Rep. Van Drew, Jefferson [R-NJ-2]</fullName>
+        <firstName>Jefferson</firstName>
+        <lastName>Van Drew</lastName>
+        <party>R</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000304</bioguideId>
+        <fullName>Rep. Jackson, Ronny [R-TX-13]</fullName>
+        <firstName>Ronny</firstName>
+        <lastName>Jackson</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000304</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Babin</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <district>36</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000628</bioguideId>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <firstName>Neal</firstName>
+        <lastName>Dunn</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>D000628</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001215</bioguideId>
+        <fullName>Rep. Miller-Meeks, Mariannette [R-IA-2]</fullName>
+        <firstName>Mariannette</firstName>
+        <lastName>Miller-Meeks</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>M001215</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001086</bioguideId>
+        <fullName>Rep. Harshbarger, Diana [R-TN-1]</fullName>
+        <firstName>Diana</firstName>
+        <lastName>Harshbarger</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>H001086</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000590</bioguideId>
+        <fullName>Rep. Green, Mark E. [R-TN-7]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Green</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>G000590</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000616</bioguideId>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>DesJarlais</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>D000616</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <firstName>Paul</firstName>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001148</bioguideId>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <firstName>MICHAEL</firstName>
+        <lastName>SIMPSON</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>S001148</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Congressional officers and employees</name>
+        </item>
+        <item>
+          <name>Congressional operations and organization</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Government buildings, facilities, and property</name>
+        </item>
+        <item>
+          <name>Health promotion and preventive care</name>
+        </item>
+        <item>
+          <name>Health technology, devices, supplies</name>
+        </item>
+        <item>
+          <name>House of Representatives</name>
+        </item>
+        <item>
+          <name>Immunology and vaccination</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Members of Congress</name>
+        </item>
+        <item>
+          <name>U.S. Capitol</name>
+        </item>
+        <item>
+          <name>Worker safety and health</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Congress</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-19</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-07-14T12:57:19Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution directs the Office of the Attending Physician to update the mask-wearing guidance (consistent with public guidance released by the Centers for Disease Control and Prevention) applicable to the Hall of the House of Representatives and committee meeting spaces for Members and staff who are vaccinated against COVID-19.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Directing the Attending Physician to take timely action to provide updated mask wearing guidance applicable to the Hall of the House of Representatives and committee meeting spaces for Members and staff who are vaccinated against Covid-19, consistent with the public guidance released by the Centers for Disease Control and Prevention on May 13, 2021.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Directing the Attending Physician to take timely action to provide updated mask wearing guidance applicable to the Hall of the House of Representatives and committee meeting spaces for Members and staff who are vaccinated against Covid-19, consistent with the public guidance released by the Centers for Disease Control and Prevention on May 13, 2021.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Directing the Attending Physician to take timely action to provide updated mask wearing guidance applicable to the Hall of the House of Representatives and committee meeting spaces for Members and staff who are vaccinated against Covid-19, consistent with the public guidance released by the Centers for Disease Control and Prevention on May 13, 2021.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Laid on Table in House</type>
+        <date>2021-05-19T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres414lth/xml/BILLS-117hres414lth.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-05-19</actionDate>
+      <text>On motion to table the measure Agreed to by the Yeas and Nays: 218 - 210 (Roll no. 153). (text: CR H2591)</text>
+      <actionTime>18:22:24</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

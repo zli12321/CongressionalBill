@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>85</number>
+    <updateDate>2022-12-16T14:09:25Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:09:25Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-01-28</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-01-28T18:08:03Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>SALT Deductibility Act</title>
+        <congress>117</congress>
+        <number>613</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-01-28</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>SALT Fairness Act of 2021</title>
+        <congress>117</congress>
+        <number>202</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-01-05</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-01-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (text: CR S200)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-01-28</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S000148</bioguideId>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <firstName>Charles</firstName>
+        <lastName>Schumer</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>Ron</firstName>
+        <lastName>Wyden</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Durbin</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000622</bioguideId>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <firstName>Tammy</firstName>
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-02-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Cardin</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-02-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000174</bioguideId>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <firstName>Patrick</firstName>
+        <lastName>Leahy</lastName>
+        <party>D</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-02-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2021-02-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000128</bioguideId>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-02-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>Dianne</firstName>
+        <lastName>Feinstein</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-02-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Income tax deductions</name>
+        </item>
+        <item>
+          <name>Property tax</name>
+        </item>
+        <item>
+          <name>Sales and excise taxes</name>
+        </item>
+        <item>
+          <name>State and local taxation</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Taxation</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-01-28</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-03-11T20:16:14Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Securing Access to Lower Taxes by ensuring Deductibility Act or the SALT Deductibility Act</b></p> <p>This bill repeals the temporary restrictions in taxable years 2018 through 2025 on the deductibility of state and local taxes.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Securing Access to Lower Taxes by ensuring Deductibility Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Securing Access to Lower Taxes by ensuring Deductibility Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Securing Access to Lower Taxes by ensuring Deductibility Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>SALT Deductibility Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to repeal the limitation on the deduction for certain taxes, including State and local property and income taxes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-01-28T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s85is/xml/BILLS-117s85is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-01-28</actionDate>
+      <text>Read twice and referred to the Committee on Finance. (text: CR S200)</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

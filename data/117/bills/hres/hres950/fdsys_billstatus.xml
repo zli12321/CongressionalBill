@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>950</number>
+    <updateDate>2022-12-30T04:33:52Z</updateDate>
+    <updateDateIncludingText>2022-12-30T04:33:52Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2022-02-28</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsru00</systemCode>
+        <name>Rules Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported original measure</name>
+            <date>2022-02-28T23:10:31Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 117-253</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <title>Honoring our PACT Act of 2022</title>
+        <congress>117</congress>
+        <number>3967</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-06-16</actionDate>
+          <text>Message on Senate action sent to the House.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-03-01</actionDate>
+        <actionTime>14:41:03</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-01</actionDate>
+        <actionTime>14:41:01</actionTime>
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 200 (Roll no. 50). (text: CR H1187)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>50</rollNumber>
+            <url>https://clerk.house.gov/evs/2022/roll050.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2022-03-01T19:41:01Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-03-01</actionDate>
+        <actionTime>14:41:01</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 200 (Roll no. 50).(text: CR H1187)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>50</rollNumber>
+            <url>https://clerk.house.gov/evs/2022/roll050.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2022-03-01T19:41:01Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-03-01</actionDate>
+        <actionTime>14:21:14</actionTime>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 221 - 202 (Roll no. 49). (consideration: CR H1198)</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>49</rollNumber>
+            <url>https://clerk.house.gov/evs/2022/roll049.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2022-03-01T19:21:14Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-03-01</actionDate>
+        <actionTime>12:25:22</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 950.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-01</actionDate>
+        <actionTime>12:23:10</actionTime>
+        <text>Considered as privileged matter. (consideration: CR H1187-1199)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-02-28</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 66.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>H00066</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2022-02-28</actionDate>
+        <actionTime>18:10:32</actionTime>
+        <text>An amendment in the nature of a substitute consisting of the text of Rules Committee Print 117-33, modified by the amendment printed in Part A of the report is considered as adopted.</text>
+        <type>Floor</type>
+        <actionCode>H12700</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-02-28</actionDate>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 117-253, by Mr. McGovern.</text>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-02-28</actionDate>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 117-253, by Mr. McGovern.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-02-28</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>2</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>House of Representatives</name>
+        </item>
+        <item>
+          <name>Legislative rules and procedure</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Congress</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-02-28</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-03-01T09:02:43Z</updateDate>
+        <text>
+          <![CDATA[Sets forth the rule for consideration of the bill (H.R. 3967) to improve health care and benefits for veterans exposed to toxic substances.]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>07</versionCode>
+        <actionDate>2022-02-28</actionDate>
+        <actionDesc>Reported to House</actionDesc>
+        <updateDate>2022-10-27T01:29:50Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution provides for consideration of H.R. 3967 (addressing health care and benefits for veterans exposed to toxic substances).</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>53</versionCode>
+        <actionDate>2022-03-01</actionDate>
+        <actionDesc>Passed House</actionDesc>
+        <updateDate>2022-12-22T15:28:21Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution provides for consideration of H.R. 3967 (addressing health care and benefits for veterans exposed to toxic substances).</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Providing for consideration of the bill (H.R. 3967) to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Providing for consideration of the bill (H.R. 3967) to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the bill (H.R. 3967) to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.</title>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the bill (H.R. 3967) to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.</title>
+        <billTextVersionName>Reported in House</billTextVersionName>
+        <billTextVersionCode>RH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for consideration of the bill (H.R. 3967) to improve health care and benefits for veterans exposed to toxic substances, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2022-03-01T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres950eh/xml/BILLS-117hres950eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <date>2022-02-28T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres950rh/xml/BILLS-117hres950rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-03-01</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>14:41:03</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

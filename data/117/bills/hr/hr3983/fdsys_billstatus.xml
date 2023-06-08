@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3983</number>
+    <updateDate>2022-12-30T17:47:40Z</updateDate>
+    <updateDateIncludingText>2022-12-30T17:47:40Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-06-17</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 106 (Thursday, June 17, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. CAWTHORN:H.R. 3983.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2929]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2022-11-01T16:04:17Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-06-17T13:07:50Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsed00</systemCode>
+        <name>Education and Labor Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-06-17T13:08:00Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-11-01</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-06-17</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Labor Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-06-17</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Labor, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-06-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-06-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001104</bioguideId>
+        <fullName>Rep. Cawthorn, Madison [R-NC-11]</fullName>
+        <firstName>Madison</firstName>
+        <lastName>Cawthorn</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>C001104</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>T000165</bioguideId>
+        <fullName>Rep. Tiffany, Thomas P. [R-WI-7]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Tiffany</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>T000165</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-06-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001214</bioguideId>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <firstName>W.</firstName>
+        <lastName>Steube</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001214</bioguideId>
+        </identifiers>
+        <middleName>Gregory</middleName>
+        <district>17</district>
+        <sponsorshipDate>2021-06-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001084</bioguideId>
+        <fullName>Rep. Herrell, Yvette [R-NM-2]</fullName>
+        <firstName>Yvette</firstName>
+        <lastName>Herrell</lastName>
+        <party>R</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>H001084</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-06-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <sponsorshipDate>2021-06-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Immigration</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-06-17</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-01-22T01:31:17Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Responsible Practical Training Act of 2021</strong></p> <p>This bill imposes limits on the Optional Practical Training program and addresses related issues. (The program provides an F-1 student visa holder temporary employment authorization before or after completion of the student's studies, or both. Currently, an eligible alien may receive up to 12 months of employment authorization under the program, with a 24-month extension available to certain individuals with degrees in certain fields related to science, technology, engineering, or math.)</p> <p>Specifically, the bill requires the Department of Homeland Security to issue regulations to (1) limit the program to six months and eliminate any extensions; and (2) exclude from the program any alien with a degree or working in a sensitive field, such as military-related fields. </p> <p>The Department of Labor must conduct a wage analysis of the Optional Practical Training program and Curricular Practical Training program. The analysis must include a determination as to whether the aliens in the programs received wages appropriate for the type and location of employment.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Responsible Practical Training Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Responsible Practical Training Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Secretary of Homeland Security to issue regulations with respect to the optional practical training program, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Responsible Practical Training Act of 2021</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-06-17T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr3983ih/xml/BILLS-117hr3983ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-11-01</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

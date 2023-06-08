@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2456</number>
+    <updateDate>2022-12-30T10:18:47Z</updateDate>
+    <updateDateIncludingText>2022-12-30T10:18:47Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-07-22</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-22T18:59:13Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Expanding Broadcast Ownership Opportunities Act of 2021</title>
+        <congress>117</congress>
+        <number>4871</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-08-02</actionDate>
+          <text>Referred to the Subcommittee on Communications and Technology.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000174</bioguideId>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <firstName>Patrick</firstName>
+        <lastName>Leahy</lastName>
+        <party>D</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-09-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>Tammy</firstName>
+        <lastName>Baldwin</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-09-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000570</bioguideId>
+        <fullName>Sen. Lujan, Ben Ray [D-NM]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Lujan</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2021-09-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <firstName>Debbie</firstName>
+        <lastName>Stabenow</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-10-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Schatz</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-10-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-03-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-03-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Science, Technology, Communications</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-22</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-08-29T18:20:34Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Broadcast Varied Ownership Incentives for Community Expanded Service Act or the Broadcast VOICES Act </b></p> <p>This bill requires the Federal Communications Commission (FCC) to take certain actions to increase diversity of ownership in the broadcasting industry and establishes related tax incentives. </p> <p>Specifically, the bill requires the FCC to report to Congress regarding (1) recommendations for increasing the total number, and the value, of broadcast stations that are owned by socially disadvantaged individuals; (2) the total number of broadcast stations that are owned by socially disadvantaged individuals; and (3) whether there is a nexus between diversity of ownership or control of broadcast stations and the diversity of the viewpoints expressed on the stations.</p> <p>In addition, the bill allows companies engaged in the qualifying sale of a broadcast station to receive favorable tax treatment by electing nonrecognition of the gain or loss resulting from the sale. To qualify for this treatment, the sale must result in or preserve ownership of a broadcast station by socially disadvantaged individuals.</p> <p>Finally, the establishes a tax credit for certain contributions toward the training of socially disadvantaged individuals in the management and operation of broadcast stations. </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Broadcast VOICES Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Broadcast VOICES Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Broadcast VOICES Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Broadcast Varied Ownership Incentives for Community Expanded Service Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to direct the Federal Communications Commission to take certain actions to increase diversity of ownership in the broadcasting industry, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-07-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2456is/xml/BILLS-117s2456is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-22</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

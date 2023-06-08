@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>447</number>
+    <updateDate>2022-12-16T14:11:35Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:11:35Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-02-25</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-25T17:59:02Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-02-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-02-25</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Charitable contributions</name>
+        </item>
+        <item>
+          <name>Elementary and secondary education</name>
+        </item>
+        <item>
+          <name>Income tax credits</name>
+        </item>
+        <item>
+          <name>Sales and excise taxes</name>
+        </item>
+        <item>
+          <name>Social work, volunteer service, charitable organizations</name>
+        </item>
+        <item>
+          <name>Student aid and college costs</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Taxation</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-25</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-03-29T16:55:19Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Educational Opportunities Act </b></p> <p>This bill allows individual taxpayers a tax credit for charitable contributions to a scholarship granting organization. The bill allows a maximum credit amount of $4,500 ($2,250 for a married individual filing a separate return). A <i>scholarship granting organization</i> is a tax-exempt entity whose exclusive purpose is to provide scholarships for the tuition and other education expenses of elementary and secondary school students from low-income households (i.e., household income not exceeding 250% of federal poverty guidelines).</p> <p>The bill allows corporate taxpayers a tax credit, up to $100,000, for contributions to a scholarship granting organization. It also imposes a penalty on scholarship granting organizations that fail to distribute at least 90% of their total receipts for elementary and secondary school expenses in a taxable year.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Educational Opportunities Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Educational Opportunities Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Educational Opportunities Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to allow a credit against tax for qualified elementary and secondary education tuition.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-02-25T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s447is/xml/BILLS-117s447is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-25</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

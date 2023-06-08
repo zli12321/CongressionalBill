@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>950</number>
+    <updateDate>2022-12-31T08:01:05Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:01:05Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-03-24</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-24T19:41:33Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>No Budget, No Pay Act</title>
+        <congress>117</congress>
+        <number>2765</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-09-21</actionDate>
+          <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001310</bioguideId>
+        <fullName>Sen. Braun, Mike [R-IN]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Braun</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joseph</firstName>
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001217</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <firstName>John</firstName>
+        <lastName>Barrasso</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Burr</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <middleName>Mauze</middleName>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <firstName>Shelley</firstName>
+        <lastName>Capito</lastName>
+        <party>R</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <middleName>Moore</middleName>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001076</bioguideId>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Maggie</firstName>
+        <lastName>Hassan</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <firstName>Kyrsten</firstName>
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Appropriations</name>
+        </item>
+        <item>
+          <name>Budget process</name>
+        </item>
+        <item>
+          <name>Government employee pay, benefits, personnel management</name>
+        </item>
+        <item>
+          <name>Legislative rules and procedure</name>
+        </item>
+        <item>
+          <name>Members of Congress</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Congress</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-24</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-04-30T14:18:42Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>No Budget, No Pay Act</b></p> <p>This bill prohibits Members of Congress from being paid in a fiscal year until both chambers approve the budget resolution and pass all regular appropriations bills for that fiscal year. Retroactive pay is prohibited for such a period.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>No Budget, No Pay Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>No Budget, No Pay Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>No Budget, No Pay Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide that Members of Congress may not receive pay after October 1 of any fiscal year in which Congress has not approved a concurrent resolution on the budget and passed the regular appropriations bills.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-03-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s950is/xml/BILLS-117s950is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-24</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>551</number>
+    <updateDate>2022-12-30T10:04:11Z</updateDate>
+    <updateDateIncludingText>2022-12-30T10:04:11Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-07-22</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsas00</systemCode>
+        <name>Armed Services Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-22T13:06:35Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>A resolution designating August 1, 2021, as "Gold Star Children's Day".</title>
+        <congress>117</congress>
+        <number>328</number>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2021-07-29</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5192-5193; text: CR S5180-5181)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>A resolution designating August 1, 2022, as "Gold Star Children's Day".</title>
+        <congress>117</congress>
+        <number>751</number>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2022-09-06</actionDate>
+          <text>Referred to the Committee on the Judiciary. (text: CR S4442)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000616</bioguideId>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+        <firstName>Dean</firstName>
+        <lastName>Phillips</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>P000616</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>K000397</bioguideId>
+        <fullName>Rep. Kim, Young [R-CA-39]</fullName>
+        <firstName>Young</firstName>
+        <lastName>Kim</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>K000397</bioguideId>
+        </identifiers>
+        <district>39</district>
+        <sponsorshipDate>2021-07-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000577</bioguideId>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <firstName>TIM</firstName>
+        <lastName>RYAN</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-07-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000388</bioguideId>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <firstName>Trent</firstName>
+        <lastName>Kelly</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>K000388</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-07-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000462</bioguideId>
+        <fullName>Rep. Frankel, Lois [D-FL-21]</fullName>
+        <firstName>Lois</firstName>
+        <lastName>Frankel</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>F000462</bioguideId>
+        </identifiers>
+        <district>21</district>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001088</bioguideId>
+        <fullName>Rep. Hagedorn, Jim [R-MN-1]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Hagedorn</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>H001088</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000378</bioguideId>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <firstName>Cynthia</firstName>
+        <lastName>Axne</lastName>
+        <party>D</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>A000378</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000168</bioguideId>
+        <fullName>Rep. Salazar, Maria Elvira [R-FL-27]</fullName>
+        <firstName>Maria</firstName>
+        <lastName>Salazar</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S000168</bioguideId>
+        </identifiers>
+        <middleName>Elvira</middleName>
+        <district>27</district>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001160</bioguideId>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <firstName>Gwen</firstName>
+        <lastName>Moore</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raúl M. [D-AZ-3]</fullName>
+        <firstName>Raúl</firstName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001286</bioguideId>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <firstName>Cheri</firstName>
+        <lastName>Bustos</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000581</bioguideId>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <firstName>Vicente</firstName>
+        <lastName>Gonzalez</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000581</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000823</bioguideId>
+        <fullName>Rep. Waltz, Michael [R-FL-6]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Waltz</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000823</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000795</bioguideId>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <firstName>Joe</firstName>
+        <lastName>Wilson</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000601</bioguideId>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <firstName>Steven</firstName>
+        <lastName>Palazzo</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>P000601</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000582</bioguideId>
+        <fullName>Resident Commissioner González-Colón, Jenniffer [R-PR-At Large]</fullName>
+        <firstName>Jenniffer</firstName>
+        <lastName>Gonzalez-Colon</lastName>
+        <party>R</party>
+        <state>PR</state>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2021-07-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000590</bioguideId>
+        <fullName>Rep. Green, Mark E. [R-TN-7]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Green</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>G000590</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-07-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000582</bioguideId>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Lieu</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <district>33</district>
+        <sponsorshipDate>2021-07-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-07-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000479</bioguideId>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <firstName>Van</firstName>
+        <lastName>Taylor</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>T000479</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-08-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000468</bioguideId>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <firstName>Dina</firstName>
+        <lastName>Titus</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-08-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000614</bioguideId>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Pappas</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>P000614</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-08-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001195</bioguideId>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <firstName>Alexander</firstName>
+        <lastName>Mooney</lastName>
+        <party>R</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+        <middleName>X.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-06-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Commemorative events and holidays</name>
+        </item>
+        <item>
+          <name>Conflicts and wars</name>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>Military operations and strategy</name>
+        </item>
+        <item>
+          <name>Military personnel and dependents</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-22</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-09-02T21:05:24Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution supports the designation of Gold Star Children's Day to honor the sacrifices and hardships of the children of fallen service members.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Expressing support for the designation of August 1, 2021, as "Gold Star Children's Day".</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing support for the designation of August 1, 2021, as "Gold Star Children's Day".</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for the designation of August 1, 2021, as "Gold Star Children's Day".</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-07-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres551ih/xml/BILLS-117hres551ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-22</actionDate>
+      <text>Referred to the House Committee on Armed Services.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>195</number>
+    <updateDate>2022-12-31T11:28:45Z</updateDate>
+    <updateDateIncludingText>2022-12-31T11:28:45Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>SRES</type>
+    <introducedDate>2021-04-29</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssev00</systemCode>
+        <name>Environment and Public Works Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged from</name>
+            <date>2021-05-28T16:26:54Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-04-29T20:35:13Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-05-28</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote. (text: CR S3930)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2021-05-28</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote.(text: CR S3930)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-05-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S3930)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2021-05-28</actionDate>
+        <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.(consideration: CR S3930)</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-04-29</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Environment and Public Works. (text: CR S2367-2368)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-04-29</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Inhofe</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>L000575</bioguideId>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <firstName>James</firstName>
+        <lastName>Lankford</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-04-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <lastName>Boozman</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-04-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-04-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Arkansas</name>
+        </item>
+        <item>
+          <name>Commemorative events and holidays</name>
+        </item>
+        <item>
+          <name>Lakes and rivers</name>
+        </item>
+        <item>
+          <name>Marine and inland water transportation</name>
+        </item>
+        <item>
+          <name>Navigation, waterways, harbors</name>
+        </item>
+        <item>
+          <name>Oklahoma</name>
+        </item>
+        <item>
+          <name>Water Resources Development</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Transportation and Public Works</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-04-29</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-06-01T14:18:54Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution recognizes the 50th anniversary of the McClellan-Kerr Arkansas River Navigation System.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>55</versionCode>
+        <actionDate>2021-05-28</actionDate>
+        <actionDesc>Passed Senate</actionDesc>
+        <updateDate>2021-08-17T17:11:38Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution recognizes the 50th anniversary of the McClellan-Kerr Arkansas River Navigation System.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>A resolution recognizing the 50th anniversary of the McClellan-Kerr Arkansas River Navigation System.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A resolution recognizing the 50th anniversary of the McClellan-Kerr Arkansas River Navigation System.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution recognizing the 50th anniversary of the McClellan-Kerr Arkansas River Navigation System.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>2108</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To amend the preamble.</purpose>
+        <updateDate>2022-02-09T06:12:17Z</updateDate>
+        <number>2108</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To amend the preamble.</purpose>
+        <updateDate>2021-07-09T13:30:21Z</updateDate>
+        <latestAction>
+          <actionDate>2021-05-28</actionDate>
+          <text>Amendment SA 2108 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 2108</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/2108</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>I000024</bioguideId>
+            <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+            <firstName>Jim</firstName>
+            <lastName>Inhofe</lastName>
+            <party>R</party>
+            <state>OK</state>
+            <identifiers>
+              <bioguideId>I000024</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <proposedDate>2021-05-28T16:27:12Z</proposedDate>
+        <submittedDate>2021-05-28T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>SRES</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>195</number>
+          <title>A resolution recognizing the 50th anniversary of the McClellan-Kerr Arkansas River Navigation System.</title>
+          <updateDateIncludingText>2022-12-31T11:28:45Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2021-05-28</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2108 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2021-05-28</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 2108 proposed by Senator Schumer for Senator Inhofe. (consideration: CR S3930; text: CR S3930) To amend the preamble.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2021-05-28</actionDate>
+            </item>
+            <item>
+              <actionDate>2021-05-28</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2021-05-28</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 2108 proposed by Senator Schumer for Senator Inhofe.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2021-05-28</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 2108 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2021-05-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sres195ats/xml/BILLS-117sres195ats.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-04-29T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sres195is/xml/BILLS-117sres195is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-05-28</actionDate>
+      <text>Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote. (text: CR S3930)</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>4123</number>
+    <updateDate>2022-12-29T16:33:53Z</updateDate>
+    <updateDateIncludingText>2022-12-29T16:33:53Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-05-02</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-05-02T20:37:47Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-05-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-05-02</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>O000174</bioguideId>
+        <fullName>Sen. Ossoff, Jon [D-GA]</fullName>
+        <firstName>Jon</firstName>
+        <lastName>Ossoff</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>O000174</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Science, Technology, Communications</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-05-02</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-05-19T14:24:29Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Enhancing Satellite Cybersecurity Act</strong></p> <p>This bill addresses cybersecurity matters related to commercial satellite systems that are owned or controlled by foreign entities or that have physical structures in foreign countries.</p> <p>Specifically, the Cybersecurity and Infrastructure Security Agency must consolidate voluntary recommendations for the development, maintenance, and operation of commercial satellite systems. The recommendations must include measures to protect systems against cyber-related vulnerabilities posed by foreign ownership or physical infrastructure that is located in foreign countries. </p> <p>The bill also requires the Government Accountability Office to study and report on federal actions to support the cybersecurity of commercial satellite systems. In particular, the report must address the extent to which federal agencies rely on foreign systems or systems with physical structures in foreign countries.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Enhancing Satellite Cybersecurity Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Enhancing Satellite Cybersecurity Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Enhancing Satellite Cybersecurity Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require a report on Federal support of the cybersecurity of commercial satellite systems, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-05-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s4123is/xml/BILLS-117s4123is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-05-02</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

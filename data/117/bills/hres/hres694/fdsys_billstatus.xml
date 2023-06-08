@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>694</number>
+    <updateDate>2022-12-30T11:33:13Z</updateDate>
+    <updateDateIncludingText>2022-12-30T11:33:13Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-09-30</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-09-30T14:03:30Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-09-30</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-09-30</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-09-30</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>N000190</bioguideId>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <firstName>Ralph</firstName>
+        <lastName>Norman</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001215</bioguideId>
+        <fullName>Rep. Miller-Meeks, Mariannette [R-IA-2]</fullName>
+        <firstName>Mariannette</firstName>
+        <lastName>Miller-Meeks</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>M001215</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000740</bioguideId>
+        <fullName>Rep. Bice, Stephanie I. [R-OK-5]</fullName>
+        <firstName>Stephanie</firstName>
+        <lastName>Bice</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>B000740</bioguideId>
+        </identifiers>
+        <middleName>I.</middleName>
+        <district>5</district>
+        <sponsorshipDate>2021-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001211</bioguideId>
+        <fullName>Rep. Miller, Mary E. [R-IL-15]</fullName>
+        <firstName>Mary</firstName>
+        <lastName>Miller</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>M001211</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>15</district>
+        <sponsorshipDate>2021-10-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000600</bioguideId>
+        <fullName>Del. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <firstName>Aumua Amata</firstName>
+        <lastName>Radewagen</lastName>
+        <party>R</party>
+        <state>AS</state>
+        <identifiers>
+          <bioguideId>R000600</bioguideId>
+        </identifiers>
+        <middleName>Coleman</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-10-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000871</bioguideId>
+        <fullName>Rep. Mann, Tracey [R-KS-1]</fullName>
+        <firstName>Tracey</firstName>
+        <lastName>Mann</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>M000871</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Babin</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <district>36</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000615</bioguideId>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <firstName>Jeff</firstName>
+        <lastName>Duncan</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001084</bioguideId>
+        <fullName>Rep. Herrell, Yvette [R-NM-2]</fullName>
+        <firstName>Yvette</firstName>
+        <lastName>Herrell</lastName>
+        <party>R</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>H001084</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Burgess</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <district>26</district>
+        <sponsorshipDate>2021-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <firstName>Paul</firstName>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000583</bioguideId>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <firstName>Barry</firstName>
+        <lastName>Loudermilk</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>L000583</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2021-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000795</bioguideId>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <firstName>Joe</firstName>
+        <lastName>Wilson</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000446</bioguideId>
+        <fullName>Rep. Feenstra, Randy [R-IA-4]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Feenstra</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>F000446</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000480</bioguideId>
+        <fullName>Rep. Timmons, William R. IV [R-SC-4]</fullName>
+        <firstName>William</firstName>
+        <lastName>Timmons</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>T000480</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-09-30</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-10-19T16:01:37Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution condemns any actions taken by any terrorist organization or government in Afghanistan to oppress women and girls. It also demands that the Taliban preserve and advance the rights and freedoms of all women and girls.</p> ]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Condemning the inhumane treatment and human rights abuses toward women and girls in Afghanistan by Taliban forces through their strict interpretation of Sharia law.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Condemning the inhumane treatment and human rights abuses toward women and girls in Afghanistan by Taliban forces through their strict interpretation of Sharia law.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Condemning the inhumane treatment and human rights abuses toward women and girls in Afghanistan by Taliban forces through their strict interpretation of Sharia law.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-09-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres694ih/xml/BILLS-117hres694ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-09-30</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

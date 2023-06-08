@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>467</number>
+    <updateDate>2022-12-30T03:33:59Z</updateDate>
+    <updateDateIncludingText>2022-12-30T03:33:59Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>SRES</type>
+    <introducedDate>2021-12-02</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sscm00</systemCode>
+        <name>Commerce, Science, and Transportation Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged from</name>
+            <date>2022-02-10T20:29:09Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-12-03T01:20:09Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Recognizing the contributions made by the 305-meter radio telescope at the Arecibo Observatory.</title>
+        <congress>117</congress>
+        <number>827</number>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2021-12-01</actionDate>
+          <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-02-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S650)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-02-10</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent.(text: CR S650)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-02-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S650)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-02-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2022-02-10</actionDate>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-12-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Commerce, Science, and Transportation. (text: CR S8914)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-12-02</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2021-12-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>Edward</firstName>
+        <lastName>Markey</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2021-12-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001217</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <firstName>Kyrsten</firstName>
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-01-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2022-01-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Astronomy</name>
+        </item>
+        <item>
+          <name>Caribbean area</name>
+        </item>
+        <item>
+          <name>Puerto Rico</name>
+        </item>
+        <item>
+          <name>Space flight and exploration</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Science, Technology, Communications</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-12-02</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-03-01T18:54:49Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution acknowledges the collapse of the radio telescope at the Arecibo Observatory in Puerto Rico and encourages federal agencies to study means of replacing the observatory's lost scientific capabilities.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>55</versionCode>
+        <actionDate>2022-02-10</actionDate>
+        <actionDesc>Passed Senate</actionDesc>
+        <updateDate>2022-03-01T19:31:58Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution acknowledges the collapse of the radio telescope at the Arecibo Observatory in Puerto Rico and encourages federal agencies to study means of replacing the observatory's lost scientific capabilities.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>A resolution recognizing the contributions made by the 305-meter radio telescope at the Arecibo Observatory.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A resolution recognizing the contributions made by the 305-meter radio telescope at the Arecibo Observatory.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution recognizing the contributions made by the 305-meter radio telescope at the Arecibo Observatory.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>4925</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To amend the preamble.</purpose>
+        <updateDate>2022-02-11T16:46:15Z</updateDate>
+        <number>4925</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To amend the preamble.</purpose>
+        <updateDate>2022-02-11T16:46:15Z</updateDate>
+        <latestAction>
+          <actionDate>2022-02-10</actionDate>
+          <text>Amendment SA 4925 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 4925</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4925</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>B001277</bioguideId>
+            <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+            <firstName>Richard</firstName>
+            <lastName>Blumenthal</lastName>
+            <party>D</party>
+            <state>CT</state>
+            <identifiers>
+              <bioguideId>B001277</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <proposedDate>2022-02-10T05:00:00Z</proposedDate>
+        <submittedDate>2022-02-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>SRES</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>467</number>
+          <title>A resolution recognizing the contributions made by the 305-meter radio telescope at the Arecibo Observatory.</title>
+          <updateDateIncludingText>2022-12-30T03:33:59Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4925 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4925 proposed by Senator Durbin for Senator Blumenthal. (consideration: CR S650; text: CR S650) To amend the preamble.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 4925 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4925 proposed by Senator Durbin for Senator Blumenthal.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4924</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To amend the resolution.</purpose>
+        <updateDate>2022-02-11T16:46:15Z</updateDate>
+        <number>4924</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To amend the resolution.</purpose>
+        <updateDate>2022-02-11T16:46:15Z</updateDate>
+        <latestAction>
+          <actionDate>2022-02-10</actionDate>
+          <text>Amendment SA 4924 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 4924</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4924</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>B001277</bioguideId>
+            <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+            <firstName>Richard</firstName>
+            <lastName>Blumenthal</lastName>
+            <party>D</party>
+            <state>CT</state>
+            <identifiers>
+              <bioguideId>B001277</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <proposedDate>2022-02-10T05:00:00Z</proposedDate>
+        <submittedDate>2022-02-10T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>SRES</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>467</number>
+          <title>A resolution recognizing the contributions made by the 305-meter radio telescope at the Arecibo Observatory.</title>
+          <updateDateIncludingText>2022-12-30T03:33:59Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4924 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4924 proposed by Senator Durbin for Senator Blumenthal. (consideration: CR S650; text: CR S650) To amend the resolution.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4924 proposed by Senator Durbin for Senator Blumenthal.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-02-10</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 4924 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2022-02-10T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sres467ats/xml/BILLS-117sres467ats.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-12-02T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sres467is/xml/BILLS-117sres467is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-02-10</actionDate>
+      <text>Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S650)</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

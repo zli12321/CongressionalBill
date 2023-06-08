@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>5568</number>
+    <updateDate>2022-12-30T07:18:56Z</updateDate>
+    <updateDateIncludingText>2022-12-30T07:18:56Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-10-12</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 179 (Tuesday, October 12, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. McEACHIN:H.R. 5568.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H5631]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif03</systemCode>
+            <name>Energy Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-10-13T15:22:03Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-10-12T19:01:50Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-10-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif03</systemCode>
+            <name>Energy Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-10-12</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-10-12</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-10-12</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001200</bioguideId>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+        <firstName>A.</firstName>
+        <lastName>McEachin</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>M001200</bioguideId>
+        </identifiers>
+        <middleName>Donald</middleName>
+        <district>4</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001069</bioguideId>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <firstName>Joe</firstName>
+        <lastName>Courtney</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>C001069</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-03-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001201</bioguideId>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2022-03-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001209</bioguideId>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <firstName>Abigail</firstName>
+        <lastName>Spanberger</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>S001209</bioguideId>
+        </identifiers>
+        <middleName>Davis</middleName>
+        <district>7</district>
+        <sponsorshipDate>2022-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001166</bioguideId>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <firstName>Jerry</firstName>
+        <lastName>McNerney</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2022-06-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001055</bioguideId>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <firstName>Ed</firstName>
+        <lastName>Case</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>C001055</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Energy</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-10-12</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-02-04T19:06:27Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Clean Cities Act</b></p> <p>This bill requires the Department of Energy (DOE) to carry out a Clean Cities Coalition Program. Under the program, DOE must make awards to clean city coalitions or nonprofit organizations for projects and activities that reduce petroleum consumption, improve air quality, promote energy and economic security, and encourage deployment of a diverse, domestic supply of alternative fuels in the transportation sector. DOE must also ensure that there are active coalitions working in all states, the District of Columbia, and the territories.</p> <p>In addition, DOE must provide technical assistance and training to the coalitions, provide opportunities for communication and sharing of best practices among the coalitions, and maintain and publish a centralized database of information about the activities and accomplishments of the coalitions.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Clean Cities Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Clean Cities Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Clean Cities Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the Secretary of Energy to carry out a Clean Cities Coalition Program, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-10-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr5568ih/xml/BILLS-117hr5568ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-13</actionDate>
+      <text>Referred to the Subcommittee on Energy.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

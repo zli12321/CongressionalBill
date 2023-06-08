@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>920</number>
+    <updateDate>2022-12-31T08:01:06Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:01:06Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-03-23</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sshr00</systemCode>
+        <name>Health, Education, Labor, and Pensions Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>sshr12</systemCode>
+            <name>Primary Health and Retirement Security Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings by</name>
+                <date>2021-03-23T20:10:04Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-23T20:08:57Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Affordable and Safe Prescription Drug Importation Act</title>
+        <congress>117</congress>
+        <number>2181</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-03-24</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Affordable Medications Act</title>
+        <congress>117</congress>
+        <number>1898</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-05-27</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-03-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr12</systemCode>
+            <name>Primary Health and Retirement Security Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions Subcommittee on Primary Health and Retirement Security. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-03-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-03-23</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <firstName>Bernard</firstName>
+        <lastName>Sanders</lastName>
+        <party>I</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>Tammy</firstName>
+        <lastName>Baldwin</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>Sherrod</firstName>
+        <lastName>Brown</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <firstName>Martin</firstName>
+        <lastName>Heinrich</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <firstName>Angus</firstName>
+        <lastName>King</lastName>
+        <party>I</party>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000174</bioguideId>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <firstName>Patrick</firstName>
+        <lastName>Leahy</lastName>
+        <party>D</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joseph</firstName>
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000145</bioguideId>
+        <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+        <firstName>Alex</firstName>
+        <lastName>Padilla</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000145</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000122</bioguideId>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <firstName>John</firstName>
+        <lastName>Reed</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <firstName>Debbie</firstName>
+        <lastName>Stabenow</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000128</bioguideId>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>Ron</firstName>
+        <lastName>Wyden</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Canada</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Department of Health and Human Services</name>
+        </item>
+        <item>
+          <name>Drug safety, medical device, and laboratory regulation</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Prescription drugs</name>
+        </item>
+        <item>
+          <name>Trade restrictions</name>
+        </item>
+        <item>
+          <name>User charges and fees</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-23</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-07-06T23:34:20Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Affordable and Safe Prescription Drug Importation Act</strong></p> <p>This bill allows expanded importation of eligible prescription drugs and addresses related issues.</p> <p>Current law allows the Department of Health and Human Services (HHS) to authorize the importation of certain eligible prescription drugs from Canada if HHS certifies to Congress that doing so would pose no additional risk to public health and safety and would result in significant cost savings for consumers. The bill removes this certification requirement and requires HHS to issue regulations that permit the importation of qualifying prescription drugs from Canada. After a certain amount of time, HHS may authorize importation from certain other countries if it determines that importation from Canada has resulted in cost savings for consumers and increased access to safe medication.</p> <p>The bill also expands the types of prescription drugs eligible for importation to include, for example, biologics such as insulin. </p> <p>Furthermore, the bill allows individuals to use an eligible licensed foreign pharmacy to fill a U.S.-issued prescription for a qualifying drug for personal use. Currently, an individual seeking to import a prescription drug generally must acquire a waiver from HHS. </p> <p>The bill imposes various requirements related to certification of foreign sellers, labeling of imported drugs, and supply chain security. </p> <p>The bill also (1) prohibits certain acts that discriminate against foreign sellers, such as charging higher prices to foreign sellers than to other sellers in the same country; and (2) imposes criminal penalties for online websites that sell counterfeit drugs or dispense drugs without a required prescription.<br /> </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Affordable and Safe Prescription Drug Importation Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Affordable and Safe Prescription Drug Importation Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Affordable and Safe Prescription Drug Importation Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Federal Food, Drug, and Cosmetic Act to allow for the importation of affordable and safe drugs by wholesale distributors, pharmacies, and individuals.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-03-23T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s920is/xml/BILLS-117s920is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-23</actionDate>
+      <text>Committee on Health, Education, Labor, and Pensions Subcommittee on Primary Health and Retirement Security. Hearings held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

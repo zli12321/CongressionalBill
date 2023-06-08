@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>88</number>
+    <updateDate>2022-12-29T23:48:34Z</updateDate>
+    <updateDateIncludingText>2022-12-29T23:48:34Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HCONRES</type>
+    <introducedDate>2022-05-10</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2022-05-11T17:59:49Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-05-10T18:02:30Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-06-21</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-06-16</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-06-16</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-06-08</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-06-07</actionDate>
+        <actionTime>18:15:32</actionTime>
+        <text>Motion to reconsider laid on the table. Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-06-07</actionDate>
+        <actionTime>18:15:31</actionTime>
+        <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5296-5297)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-06-07</actionDate>
+        <actionTime>18:15:31</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-06-07</actionDate>
+        <actionTime>18:07:28</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 88.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-06-07</actionDate>
+        <actionTime>18:07:26</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H5296-5298)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-06-07</actionDate>
+        <actionTime>18:07:15</actionTime>
+        <text>Mr. DeFazio moved to suspend the rules and agree to the resolution.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-05-11</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-05-10</actionDate>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-05-10</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-05-10</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>H000874</bioguideId>
+        <fullName>Rep. Hoyer, Steny H. [D-MD-5]</fullName>
+        <firstName>STENY</firstName>
+        <lastName>HOYER</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>H000874</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>5</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001292</bioguideId>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <firstName>Donald</firstName>
+        <lastName>Beyer</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>8</district>
+        <sponsorshipDate>2022-05-10</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000483</bioguideId>
+        <fullName>Rep. Trone, David J. [D-MD-6]</fullName>
+        <firstName>David</firstName>
+        <lastName>Trone</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>T000483</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <district>6</district>
+        <sponsorshipDate>2022-05-10</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <firstName>Gerald</firstName>
+        <lastName>Connolly</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>11</district>
+        <sponsorshipDate>2022-05-10</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001304</bioguideId>
+        <fullName>Rep. Brown, Anthony G. [D-MD-4]</fullName>
+        <firstName>Anthony</firstName>
+        <lastName>Brown</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>B001304</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2022-05-10</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2022-05-10</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000825</bioguideId>
+        <fullName>Rep. Wexton, Jennifer [D-VA-10]</fullName>
+        <firstName>Jennifer</firstName>
+        <lastName>Wexton</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>W000825</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2022-05-10</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000606</bioguideId>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <firstName>Jamie</firstName>
+        <lastName>Raskin</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2022-05-10</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Congress</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-05-10</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-10-31T16:33:46Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races on the Capitol grounds on June 18, 2022.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>53</versionCode>
+        <actionDate>2022-06-07</actionDate>
+        <actionDesc>Passed House</actionDesc>
+        <updateDate>2022-11-16T22:23:09Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races on the Capitol grounds on June 18, 2022.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>55</versionCode>
+        <actionDate>2022-06-16</actionDate>
+        <actionDesc>Passed Senate</actionDesc>
+        <updateDate>2022-11-18T19:59:10Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution permits the Greater Washington Soap Box Derby Association to sponsor soap box derby races on the Capitol grounds on June 18, 2022.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.</title>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Authorizing the use of the Capitol Grounds for the Greater Washington Soap Box Derby.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date/>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres88enr/xml/BILLS-117hconres88enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Received in Senate</type>
+        <date>2022-06-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres88rds/xml/BILLS-117hconres88rds.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2022-06-07T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres88eh/xml/BILLS-117hconres88eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-05-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres88ih/xml/BILLS-117hconres88ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-06-21</actionDate>
+      <text>Message on Senate action sent to the House.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

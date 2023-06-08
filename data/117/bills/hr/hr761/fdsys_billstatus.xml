@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>761</number>
+    <updateDate>2022-12-16T14:11:28Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:11:28Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-02-03</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 20 (Wednesday, February 3, 2021)][House][Pages H324-H325]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. KATKO:H.R. 761.Congress has the power to enact this legislation pursuantto the following:[[Page H325]]Article I, Section 8, Clause I of the U.S. Constitution.</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hswm00</systemCode>
+        <name>Ways and Means Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hswm01</systemCode>
+            <name>Social Security Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-03T15:32:09Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-03T18:01:15Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-02-03</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>hswm01</systemCode>
+            <name>Social Security Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000386</bioguideId>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <firstName>John</firstName>
+        <lastName>Katko</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <district>24</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>K000375</bioguideId>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <firstName>William</firstName>
+        <lastName>Keating</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>9</district>
+        <sponsorshipDate>2021-02-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000590</bioguideId>
+        <fullName>Rep. Lee, Susie [D-NV-3]</fullName>
+        <firstName>Susie</firstName>
+        <lastName>Lee</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>L000590</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001056</bioguideId>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <firstName>Jaime</firstName>
+        <lastName>Herrera Beutler</lastName>
+        <party>R</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>H001056</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-06-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001212</bioguideId>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <firstName>Pete</firstName>
+        <lastName>Stauber</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001212</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-06-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Burgess</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <district>26</district>
+        <sponsorshipDate>2021-07-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000483</bioguideId>
+        <fullName>Rep. Trone, David J. [D-MD-6]</fullName>
+        <firstName>David</firstName>
+        <lastName>Trone</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>T000483</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <district>6</district>
+        <sponsorshipDate>2021-07-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000597</bioguideId>
+        <fullName>Rep. Garbarino, Andrew R. [R-NY-2]</fullName>
+        <firstName>Andrew</firstName>
+        <lastName>Garbarino</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000597</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-07-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000602</bioguideId>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <firstName>Kathleen</firstName>
+        <lastName>Rice</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-12-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001303</bioguideId>
+        <fullName>Rep. Blunt Rochester, Lisa [D-DE-At Large]</fullName>
+        <firstName>Lisa</firstName>
+        <lastName>Blunt Rochester</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <bioguideId>B001303</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2022-02-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000469</bioguideId>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <firstName>Paul</firstName>
+        <lastName>Tonko</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipDate>2022-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000592</bioguideId>
+        <fullName>Rep. Golden, Jared F. [D-ME-2]</fullName>
+        <firstName>Jared</firstName>
+        <lastName>Golden</lastName>
+        <party>D</party>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>G000592</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-06-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-11-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Disability and paralysis</name>
+        </item>
+        <item>
+          <name>Disability assistance</name>
+        </item>
+        <item>
+          <name>Marriage and family status</name>
+        </item>
+        <item>
+          <name>Poverty and welfare assistance</name>
+        </item>
+        <item>
+          <name>Wages and earnings</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Social Welfare</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-03</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-03-22T23:13:42Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Marriage Access for People with Special Abilities Act or the MAPSA Act</b></p> <p>This bill excludes a spouse's income and resources when determining eligibility for Supplemental Security Income (SSI), and disregards marital status when calculating the SSI benefit amount, for an adult who has a diagnosed intellectual or developmental disability. SSI is a federal income supplement program designed to help aged, blind, and disabled individuals with limited income and resources meet basic needs.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>MAPSA Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>MAPSA Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>MAPSA Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Marriage Access for People with Special Abilities Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVI of the Social Security Act to provide that the supplemental security income benefits of adults with intellectual or developmental disabilities shall not be reduced by reason of marriage.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-02-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr761ih/xml/BILLS-117hr761ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-03</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

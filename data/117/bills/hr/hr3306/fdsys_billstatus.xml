@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3306</number>
+    <updateDate>2022-12-31T10:35:44Z</updateDate>
+    <updateDateIncludingText>2022-12-31T10:35:44Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-05-18</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 86 (Tuesday, May 18, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mrs. HARTZLER:H.R. 3306.Congress has the power to enact this legislation pursuantto the following:Article 1, section 8, clause 18 of the United StatesConstitution[Page H2541]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-11-09T16:10:09Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-18T14:00:15Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-18T14:00:10Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-11-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-05-18</actionDate>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-05-18</actionDate>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-05-18</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-05-18</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>H001053</bioguideId>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <firstName>Vicky</firstName>
+        <lastName>Hartzler</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001201</bioguideId>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-05-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000579</bioguideId>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Gallagher</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000292</bioguideId>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000304</bioguideId>
+        <fullName>Rep. Jackson, Ronny [R-TX-13]</fullName>
+        <firstName>Ronny</firstName>
+        <lastName>Jackson</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000304</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000812</bioguideId>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <firstName>Ann</firstName>
+        <lastName>Wagner</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000469</bioguideId>
+        <fullName>Rep. Fulcher, Russ [R-ID-1]</fullName>
+        <firstName>Russ</firstName>
+        <lastName>Fulcher</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>F000469</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000813</bioguideId>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <firstName>Jackie</firstName>
+        <lastName>Walorski</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000823</bioguideId>
+        <fullName>Rep. Waltz, Michael [R-FL-6]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Waltz</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000823</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000388</bioguideId>
+        <fullName>Rep. Kelly, Trent [R-MS-1]</fullName>
+        <firstName>Trent</firstName>
+        <lastName>Kelly</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>K000388</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001136</bioguideId>
+        <fullName>Rep. McClain, Lisa C. [R-MI-10]</fullName>
+        <firstName>Lisa</firstName>
+        <lastName>McClain</lastName>
+        <party>R</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>M001136</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <district>10</district>
+        <sponsorshipDate>2021-06-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001068</bioguideId>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <firstName>Jared</firstName>
+        <lastName>Huffman</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-06-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000576</bioguideId>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-06-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001109</bioguideId>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <firstName>Liz</firstName>
+        <lastName>Cheney</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>C001109</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2021-06-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001196</bioguideId>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <firstName>Seth</firstName>
+        <lastName>Moulton</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-06-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000522</bioguideId>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <firstName>CHRISTOPHER</firstName>
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-07-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001257</bioguideId>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <firstName>Gus</firstName>
+        <lastName>Bilirakis</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>12</district>
+        <sponsorshipDate>2021-08-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000826</bioguideId>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <firstName>Susan</firstName>
+        <lastName>Wild</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>W000826</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-09-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000133</bioguideId>
+        <fullName>Rep. Van Drew, Jefferson [R-NJ-2]</fullName>
+        <firstName>Jefferson</firstName>
+        <lastName>Van Drew</lastName>
+        <party>R</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-11-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001309</bioguideId>
+        <fullName>Rep. Burchett, Tim [R-TN-2]</fullName>
+        <firstName>Tim</firstName>
+        <lastName>Burchett</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001309</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-11-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001135</bioguideId>
+        <fullName>Rep. Steel, Michelle [R-CA-48]</fullName>
+        <firstName>Michelle</firstName>
+        <lastName>Steel</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001135</bioguideId>
+        </identifiers>
+        <district>48</district>
+        <sponsorshipDate>2021-11-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000590</bioguideId>
+        <fullName>Rep. Green, Mark E. [R-TN-7]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Green</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>G000590</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000168</bioguideId>
+        <fullName>Rep. Salazar, Maria Elvira [R-FL-27]</fullName>
+        <firstName>Maria</firstName>
+        <lastName>Salazar</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S000168</bioguideId>
+        </identifiers>
+        <middleName>Elvira</middleName>
+        <district>27</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000048</bioguideId>
+        <fullName>Rep. Pfluger, August [R-TX-11]</fullName>
+        <firstName>August</firstName>
+        <lastName>Pfluger</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>P000048</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2021-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001282</bioguideId>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <firstName>Andy</firstName>
+        <lastName>Barr</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-12-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000266</bioguideId>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <firstName>STEVE</firstName>
+        <lastName>CHABOT</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-12-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000583</bioguideId>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Gottheimer</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>G000583</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-12-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-18</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-03-21T17:02:33Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Uyghur Stop Oppressive Sterilizations Act or the Uyghur SOS Act</strong></p> <p>This bill expands existing visa-blocking sanctions to cover certain high-ranking foreign government officials who are responsible for coercive population control policies, such as forced abortions, with a focus on those responsible for such policies against ethnic minority groups in China.</p> <p>Specifically, the Department of State may not issue a visa to a foreign national who is a head of state, head of government, or cabinet-level minister and responsible for establishing or enforcing such policies if the policies are (1) imposed with the intent to destroy a national, ethnic, racial, or religious group; or (2) targeting ethnic minority groups (e.g., Uyghurs, Kazakhs, or Tibetans) or individuals peacefully expressing internationally-recognized human rights in China. (Currently, these sanctions do not apply to any foreign government officials at these higher ranks.)</p> <p>The State Department must make a public announcement each time sanctions are imposed under this bill. </p> <p>The bill also requires the State Department to provide all appropriate assistance to women who belong to an ethnic minority group in China and who have experienced sexual violence, torture, or coercive population control policies. </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Uyghur SOS Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Uyghur SOS Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To address state-sanctioned violence against women in the People's Republic of China, including rape and torture in detention and forced sterilizations, forced abortions, and other coercive birth restriction policies, particularly in the Xinjiang Uyghur Autonomous Region, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Uyghur SOS Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Uyghur Stop Oppressive Sterilizations Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-05-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr3306ih/xml/BILLS-117hr3306ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-11-09</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

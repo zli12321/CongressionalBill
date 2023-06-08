@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>5572</number>
+    <updateDate>2022-12-30T07:18:56Z</updateDate>
+    <updateDateIncludingText>2022-12-30T07:18:56Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-10-12</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 179 (Tuesday, October 12, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. ROSENDALE:H.R. 5572.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution.[Page H5632]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2022-11-01T20:11:02Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-10-12T19:03:45Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-11-01</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-10-12</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-10-12</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-10-12</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>R000103</bioguideId>
+        <fullName>Rep. Rosendale Sr., Matthew M. [R-MT-At Large]</fullName>
+        <firstName>Matthew</firstName>
+        <lastName>Rosendale</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>R000103</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>T000165</bioguideId>
+        <fullName>Rep. Tiffany, Thomas P. [R-WI-7]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Tiffany</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>T000165</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000615</bioguideId>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <firstName>Jeff</firstName>
+        <lastName>Duncan</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001311</bioguideId>
+        <fullName>Rep. Bishop, Dan [R-NC-9]</fullName>
+        <firstName>Dan</firstName>
+        <lastName>Bishop</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001311</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001214</bioguideId>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <firstName>W.</firstName>
+        <lastName>Steube</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001214</bioguideId>
+        </identifiers>
+        <middleName>Gregory</middleName>
+        <district>17</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001077</bioguideId>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <firstName>Clay</firstName>
+        <lastName>Higgins</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>H001077</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000599</bioguideId>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Posey</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000595</bioguideId>
+        <fullName>Rep. Good, Bob [R-VA-5]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Good</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>G000595</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000589</bioguideId>
+        <fullName>Rep. Gooden, Lance [R-TX-5]</fullName>
+        <firstName>Lance</firstName>
+        <lastName>Gooden</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000589</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001274</bioguideId>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <firstName>Mo</firstName>
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000616</bioguideId>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>DesJarlais</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>D000616</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000605</bioguideId>
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>Perry</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000190</bioguideId>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <firstName>Ralph</firstName>
+        <lastName>Norman</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000395</bioguideId>
+        <fullName>Rep. Keller, Fred [R-PA-12]</fullName>
+        <firstName>Fred</firstName>
+        <lastName>Keller</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>K000395</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001211</bioguideId>
+        <fullName>Rep. Miller, Mary E. [R-IL-15]</fullName>
+        <firstName>Mary</firstName>
+        <lastName>Miller</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>M001211</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>15</district>
+        <sponsorshipDate>2021-10-12</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001212</bioguideId>
+        <fullName>Rep. Moore, Barry [R-AL-2]</fullName>
+        <firstName>Barry</firstName>
+        <lastName>Moore</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>M001212</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Babin</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <district>36</district>
+        <sponsorshipDate>2021-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001088</bioguideId>
+        <fullName>Rep. Hagedorn, Jim [R-MN-1]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Hagedorn</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>H001088</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000552</bioguideId>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <firstName>Louie</firstName>
+        <lastName>Gohmert</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001039</bioguideId>
+        <fullName>Rep. Cammack, Kat [R-FL-3]</fullName>
+        <firstName>Kat</firstName>
+        <lastName>Cammack</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>C001039</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-10-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Immigration</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-10-12</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-05-18T16:54:46Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Safeguards Ensuring Criminal and Unvetted Refugees don't Enter America Act or the SECURE America Act</strong></p> <p>This bill imposes restrictions on the admission of aliens, including refugees, and addresses related issues.</p> <p>Specifically, no refugees may be admitted until Congress enacts a joint resolution setting the maximum number of refugees allowed to be admitted in a particular fiscal year. Currently, that number is set each fiscal year by the President. </p> <p>The Department of Homeland Security (DHS) must notify Congress at least 30 days before determining that an alien or class of aliens is eligible for refugee status. Congress may nullify the determination by enacting a joint resolution of disapproval.</p> <p>Further, an alien shall be inadmissible for holding certain beliefs, such as (1) believing that a system of religious law should be implemented in the United States, (2) believing that the alien does not need to learn English if the alien is not already fluent, or (3) any belief that the Department of State determines is incompatible with the principles of the United States. </p> <p>DHS may not parole into the United States an alien who does not have status under immigration law. Currently, DHS may provide parole in certain instances, including for urgent humanitarian reasons. </p> <p>Federal agencies must notify a state at least 30 days before resettling a refugee in that state. The refugee may not be resettled in that state if the state expresses disapproval. </p> <p>An alien who has committed a crime of violence (generally one involving the use or threat of physical violence against person or property) may not be eligible for refugee status and must be removed.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>SECURE America Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>SECURE America Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>SECURE America Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Safeguards Ensuring Criminal and Unvetted Refugees don’t Enter America Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To reform the process for admission of refugees, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-10-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr5572ih/xml/BILLS-117hr5572ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-11-01</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

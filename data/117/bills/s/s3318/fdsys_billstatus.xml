@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3318</number>
+    <updateDate>2022-12-30T03:18:55Z</updateDate>
+    <updateDateIncludingText>2022-12-30T03:18:55Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-12-06</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssbk00</systemCode>
+        <name>Banking, Housing, and Urban Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-12-06T23:21:48Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Taylor Force Martyr Payment Prevention Act of 2022</title>
+        <congress>117</congress>
+        <number>7824</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-05-18</actionDate>
+          <text>Referred to the House Committee on Financial Services.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-12-06</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-12-06</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>Y000064</bioguideId>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <firstName>Todd</firstName>
+        <lastName>Young</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <firstName>Kevin</firstName>
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001310</bioguideId>
+        <fullName>Sen. Braun, Mike [R-IN]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Braun</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <firstName>Marsha</firstName>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001217</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001198</bioguideId>
+        <fullName>Sen. Marshall, Roger [R-KS]</fullName>
+        <firstName>Roger</firstName>
+        <lastName>Marshall</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>M001198</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H000601</bioguideId>
+        <fullName>Sen. Hagerty, Bill [R-TN]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Hagerty</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>H000601</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <firstName>Lindsey</firstName>
+        <lastName>Graham</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001079</bioguideId>
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+        <firstName>Cindy</firstName>
+        <lastName>Hyde-Smith</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>H001079</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001061</bioguideId>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <firstName>John</firstName>
+        <lastName>Hoeven</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-01-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <firstName>John</firstName>
+        <lastName>Thune</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2022-01-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001184</bioguideId>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <firstName>Tim</firstName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>S001184</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-05-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000575</bioguideId>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <firstName>James</firstName>
+        <lastName>Lankford</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-06-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Finance and Financial Sector</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-12-06</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-05-02T19:47:08Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Taylor Force Martyr Payment Prevention Act of 2021 </strong></p> <p>This bill expands the institutional factors the Department of the Treasury must consider when making a finding that a foreign financial institution is of primary money laundering concern and is therefore subject to special measures, including the prohibition of opening or maintaining correspondent accounts in U.S financial institutions. Specifically, Treasury must consider (1) the extent to which an institution knowingly provides financial services to Hamas, or to an agent of Hamas; and (2) the extent to which an institution, transaction, or type of account is used to facilitate or promote payments for certain acts of terrorism against U.S. and Israeli citizens.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Taylor Force Martyr Payment Prevention Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Taylor Force Martyr Payment Prevention Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Taylor Force Martyr Payment Prevention Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to deter foreign financial institutions from providing banking services for the benefit of foreign terrorist organizations and from facilitating or promoting payments for acts of terrorism.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-12-06T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3318is/xml/BILLS-117s3318is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-12-06</actionDate>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

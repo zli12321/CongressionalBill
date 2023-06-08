@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1011</number>
+    <updateDate>2022-12-31T08:48:00Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:48:00Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-03-25</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sseg00</systemCode>
+        <name>Energy and Natural Resources Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-25T19:23:43Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Natural Gas Export Expansion Act</title>
+        <congress>117</congress>
+        <number>2705</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-04-21</actionDate>
+          <text>Referred to the Subcommittee on Energy.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Midland Over Moscow Act</title>
+        <congress>117</congress>
+        <number>6748</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-11-01</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Energy Freedom Act</title>
+        <congress>117</congress>
+        <number>7094</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-03-16</actionDate>
+          <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Energy Freedom Act</title>
+        <congress>117</congress>
+        <number>3762</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2022-03-03</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-03-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-03-25</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Inhofe</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <firstName>Shelley</firstName>
+        <lastName>Capito</lastName>
+        <party>R</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <middleName>Moore</middleName>
+        <sponsorshipDate>2021-03-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000393</bioguideId>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <firstName>John</firstName>
+        <lastName>Kennedy</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>K000393</bioguideId>
+        </identifiers>
+        <middleName>Neely</middleName>
+        <sponsorshipDate>2021-03-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <firstName>Kevin</firstName>
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Canada</name>
+        </item>
+        <item>
+          <name>Latin America</name>
+        </item>
+        <item>
+          <name>Mexico</name>
+        </item>
+        <item>
+          <name>Oil and gas</name>
+        </item>
+        <item>
+          <name>Trade restrictions</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Energy</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-25</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-06-28T10:47:16Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Natural Gas Export Expansion Act</b></p> <p>This bill revises requirements regarding natural gas imports or exports to expand the expedited application and approval process to any nation, even if not a party to a free trade agreement with the United States, that is not specifically excluded by this bill.</p> <p>The bill excludes any nation subject to sanctions or trade restrictions imposed by the United States or excluded by the President or Congress for national security reasons.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Natural Gas Export Expansion Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Natural Gas Export Expansion Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Natural Gas Export Expansion Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Natural Gas Act to provide for expanded natural gas exports.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-03-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1011is/xml/BILLS-117s1011is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-25</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

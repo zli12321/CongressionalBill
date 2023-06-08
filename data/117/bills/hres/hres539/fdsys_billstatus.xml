@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>539</number>
+    <updateDate>2022-12-30T10:04:12Z</updateDate>
+    <updateDateIncludingText>2022-12-30T10:04:12Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-07-19</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-07-20T16:25:16Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-19T18:05:10Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-07-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-07-19</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-07-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-07-19</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001200</bioguideId>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+        <firstName>A.</firstName>
+        <lastName>McEachin</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>M001200</bioguideId>
+        </identifiers>
+        <middleName>Donald</middleName>
+        <district>4</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>U000040</bioguideId>
+        <fullName>Rep. Underwood, Lauren [D-IL-14]</fullName>
+        <firstName>Lauren</firstName>
+        <lastName>Underwood</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>U000040</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2021-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000385</bioguideId>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <firstName>Robin</firstName>
+        <lastName>Kelly</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001209</bioguideId>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <firstName>Abigail</firstName>
+        <lastName>Spanberger</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>S001209</bioguideId>
+        </identifiers>
+        <middleName>Davis</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000825</bioguideId>
+        <fullName>Rep. Wexton, Jennifer [D-VA-10]</fullName>
+        <firstName>Jennifer</firstName>
+        <lastName>Wexton</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>W000825</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2021-07-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000370</bioguideId>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <firstName>Alma</firstName>
+        <lastName>Adams</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>A000370</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>12</district>
+        <sponsorshipDate>2021-07-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Health care coverage and access</name>
+        </item>
+        <item>
+          <name>Health information and medical records</name>
+        </item>
+        <item>
+          <name>Health programs administration and funding</name>
+        </item>
+        <item>
+          <name>Health promotion and preventive care</name>
+        </item>
+        <item>
+          <name>Immunology and vaccination</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Women's health</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-19</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-09-10T18:45:49Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution acknowledges the maternal health crisis in the United States and supports action by the federal government and others to reduce adverse maternal health outcomes.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Recognizing the maternal health crisis in the United States and the importance of reducing mortality and morbidity among all women, and honoring mothers.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recognizing the maternal health crisis in the United States and the importance of reducing mortality and morbidity among all women, and honoring mothers.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing the maternal health crisis in the United States and the importance of reducing mortality and morbidity among all women, and honoring mothers.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-07-19T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres539ih/xml/BILLS-117hres539ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-20</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

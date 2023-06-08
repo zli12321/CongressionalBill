@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>631</number>
+    <updateDate>2022-12-29T17:03:54Z</updateDate>
+    <updateDateIncludingText>2022-12-29T17:03:54Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>SRES</type>
+    <introducedDate>2022-05-12</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssra00</systemCode>
+        <name>Rules and Administration Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-05-12T16:43:07Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-05-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssra00</systemCode>
+            <name>Rules and Administration Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text: CR S2495)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-05-12</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000603</bioguideId>
+        <fullName>Sen. Paul, Rand [R-KY]</fullName>
+        <firstName>Rand</firstName>
+        <lastName>Paul</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>P000603</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Congressional officers and employees</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Health information and medical records</name>
+        </item>
+        <item>
+          <name>Health technology, devices, supplies</name>
+        </item>
+        <item>
+          <name>Immunology and vaccination</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Medical tests and diagnostic methods</name>
+        </item>
+        <item>
+          <name>Senate</name>
+        </item>
+        <item>
+          <name>Worker safety and health</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Congress</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-05-12</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-10-31T21:48:44Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution bars COVID-19 vaccination, testing, and masking requirements for Senate pages.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>A resolution prohibiting the imposition of vaccination, testing, and masking requirements relating to COVID-19 for Senate Pages.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A resolution prohibiting the imposition of vaccination, testing, and masking requirements relating to COVID-19 for Senate Pages.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution prohibiting the imposition of vaccination, testing, and masking requirements relating to COVID-19 for Senate Pages.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-05-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sres631is/xml/BILLS-117sres631is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-05-12</actionDate>
+      <text>Referred to the Committee on Rules and Administration. (text: CR S2495)</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

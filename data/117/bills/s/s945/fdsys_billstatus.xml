@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>945</number>
+    <updateDate>2022-12-31T08:01:05Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:01:05Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-03-24</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssbk00</systemCode>
+        <name>Banking, Housing, and Urban Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Hearings by</name>
+            <date>2022-09-15T14:00:10Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>sshr00</systemCode>
+        <name>Health, Education, Labor, and Pensions Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-24T18:36:04Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Impact Aid Infrastructure Act</title>
+        <congress>117</congress>
+        <number>1886</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-03-12</actionDate>
+          <text>Referred to the House Committee on Education and Labor.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-09-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S1769)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>H001042</bioguideId>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <lastName>Hirono</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>Tammy</firstName>
+        <lastName>Baldwin</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000145</bioguideId>
+        <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+        <firstName>Alex</firstName>
+        <lastName>Padilla</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000145</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>Dianne</firstName>
+        <lastName>Feinstein</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <firstName>Martin</firstName>
+        <lastName>Heinrich</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000622</bioguideId>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <firstName>Tammy</firstName>
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000570</bioguideId>
+        <fullName>Sen. Lujan, Ben Ray [D-NM]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Lujan</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2021-10-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Building construction</name>
+        </item>
+        <item>
+          <name>Education programs funding</name>
+        </item>
+        <item>
+          <name>Educational facilities and institutions</name>
+        </item>
+        <item>
+          <name>Elementary and secondary education</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Education</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-24</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-04-26T20:34:35Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Impact Aid Infrastructure Act</b></p> <p>This bill authorizes additional Impact Aid construction grants for FY2022. These grants provide infrastructure assistance to local educational agencies that have lost property tax revenue due to the presence of tax-exempt federal property or to those that have experienced increased expenditures due to enrollment of federally connected children (e.g., children living on Indian lands or military bases).</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Impact Aid Infrastructure Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Impact Aid Infrastructure Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Impact Aid Infrastructure Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide temporary impact aid construction grants to eligible local educational agencies, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-03-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s945is/xml/BILLS-117s945is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-09-15</actionDate>
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

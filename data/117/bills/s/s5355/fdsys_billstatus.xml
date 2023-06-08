@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>5355</number>
+    <updateDate>2022-12-29T18:20:06Z</updateDate>
+    <updateDateIncludingText>2022-12-29T18:20:06Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-12-22</introducedDate>
+    <congress>117</congress>
+    <actions>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Under the order of 12/22/22, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 22 - 73. Record Vote Number: 407.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <text>Failed of passage/not agreed to in Senate: Under the order of 12/22/22, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 22 - 73. Record Vote Number: 407.</text>
+        <type>Floor</type>
+        <actionCode>18000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>407</rollNumber>
+            <url>https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00407.xml</url>
+            <chamber>Senate</chamber>
+            <congress>117</congress>
+            <date>2022-12-22T15:39:21Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S10065)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate, read twice.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001217</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-12-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <title>A bill making emergency supplemental appropriations for disaster relief for the fiscal year ending September 30, 2023, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill making emergency supplemental appropriations for disaster relief for the fiscal year ending September 30, 2023, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill making emergency supplemental appropriations for disaster relief for the fiscal year ending September 30, 2023, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Failed Passage Senate</type>
+        <date>2022-12-22T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s5355fps/xml/BILLS-117s5355fps.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-12-22</actionDate>
+      <text>Under the order of 12/22/22, not having achieved 60 votes in the affirmative, failed of passage in Senate by Yea-Nay Vote. 22 - 73. Record Vote Number: 407.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

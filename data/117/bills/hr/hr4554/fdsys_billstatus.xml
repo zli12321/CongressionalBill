@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>4554</number>
+    <updateDate>2022-12-31T05:05:58Z</updateDate>
+    <updateDateIncludingText>2022-12-31T05:05:58Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-07-20</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 127 (Tuesday, July 20, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. BUTTERFIELD:H.R. 4554.Congress has the power to enact this legislation pursuantto the following:Under Article I, Section 8, Clause 3 of the Constitution,Congress has the power to collect taxes and expend funds toprovide for the general welfare of the United States.Congress may also make laws that are necessary and proper forcarrying into execution their powers enumerated under ArticleI.[Page H3754]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-07-21T16:26:22Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-20T14:01:30Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-07-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-07-20</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-07-20</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-07-20</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001251</bioguideId>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <firstName>G. K.</firstName>
+        <lastName>Butterfield</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001251</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>J000302</bioguideId>
+        <fullName>Rep. Joyce, John [R-PA-13]</fullName>
+        <firstName>John</firstName>
+        <lastName>Joyce</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>J000302</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-07-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001067</bioguideId>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <firstName>Yvette</firstName>
+        <lastName>Clarke</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <sponsorshipDate>2021-08-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001200</bioguideId>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <firstName>Darren</firstName>
+        <lastName>Soto</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2022-02-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001061</bioguideId>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <firstName>Emanuel</firstName>
+        <lastName>Cleaver</lastName>
+        <party>D</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>C001061</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-03-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-20</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-01-31T18:39:17Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Care That's Fair Act</b></p> <p>This bill authorizes and provides funds for a grant program to analyze racial and ethnic disparities or other factors that may affect health outcomes for Medicaid enrollees. Specifically, the Centers for Medicare &amp; Medicaid Services may award grants to states to analyze (1) variations in health care outcomes and utilization that are related to race and ethnicity for clinically similar enrollees, or (2) clinical and social factors that contribute to poor infant and maternal health outcomes for enrollees.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Care That’s Fair Act</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XIX of the Social Security Act to provide grants for support for States to identify and act on racial disparities, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Care That’s Fair Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Care That’s Fair Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-07-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr4554ih/xml/BILLS-117hr4554ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-21</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2450</number>
+    <updateDate>2022-12-30T10:18:47Z</updateDate>
+    <updateDateIncludingText>2022-12-30T10:18:47Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-07-22</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sshr00</systemCode>
+        <name>Health, Education, Labor, and Pensions Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-22T18:45:22Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <firstName>Marsha</firstName>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>H000273</bioguideId>
+        <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+        <firstName>John</firstName>
+        <lastName>Hickenlooper</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>H000273</bioguideId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2021-07-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-22</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-02-15T23:50:34Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Rural Health Innovation Act of 2021</b></p> <p>This bill establishes two grant programs to increase access to emergency care in rural areas. The Federal Office of Rural Health Policy within the Health Resources and Services Administration must manage these programs.</p> <p>First, the office must provide grants to federally qualified health centers and rural health clinics to enhance the provision of walk-in urgent care, triage, and other emergency services in rural areas.</p> <p>Second, the office must provide grants to health departments in rural areas for emergency services (including triage and transport to emergency departments), primary care services, and similar services provided by emergency departments.</p> <p>Recipients of these grants may use funds for staffing, equipment, and other necessary expenses to provide emergency services.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Rural Health Innovation Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Rural Health Innovation Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Rural Health Innovation Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Public Health Service Act to establish a rural health center innovation awards program and a rural health department enhancement program, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-07-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2450is/xml/BILLS-117s2450is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-22</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

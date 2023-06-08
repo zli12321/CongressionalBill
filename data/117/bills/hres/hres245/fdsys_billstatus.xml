@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>245</number>
+    <updateDate>2022-12-31T08:48:02Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:48:02Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-03-17</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Markup by</name>
+            <date>2021-03-25T13:09:17Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-17T14:06:05Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-03-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported in the Nature of a Substitute.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-03-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-03-17</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-03-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-03-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001270</bioguideId>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <firstName>Karen</firstName>
+        <lastName>Bass</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+        </identifiers>
+        <district>37</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000490</bioguideId>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <firstName>SANFORD</firstName>
+        <lastName>BISHOP</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000515</bioguideId>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <firstName>BOBBY</firstName>
+        <lastName>RUSH</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <firstName>SHEILA</firstName>
+        <lastName>JACKSON LEE</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <district>18</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000344</bioguideId>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <firstName>BRAD</firstName>
+        <lastName>SHERMAN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <district>30</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001251</bioguideId>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <firstName>G. K.</firstName>
+        <lastName>Butterfield</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001251</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001165</bioguideId>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <firstName>Albio</firstName>
+        <lastName>Sires</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>S001165</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000288</bioguideId>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <firstName>Henry</firstName>
+        <lastName>Johnson</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+        </identifiers>
+        <middleName>C. "Hank"</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H000324</bioguideId>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <firstName>ALCEE</firstName>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>20</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000468</bioguideId>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <firstName>Dina</firstName>
+        <lastName>Titus</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001084</bioguideId>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <firstName>David</firstName>
+        <lastName>Cicilline</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <middleName>N.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001287</bioguideId>
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <firstName>Ami</firstName>
+        <lastName>Bera</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>B001287</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000130</bioguideId>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <firstName>Juan</firstName>
+        <lastName>Vargas</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>V000130</bioguideId>
+        </identifiers>
+        <district>51</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001091</bioguideId>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <firstName>Joaquin</firstName>
+        <lastName>Castro</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001091</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <firstName>Gerald</firstName>
+        <lastName>Connolly</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>11</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000581</bioguideId>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <firstName>Brenda</firstName>
+        <lastName>Lawrence</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>L000581</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>14</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000296</bioguideId>
+        <fullName>Rep. Evans, Dwight [D-PA-3]</fullName>
+        <firstName>Dwight</firstName>
+        <lastName>Evans</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001201</bioguideId>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001206</bioguideId>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+        <firstName>Joseph</firstName>
+        <lastName>Morelle</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M001206</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>25</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001304</bioguideId>
+        <fullName>Rep. Brown, Anthony G. [D-MD-4]</fullName>
+        <firstName>Anthony</firstName>
+        <lastName>Brown</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>B001304</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000389</bioguideId>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <firstName>Ro</firstName>
+        <lastName>Khanna</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000617</bioguideId>
+        <fullName>Rep. Pressley, Ayanna [D-MA-7]</fullName>
+        <firstName>Ayanna</firstName>
+        <lastName>Pressley</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>P000617</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000173</bioguideId>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <firstName>Ilhan</firstName>
+        <lastName>Omar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>O000173</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001203</bioguideId>
+        <fullName>Rep. Malinowski, Tom [D-NJ-7]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Malinowski</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M001203</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000191</bioguideId>
+        <fullName>Rep. Neguse, Joe [D-CO-2]</fullName>
+        <firstName>Joe</firstName>
+        <lastName>Neguse</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>N000191</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000305</bioguideId>
+        <fullName>Rep. Jacobs, Sara [D-CA-53]</fullName>
+        <firstName>Sara</firstName>
+        <lastName>Jacobs</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>J000305</bioguideId>
+        </identifiers>
+        <district>53</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000560</bioguideId>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <firstName>RICK</firstName>
+        <lastName>LARSEN</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>L000560</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raúl M. [D-AZ-3]</fullName>
+        <firstName>Raúl</firstName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001059</bioguideId>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Costa</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000375</bioguideId>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <firstName>William</firstName>
+        <lastName>Keating</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>9</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000808</bioguideId>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <firstName>Frederica</firstName>
+        <lastName>Wilson</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>24</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000582</bioguideId>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Lieu</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <district>33</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000616</bioguideId>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+        <firstName>Dean</firstName>
+        <lastName>Phillips</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>P000616</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001157</bioguideId>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>McCaul</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <district>10</district>
+        <sponsorshipDate>2021-03-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000522</bioguideId>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <firstName>CHRISTOPHER</firstName>
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-03-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000795</bioguideId>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <firstName>Joe</firstName>
+        <lastName>Wilson</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Africa</name>
+        </item>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>Education programs funding</name>
+        </item>
+        <item>
+          <name>Educational technology and distance education</name>
+        </item>
+        <item>
+          <name>Electric power generation and transmission</name>
+        </item>
+        <item>
+          <name>Elementary and secondary education</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Food assistance and relief</name>
+        </item>
+        <item>
+          <name>Foreign aid and international relief</name>
+        </item>
+        <item>
+          <name>Foreign loans and debt</name>
+        </item>
+        <item>
+          <name>Health care quality</name>
+        </item>
+        <item>
+          <name>Health information and medical records</name>
+        </item>
+        <item>
+          <name>Health personnel</name>
+        </item>
+        <item>
+          <name>Health promotion and preventive care</name>
+        </item>
+        <item>
+          <name>Health technology, devices, supplies</name>
+        </item>
+        <item>
+          <name>Immunology and vaccination</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>International organizations and cooperation</name>
+        </item>
+        <item>
+          <name>Internet and video services</name>
+        </item>
+        <item>
+          <name>Internet, web applications, social media</name>
+        </item>
+        <item>
+          <name>Multilateral development programs</name>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+        </item>
+        <item>
+          <name>Public participation and lobbying</name>
+        </item>
+        <item>
+          <name>Rule of law and government transparency</name>
+        </item>
+        <item>
+          <name>United Nations</name>
+        </item>
+        <item>
+          <name>Women's health</name>
+        </item>
+        <item>
+          <name>Women's rights</name>
+        </item>
+        <item>
+          <name>Worker safety and health</name>
+        </item>
+        <item>
+          <name>World health</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-17</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-04-20T17:26:55Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution declares that decreasing the spread of COVID-19 (i.e., coronavirus disease 2019) in Africa is in the national interest of the United States, commends the work of Africa's frontline health workers, and calls on the United States and the international community to support African countries' responses to the pandemic.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Calling for renewed, decisive, and robust international collaboration and coordination to fight COVID-19 across Africa.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Calling for renewed, decisive, and robust international collaboration and coordination to fight COVID-19 across Africa.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Calling for renewed, decisive, and robust international collaboration and coordination to fight COVID-19 across Africa.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-03-17T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres245ih/xml/BILLS-117hres245ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-25</actionDate>
+      <text>Ordered to be Reported in the Nature of a Substitute.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>4696</number>
+    <updateDate>2022-12-29T19:03:38Z</updateDate>
+    <updateDateIncludingText>2022-12-29T19:03:38Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-08-01</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssas00</systemCode>
+        <name>Armed Services Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-08-01T22:29:42Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-08-01</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-08-01</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <firstName>John</firstName>
+        <lastName>Barrasso</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-08-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Finance and Financial Sector</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-08-01</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-09-27T11:35:41Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Modernizing Aerial Fire Fighting Support (MAFFS) for the National Guard Act</strong></p> <p>This bill requires the Department of the Air Force to include the Modular Airborne Fire Fighting System mission as part of its basing criteria for C-130J aircraft for the Air National Guard.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Modernizing Aerial Fire Fighting Support (MAFFS) for the National Guard Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Modernizing Aerial Fire Fighting Support (MAFFS) for the National Guard Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Modernizing Aerial Fire Fighting Support (MAFFS) for the National Guard Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Secretary of the Air Force to include the Modular Airborne Fire Fighting System mission as part of the basing criteria of the Air Force for C-130J aircraft for the Air National Guard.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-08-01T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s4696is/xml/BILLS-117s4696is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-08-01</actionDate>
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

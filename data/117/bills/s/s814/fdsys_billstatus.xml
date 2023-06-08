@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>814</number>
+    <updateDate>2022-12-31T08:01:12Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:01:12Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-03-17</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssfr00</systemCode>
+        <name>Foreign Relations Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2021-04-26T21:15:19Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2021-04-21T14:00:00Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-17T21:45:46Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-04-26</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2021-04-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-04-26</actionDate>
+        <text>Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-04-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-03-17</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-03-17</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>R000584</bioguideId>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <firstName>James</firstName>
+        <lastName>Risch</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <firstName>Rob</firstName>
+        <lastName>Portman</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <firstName>John</firstName>
+        <lastName>Barrasso</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000359</bioguideId>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <firstName>Lindsey</firstName>
+        <lastName>Graham</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>G000359</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-04-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Durbin</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2021-07-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2021-05-18T20:05:00Z</pubDate>
+        <title>S. 814, Ukraine Security Partnership Act of 2021</title>
+        <url>https://www.cbo.gov/publication/57232</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Alliances</name>
+        </item>
+        <item>
+          <name>Asia</name>
+        </item>
+        <item>
+          <name>Aviation and airports</name>
+        </item>
+        <item>
+          <name>Banking and financial institutions regulation</name>
+        </item>
+        <item>
+          <name>Bulgaria</name>
+        </item>
+        <item>
+          <name>China</name>
+        </item>
+        <item>
+          <name>Competitiveness, trade promotion, trade deficits</name>
+        </item>
+        <item>
+          <name>Computer security and identity theft</name>
+        </item>
+        <item>
+          <name>Conflicts and wars</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Corporate finance and management</name>
+        </item>
+        <item>
+          <name>Diplomacy, foreign officials, Americans abroad</name>
+        </item>
+        <item>
+          <name>Economic performance and conditions</name>
+        </item>
+        <item>
+          <name>Energy storage, supplies, demand</name>
+        </item>
+        <item>
+          <name>Europe</name>
+        </item>
+        <item>
+          <name>Foreign aid and international relief</name>
+        </item>
+        <item>
+          <name>Foreign and international corporations</name>
+        </item>
+        <item>
+          <name>France</name>
+        </item>
+        <item>
+          <name>Georgia (Republic)</name>
+        </item>
+        <item>
+          <name>Germany</name>
+        </item>
+        <item>
+          <name>Government ethics and transparency, public corruption</name>
+        </item>
+        <item>
+          <name>Government lending and loan guarantees</name>
+        </item>
+        <item>
+          <name>Human rights</name>
+        </item>
+        <item>
+          <name>Intellectual property</name>
+        </item>
+        <item>
+          <name>International law and treaties</name>
+        </item>
+        <item>
+          <name>International organizations and cooperation</name>
+        </item>
+        <item>
+          <name>Land use and conservation</name>
+        </item>
+        <item>
+          <name>Lawyers and legal services</name>
+        </item>
+        <item>
+          <name>Marine and inland water transportation</name>
+        </item>
+        <item>
+          <name>Military assistance, sales, and agreements</name>
+        </item>
+        <item>
+          <name>Military command and structure</name>
+        </item>
+        <item>
+          <name>Military education and training</name>
+        </item>
+        <item>
+          <name>Military procurement, research, weapons development</name>
+        </item>
+        <item>
+          <name>Navigation, waterways, harbors</name>
+        </item>
+        <item>
+          <name>News media and reporting</name>
+        </item>
+        <item>
+          <name>Oil and gas</name>
+        </item>
+        <item>
+          <name>Pipelines</name>
+        </item>
+        <item>
+          <name>Property rights</name>
+        </item>
+        <item>
+          <name>Refugees, asylum, displaced persons</name>
+        </item>
+        <item>
+          <name>Romania</name>
+        </item>
+        <item>
+          <name>Rule of law and government transparency</name>
+        </item>
+        <item>
+          <name>Russia</name>
+        </item>
+        <item>
+          <name>Sanctions</name>
+        </item>
+        <item>
+          <name>Sovereignty, recognition, national governance and status</name>
+        </item>
+        <item>
+          <name>Turkey</name>
+        </item>
+        <item>
+          <name>U.S. and foreign investments</name>
+        </item>
+        <item>
+          <name>Ukraine</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-17</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-06-22T20:01:03Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Ukraine Security Partnership Act of 2021</b></p> <p>This bill contains provisions related to U.S. support for Ukraine.</p> <p>From FY2022-FY2026</s>, the Department of State is authorized to (1) provide grants and loans to Ukraine for acquiring U.S. defense equipment and services through the Foreign Military Financing program, and (2) provide training for Ukraine's military through the International Military Education and Training program. During this period, Ukraine shall have priority access to excess U.S. defense articles. </p> <p>The State Department shall report to Congress a strategy on (1) using diplomacy to support Ukraine, and (2) encouraging other countries to donate excess defense equipment to Ukraine. </p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>25</versionCode>
+        <actionDate>2021-04-26</actionDate>
+        <actionDesc>Reported to Senate</actionDesc>
+        <updateDate>2021-07-01T15:45:33Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Ukraine Security Partnership Act of 2021</b></p> <p>This bill contains provisions related to U.S. support for Ukraine.</p> <p>From FY2022-FY2026, the Department of State is authorized to (1) provide grants and loans to Ukraine for acquiring U.S. defense equipment and services through the Foreign Military Financing program, and (2) provide training for Ukraine's military through the International Military Education and Training program. During this period, Ukraine shall have priority access to excess U.S. defense articles. </p> <p>During this period, the State Department may also engage in certain activities in Ukraine to (1) strengthen cybersecurity and intellectual property enforcement, (2) provide support and training for certain economic reforms and the privatization of state-owned enterprises, (3) combat corruption and strengthen the rule of law, (4) respond to humanitarian crises caused by Russia's invasion of Ukraine, (5) improve participatory legislative processes, and (6) build civil society and independent media capacity. </p> <p>The State Department shall report to Congress a strategy on (1) using diplomacy to support Ukraine, and (2) encouraging other countries to donate excess defense equipment to Ukraine. The President shall report to Congress a determination as to whether certain vessels and entities, including the project company behind the Nord Stream 2 pipeline, meet the criteria to be subject to sanctions. (The Nord Stream 2 is a pipeline project that would bring natural gas from Russia to Europe.)</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Ukraine Security Partnership Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Ukraine Security Partnership Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Ukraine Security Partnership Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <title>Ukraine Security Partnership Act of 2021</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Reported to Senate</billTextVersionName>
+        <billTextVersionCode>RS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to promote security partnership with Ukraine, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2021-04-26T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s814rs/xml/BILLS-117s814rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-03-17T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s814is/xml/BILLS-117s814is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-04-26</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

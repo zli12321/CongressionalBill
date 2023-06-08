@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1306</number>
+    <updateDate>2022-12-16T14:07:01Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:07:01Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-02-24</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 35 (Wednesday, February 24, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. MALINOWSKI:H.R. 1306.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 of the Constitution of theUnited States[Page H618]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-25T23:05:05Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-24T15:04:45Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>National Coronavirus Commission Act of 2021</title>
+        <congress>117</congress>
+        <number>412</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-02-24</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-02-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-24</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-24</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-24</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001203</bioguideId>
+        <fullName>Rep. Malinowski, Tom [D-NJ-7]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Malinowski</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M001203</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>D000600</bioguideId>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <firstName>Mario</firstName>
+        <lastName>Diaz-Balart</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>D000600</bioguideId>
+        </identifiers>
+        <district>25</district>
+        <sponsorshipDate>2021-02-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000826</bioguideId>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <firstName>Susan</firstName>
+        <lastName>Wild</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>W000826</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-06-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001207</bioguideId>
+        <fullName>Rep. Sherrill, Mikie [D-NJ-11]</fullName>
+        <firstName>Mikie</firstName>
+        <lastName>Sherrill</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>S001207</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>Q000023</bioguideId>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Quigley</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-08-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Advisory bodies</name>
+        </item>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Congressional operations and organization</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Correctional facilities and imprisonment</name>
+        </item>
+        <item>
+          <name>Economic performance and conditions</name>
+        </item>
+        <item>
+          <name>Elementary and secondary education</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Federal-Indian relations</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Health care coverage and access</name>
+        </item>
+        <item>
+          <name>Health facilities and institutions</name>
+        </item>
+        <item>
+          <name>Health information and medical records</name>
+        </item>
+        <item>
+          <name>Health programs administration and funding</name>
+        </item>
+        <item>
+          <name>Health promotion and preventive care</name>
+        </item>
+        <item>
+          <name>Health technology, devices, supplies</name>
+        </item>
+        <item>
+          <name>Higher education</name>
+        </item>
+        <item>
+          <name>Hospital care</name>
+        </item>
+        <item>
+          <name>Housing finance and home ownership</name>
+        </item>
+        <item>
+          <name>Immigrant health and welfare</name>
+        </item>
+        <item>
+          <name>Immunology and vaccination</name>
+        </item>
+        <item>
+          <name>Income tax deferral</name>
+        </item>
+        <item>
+          <name>Indian social and development programs</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+        </item>
+        <item>
+          <name>Landlord and tenant</name>
+        </item>
+        <item>
+          <name>Long-term, rehabilitative, and terminal care</name>
+        </item>
+        <item>
+          <name>Medical research</name>
+        </item>
+        <item>
+          <name>Medical tests and diagnostic methods</name>
+        </item>
+        <item>
+          <name>Military civil functions</name>
+        </item>
+        <item>
+          <name>Minority health</name>
+        </item>
+        <item>
+          <name>Rural conditions and development</name>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+        </item>
+        <item>
+          <name>Tax administration and collection, taxpayers</name>
+        </item>
+        <item>
+          <name>Unemployment</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-24</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-05-26T14:22:53Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>National Coronavirus Commission Act of 2021</strong></p> <p>This bill temporarily establishes, in the legislative branch, the Commission on the Coronavirus Pandemic in the United States and sets out its powers, duties, and membership.</p> <p>The commission must investigate the facts and circumstances surrounding the COVID-19 (i.e., coronavirus disease 2019) pandemic. This investigation must include the preparedness for and response to the disease by federal, state, territorial, tribal, and local governments. The commission terminates 120 days after the submission of its final report.</p> <p>Additionally, the Government Accountability Office must monitor the implementation of any recommendations identified by the commission.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>National Coronavirus Commission Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>National Coronavirus Commission Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>National Coronavirus Commission Act of 2021</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish the Commission on the Coronavirus Pandemic in the United States.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-02-24T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr1306ih/xml/BILLS-117hr1306ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-25</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

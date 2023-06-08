@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1266</number>
+    <updateDate>2022-12-29T18:33:48Z</updateDate>
+    <updateDateIncludingText>2022-12-29T18:33:48Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2022-07-26</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2022-09-20T19:12:02Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2022-09-15T21:57:49Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2022-09-14T19:58:27Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2022-07-26T16:04:45Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 117-479</citation>
+      </committeeReport>
+    </committeeReports>
+    <actions>
+      <item>
+        <actionDate>2022-09-20</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 101.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>H00101</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2022-09-20</actionDate>
+        <text>Reported adversely by the Committee on Foreign Affairs. H. Rept. 117-479.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-09-20</actionDate>
+        <text>Reported adversely by the Committee on Foreign Affairs. H. Rept. 117-479.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-09-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported Adversely (Amended) by the Yeas and Nays: 26 - 22.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-09-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-09-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-07-26</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-07-26</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-07-26</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000450</bioguideId>
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <firstName>Virginia</firstName>
+        <lastName>Foxx</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>F000450</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>W000795</bioguideId>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <firstName>Joe</firstName>
+        <lastName>Wilson</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-07-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Burgess</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <district>26</district>
+        <sponsorshipDate>2022-08-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000292</bioguideId>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-08-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000593</bioguideId>
+        <fullName>Rep. Gimenez, Carlos A. [R-FL-26]</fullName>
+        <firstName>Carlos</firstName>
+        <lastName>Gimenez</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>G000593</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>26</district>
+        <sponsorshipDate>2022-08-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001215</bioguideId>
+        <fullName>Rep. Miller-Meeks, Mariannette [R-IA-2]</fullName>
+        <firstName>Mariannette</firstName>
+        <lastName>Miller-Meeks</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>M001215</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-08-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001157</bioguideId>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>McCaul</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <district>10</district>
+        <sponsorshipDate>2022-09-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000168</bioguideId>
+        <fullName>Rep. Salazar, Maria Elvira [R-FL-27]</fullName>
+        <firstName>Maria</firstName>
+        <lastName>Salazar</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S000168</bioguideId>
+        </identifiers>
+        <middleName>Elvira</middleName>
+        <district>27</district>
+        <sponsorshipDate>2022-09-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000590</bioguideId>
+        <fullName>Rep. Green, Mark E. [R-TN-7]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Green</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>G000590</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2022-09-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000589</bioguideId>
+        <fullName>Rep. Gooden, Lance [R-TX-5]</fullName>
+        <firstName>Lance</firstName>
+        <lastName>Gooden</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000589</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-09-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000812</bioguideId>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <firstName>Ann</firstName>
+        <lastName>Wagner</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Babin</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <district>36</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000522</bioguideId>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <firstName>CHRISTOPHER</firstName>
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000266</bioguideId>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <firstName>STEVE</firstName>
+        <lastName>CHABOT</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000473</bioguideId>
+        <fullName>Rep. Flores, Mayra [R-TX-34]</fullName>
+        <firstName>Mayra</firstName>
+        <lastName>Flores</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000473</bioguideId>
+        </identifiers>
+        <district>34</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001282</bioguideId>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <firstName>Andy</firstName>
+        <lastName>Barr</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>I000056</bioguideId>
+        <fullName>Rep. Issa, Darrell E. [R-CA-50]</fullName>
+        <firstName>DARRELL</firstName>
+        <lastName>ISSA</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>I000056</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>50</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001299</bioguideId>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Banks</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001299</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-09-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000086</bioguideId>
+        <fullName>Rep. Owens, Burgess [R-UT-4]</fullName>
+        <firstName>Burgess</firstName>
+        <lastName>Owens</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>O000086</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2022-09-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001118</bioguideId>
+        <fullName>Rep. Cline, Ben [R-VA-6]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Cline</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001118</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-09-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001126</bioguideId>
+        <fullName>Rep. Carey, Mike [R-OH-15]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Carey</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>C001126</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipDate>2022-09-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001210</bioguideId>
+        <fullName>Rep. Murphy, Gregory [R-NC-3]</fullName>
+        <firstName>Gregory</firstName>
+        <lastName>Murphy</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>M001210</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-09-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Arms control and nonproliferation</name>
+        </item>
+        <item>
+          <name>Asia</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Congressional-executive branch relations</name>
+        </item>
+        <item>
+          <name>Diplomacy, foreign officials, Americans abroad</name>
+        </item>
+        <item>
+          <name>House of Representatives</name>
+        </item>
+        <item>
+          <name>International law and treaties</name>
+        </item>
+        <item>
+          <name>Iran</name>
+        </item>
+        <item>
+          <name>Middle East</name>
+        </item>
+        <item>
+          <name>Nuclear power</name>
+        </item>
+        <item>
+          <name>Nuclear weapons</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-07-26</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-10-06T16:09:23Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution requests the President to transmit to the House of Representatives, copies of any document, memorandum, or other communication in his possession, or any portion thereof, that refers or relates to any initiative or negotiations regarding Iran's nuclear program that may be required under the Atomic Energy Act of 1954.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Requesting the President to transmit certain documents to the House of Representatives relating to any initiative or negotiations regarding Iran's nuclear program.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Requesting the President to transmit certain documents to the House of Representatives relating to any initiative or negotiations regarding Iran's nuclear program.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Requesting the President to transmit certain documents to the House of Representatives relating to any initiative or negotiations regarding Iran's nuclear program.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2022-09-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1266rh/xml/BILLS-117hres1266rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-07-26T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1266ih/xml/BILLS-117hres1266ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-09-20</actionDate>
+      <text>Placed on the House Calendar, Calendar No. 101.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

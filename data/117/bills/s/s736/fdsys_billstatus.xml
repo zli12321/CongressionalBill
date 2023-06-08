@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>736</number>
+    <updateDate>2022-12-31T08:01:15Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:01:15Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-03-11</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-11T21:13:24Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Assault Weapons Ban of 2022</title>
+        <congress>117</congress>
+        <number>1808</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-08-01</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Keep Americans Safe Act</title>
+        <congress>117</congress>
+        <number>1108</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-04-14</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Keep Americans Safe Act</title>
+        <congress>117</congress>
+        <number>2510</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-10-19</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Keep Americans Safe Act</title>
+        <congress>117</congress>
+        <number>9207</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-10-21</actionDate>
+          <text>Referred to the House Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-03-11</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-03-11</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>Dianne</firstName>
+        <lastName>Feinstein</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000148</bioguideId>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <firstName>Charles</firstName>
+        <lastName>Schumer</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Durbin</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>Edward</firstName>
+        <lastName>Markey</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Schatz</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000174</bioguideId>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Carper</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000944</bioguideId>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <firstName>Sherrod</firstName>
+        <lastName>Brown</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001076</bioguideId>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Maggie</firstName>
+        <lastName>Hassan</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <firstName>Bernard</firstName>
+        <lastName>Sanders</lastName>
+        <party>I</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <lastName>Kaine</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000122</bioguideId>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <firstName>John</firstName>
+        <lastName>Reed</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>R000122</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000805</bioguideId>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Warner</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001042</bioguideId>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <firstName>Mazie</firstName>
+        <lastName>Hirono</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>Ron</firstName>
+        <lastName>Wyden</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Cardin</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000128</bioguideId>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000622</bioguideId>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <firstName>Tammy</firstName>
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000570</bioguideId>
+        <fullName>Sen. Lujan, Ben Ray [D-NM]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Lujan</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000145</bioguideId>
+        <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+        <firstName>Alex</firstName>
+        <lastName>Padilla</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000145</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001111</bioguideId>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <firstName>Patty</firstName>
+        <lastName>Murray</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <firstName>Debbie</firstName>
+        <lastName>Stabenow</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H000273</bioguideId>
+        <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+        <firstName>John</firstName>
+        <lastName>Hickenlooper</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>H000273</bioguideId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2021-03-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>Tammy</firstName>
+        <lastName>Baldwin</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000790</bioguideId>
+        <fullName>Sen. Warnock, Raphael G. [D-GA]</fullName>
+        <firstName>Raphael</firstName>
+        <lastName>Warnock</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>W000790</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2021-06-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001267</bioguideId>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Bennet</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-11-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-12-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000174</bioguideId>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <firstName>Patrick</firstName>
+        <lastName>Leahy</lastName>
+        <party>D</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-12-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Criminal justice information and records</name>
+        </item>
+        <item>
+          <name>Criminal procedure and sentencing</name>
+        </item>
+        <item>
+          <name>Department of Justice</name>
+        </item>
+        <item>
+          <name>Firearms and explosives</name>
+        </item>
+        <item>
+          <name>Law enforcement administration and funding</name>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+        </item>
+        <item>
+          <name>Retail and wholesale trades</name>
+        </item>
+        <item>
+          <name>Trade restrictions</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Crime and Law Enforcement</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-11</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-01-24T18:57:50Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Assault Weapons Ban of 2021</strong></p> <p>This bill makes it a crime to knowingly import, sell, manufacture, transfer, or possess a semiautomatic assault weapon (SAW) or large capacity ammunition feeding device (LCAFD).</p> <p>The prohibition does not apply to a firearm that is (1) manually operated by bolt, pump, lever, or slide action; (2) permanently inoperable; (3) an antique; or (4) a rifle or shotgun specifically identified by make and model.</p> <p>The bill also exempts from the prohibition the following, with respect to a SAW or LCAFD:</p> <ul> <li> importation, sale, manufacture, transfer, or possession related to certain law enforcement efforts, or authorized tests or experiments; </li> <li>importation, sale, transfer, or possession related to securing nuclear materials; and</li> <li> possession by a retired law enforcement officer. </li> </ul> <p>The bill permits continued possession, sale, or transfer of a grandfathered SAW, which must be securely stored. A licensed gun dealer must conduct a background check prior to the sale or transfer of a grandfathered SAW between private parties.</p> <p>The bill permits continued possession of, but prohibits sale or transfer of, a grandfathered LCAFD.</p> <p>Newly manufactured LCAFDs must display serial number identification. Newly manufactured SAWs and LCAFDs must display the date of manufacture.</p> <p> The bill also allows a state or local government to use Edward Byrne Memorial Justice Assistance Grant Program funds to compensate individuals who surrender a SAW or LCAFD under a buy-back program.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Assault Weapons Ban of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Assault Weapons Ban of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Assault Weapons Ban of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to regulate assault weapons, to ensure that the right to keep and bear arms is not unlimited, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-03-11T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s736is/xml/BILLS-117s736is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-11</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

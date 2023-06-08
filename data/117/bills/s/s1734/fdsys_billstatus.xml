@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1734</number>
+    <updateDate>2022-12-31T13:59:59Z</updateDate>
+    <updateDateIncludingText>2022-12-31T13:59:59Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-05-20</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sseg00</systemCode>
+        <name>Energy and Natural Resources Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Hearings by</name>
+            <date>2021-10-21T14:44:16Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-20T17:04:43Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>National Prescribed Fire Act of 2021</title>
+        <congress>117</congress>
+        <number>3442</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-09</actionDate>
+          <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-10-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-05-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-05-20</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>Ron</firstName>
+        <lastName>Wyden</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joseph</firstName>
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000127</bioguideId>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <firstName>Maria</firstName>
+        <lastName>Cantwell</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>Dianne</firstName>
+        <lastName>Feinstein</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000145</bioguideId>
+        <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+        <firstName>Alex</firstName>
+        <lastName>Padilla</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000145</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-03-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Air quality</name>
+        </item>
+        <item>
+          <name>Department of Agriculture</name>
+        </item>
+        <item>
+          <name>Department of the Interior</name>
+        </item>
+        <item>
+          <name>Ecology</name>
+        </item>
+        <item>
+          <name>Emergency planning and evacuation</name>
+        </item>
+        <item>
+          <name>Employee hiring</name>
+        </item>
+        <item>
+          <name>Employment and training programs</name>
+        </item>
+        <item>
+          <name>Environmental assessment, monitoring, research</name>
+        </item>
+        <item>
+          <name>Fires</name>
+        </item>
+        <item>
+          <name>First responders and emergency personnel</name>
+        </item>
+        <item>
+          <name>Forests, forestry, trees</name>
+        </item>
+        <item>
+          <name>Government employee pay, benefits, personnel management</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government liability</name>
+        </item>
+        <item>
+          <name>Government trust funds</name>
+        </item>
+        <item>
+          <name>Indian lands and resources rights</name>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+        </item>
+        <item>
+          <name>Marketing and advertising</name>
+        </item>
+        <item>
+          <name>Parks, recreation areas, trails</name>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+        </item>
+        <item>
+          <name>Temporary and part-time employment</name>
+        </item>
+        <item>
+          <name>Veterans' education, employment, rehabilitation</name>
+        </item>
+        <item>
+          <name>Wages and earnings</name>
+        </item>
+        <item>
+          <name>Wilderness and natural areas, wildlife refuges, wild rivers, habitats</name>
+        </item>
+        <item>
+          <name>Wildlife conservation and habitat protection</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Public Lands and Natural Resources</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-20</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-10-05T19:27:35Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>National Prescribed Fire Act of 2021</strong> </p><p>This bill directs the Department of Agriculture (USDA) and the Department of the Interior to significantly increase the number and size of prescribed fires conducted on federal lands.</p> <p>Before the end of FY2023, Interior and USDA shall each have carried out a minimum of one prescribed fire on each unit of the National Forest System (with exceptions), unit of the National Wildlife Refuge System, unit of the National Park System, and Bureau of Land Management district (1) that includes an area that has a historical low-severity fire regime, has a historical fire-return interval of not more than 35 years, and is larger than 100 acres; and (2) less than half of which was burned by a wildland fire during the previous 10-year period. </p> <p>Interior shall establish a collaborative prescribed fire program to provide financial assistance to eligible entities to conduct prescribed fires in priority landscapes.</p> <p>Interior shall establish an incentive program to encourage the implementation of large, cross-boundary prescribed fires.</p> <p>Interior and USDA shall hire additional employees and provide training to increase the number of skilled and qualified prescribed fire practitioners in the departments and other organizations.</p> <p>To address the public health and safety risk of the expanded use of prescribed fire, USDA and Interior shall conduct research to improve or develop, among other things, cost-effective, and consistent mitigation strategies for communities impacted adversely by smoke from prescribed fire.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>National Prescribed Fire Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>National Prescribed Fire Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to direct the Secretary of the Interior and the Secretary of Agriculture to encourage and expand the use of prescribed fire on land managed by the Department of the Interior or the Forest Service, with an emphasis on units of the National Forest System in the western United States, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>National Prescribed Fire Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-05-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1734is/xml/BILLS-117s1734is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-21</actionDate>
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

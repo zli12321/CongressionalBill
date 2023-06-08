@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1323</number>
+    <updateDate>2022-12-29T12:04:14Z</updateDate>
+    <updateDateIncludingText>2022-12-29T12:04:14Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2022-08-16</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju08</systemCode>
+            <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2022-11-01T16:02:06Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-08-16T17:00:25Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-11-01</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju08</systemCode>
+            <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-08-16</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-08-16</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-08-16</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001061</bioguideId>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <firstName>Emanuel</firstName>
+        <lastName>Cleaver</lastName>
+        <party>D</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>C001061</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>G000546</bioguideId>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <firstName>SAM</firstName>
+        <lastName>GRAVES</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>G000546</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-08-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Armed Forces and National Security</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Crime and Law Enforcement</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-08-16</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-10-31T10:28:04Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution honors the memory and legacy of Officer Daniel Vasquez, who made the ultimate sacrifice in the line of duty. The resolution also expresses condolences to his loved ones. </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Honoring the life of fallen Officer Daniel Vasquez and expressing condolences to his family.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Honoring the life of fallen Officer Daniel Vasquez and expressing condolences to his family.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Honoring the life of fallen Officer Daniel Vasquez and expressing condolences to his family.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-08-16T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1323ih/xml/BILLS-117hres1323ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-11-01</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

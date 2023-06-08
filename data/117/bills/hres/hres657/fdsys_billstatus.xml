@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>657</number>
+    <updateDate>2022-12-30T11:33:14Z</updateDate>
+    <updateDateIncludingText>2022-12-30T11:33:14Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-09-17</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsed00</systemCode>
+        <name>Education and Labor Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-09-17T14:00:45Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-09-17</actionDate>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Labor Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-09-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-09-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>V000132</bioguideId>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <firstName>Filemon</firstName>
+        <lastName>Vela</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>V000132</bioguideId>
+        </identifiers>
+        <district>34</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Art, artists, authorship</name>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>Historical and cultural resources</name>
+        </item>
+        <item>
+          <name>Music</name>
+        </item>
+        <item>
+          <name>Texas</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Arts, Culture, Religion</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-09-17</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-10-07T17:12:21Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution honors and congratulates the musical achievements of Tejano artists and celebrates Tejano musicians and artists who share with the world the richness and strength of South Texas culture and heritage.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Expressing the sense of Congress regarding the achievements of Tejano music artists such as Freddy Fender, Roberto Pulido, Flaco Jimenez, and Selena Quintanilla, in recognition of their contributions to the cultural heritage and diversity of the United States.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of Congress regarding the achievements of Tejano music artists such as Freddy Fender, Roberto Pulido, Flaco Jimenez, and Selena Quintanilla, in recognition of their contributions to the cultural heritage and diversity of the United States.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of Congress regarding the achievements of Tejano music artists such as Freddy Fender, Roberto Pulido, Flaco Jimenez, and Selena Quintanilla, in recognition of their contributions to the cultural heritage and diversity of the United States.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-09-17T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres657ih/xml/BILLS-117hres657ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-09-17</actionDate>
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

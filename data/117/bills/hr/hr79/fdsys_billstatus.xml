@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>79</number>
+    <updateDate>2022-12-16T14:11:29Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:11:29Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-01-04</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 2 (Monday, January 4, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. COHEN:H.R. 79.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H53]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-03T00:22:02Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-01-04T15:22:40Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-02-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-01-04</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-01-04</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-04</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <firstName>SHEILA</firstName>
+        <lastName>JACKSON LEE</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <district>18</district>
+        <sponsorshipDate>2021-01-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000604</bioguideId>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <firstName>Donald</firstName>
+        <lastName>Payne</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>10</district>
+        <sponsorshipDate>2021-01-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000486</bioguideId>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <firstName>LUCILLE</firstName>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>R000486</bioguideId>
+        </identifiers>
+        <district>40</district>
+        <sponsorshipDate>2021-01-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000624</bioguideId>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <firstName>Debbie</firstName>
+        <lastName>Dingell</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2021-01-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000631</bioguideId>
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <firstName>Madeleine</firstName>
+        <lastName>Dean</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>D000631</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-01-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000490</bioguideId>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <firstName>SANFORD</firstName>
+        <lastName>BISHOP</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-01-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000515</bioguideId>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <firstName>BOBBY</firstName>
+        <lastName>RUSH</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-01-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000586</bioguideId>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <firstName>Al</firstName>
+        <lastName>Lawson</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>L000586</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-01-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-01-04</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001300</bioguideId>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <firstName>Nanette</firstName>
+        <lastName>Barragan</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>B001300</bioguideId>
+        </identifiers>
+        <middleName>Diaz</middleName>
+        <district>44</district>
+        <sponsorshipDate>2021-01-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000586</bioguideId>
+        <fullName>Rep. Garcia, Jesus G. "Chuy" [D-IL-4]</fullName>
+        <firstName>Jesus</firstName>
+        <lastName>Garcia</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>G000586</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-01-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000582</bioguideId>
+        <fullName>Resident Commissioner González-Colón, Jenniffer [R-PR-At Large]</fullName>
+        <firstName>Jenniffer</firstName>
+        <lastName>Gonzalez-Colon</lastName>
+        <party>R</party>
+        <state>PR</state>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2021-01-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>Y000062</bioguideId>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <firstName>John</firstName>
+        <lastName>Yarmuth</lastName>
+        <party>D</party>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>Y000062</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-02-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000126</bioguideId>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <firstName>EDDIE</firstName>
+        <lastName>JOHNSON</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000126</bioguideId>
+        </identifiers>
+        <middleName>BERNICE</middleName>
+        <district>30</district>
+        <sponsorshipDate>2021-06-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001081</bioguideId>
+        <fullName>Rep. Hayes, Jahana [D-CT-5]</fullName>
+        <firstName>Jahana</firstName>
+        <lastName>Hayes</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>H001081</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-09-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000385</bioguideId>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <firstName>Robin</firstName>
+        <lastName>Kelly</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-09-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000173</bioguideId>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <firstName>Ilhan</firstName>
+        <lastName>Omar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>O000173</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000797</bioguideId>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <firstName>Debbie</firstName>
+        <lastName>Wasserman Schultz</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <district>23</district>
+        <sponsorshipDate>2021-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000009</bioguideId>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <firstName>MARCY</firstName>
+        <lastName>KAPTUR</lastName>
+        <party>D</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raúl M. [D-AZ-3]</fullName>
+        <firstName>Raúl</firstName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001143</bioguideId>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <firstName>BETTY</firstName>
+        <lastName>MCCOLLUM</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-11-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000468</bioguideId>
+        <fullName>Rep. Fletcher, Lizzie [D-TX-7]</fullName>
+        <firstName>Lizzie</firstName>
+        <lastName>Fletcher</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000468</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-11-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001072</bioguideId>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <firstName>Andre</firstName>
+        <lastName>Carson</lastName>
+        <party>D</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>C001072</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-12-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-12-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000193</bioguideId>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <firstName>BENNIE</firstName>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-12-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001303</bioguideId>
+        <fullName>Rep. Blunt Rochester, Lisa [D-DE-At Large]</fullName>
+        <firstName>Lisa</firstName>
+        <lastName>Blunt Rochester</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <bioguideId>B001303</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2022-02-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-11-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Child health</name>
+        </item>
+        <item>
+          <name>Health care coverage and access</name>
+        </item>
+        <item>
+          <name>Health information and medical records</name>
+        </item>
+        <item>
+          <name>Health programs administration and funding</name>
+        </item>
+        <item>
+          <name>Health promotion and preventive care</name>
+        </item>
+        <item>
+          <name>Medical research</name>
+        </item>
+        <item>
+          <name>Women's health</name>
+        </item>
+        <item>
+          <name>World health</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-01-04</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-01-27T22:51:10Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Nationally Enhancing the Well-being of Babies through Outreach and Research Now Act or the NEWBORN Act</b></p> <p>This bill establishes a pilot program through which the Health Resources and Services Administration must award grants to territorial, tribal, and local health departments in areas with the highest rates of infant mortality to address birth defects, premature births, and other leading causes of infant death.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>NEWBORN Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>NEWBORN Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>NEWBORN Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Nationally Enhancing the Well-being of Babies through Outreach and Research Now Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To authorize funding for the creation and implementation of infant mortality pilot programs in standard metropolitan statistical areas with high rates of infant mortality, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-01-04T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr79ih/xml/BILLS-117hr79ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-02</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

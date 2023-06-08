@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>642</number>
+    <updateDate>2022-12-31T08:01:17Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:01:17Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-03-09</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sscm00</systemCode>
+        <name>Commerce, Science, and Transportation Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-09T23:19:20Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Air Carrier Access Amendments Act of 2021</title>
+        <congress>117</congress>
+        <number>1696</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-03-10</actionDate>
+          <text>Referred to the Subcommittee on Aviation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-03-09</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-03-09</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001230</bioguideId>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <firstName>Tammy</firstName>
+        <lastName>Baldwin</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>Edward</firstName>
+        <lastName>Markey</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2021-03-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000622</bioguideId>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <firstName>Tammy</firstName>
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001076</bioguideId>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Maggie</firstName>
+        <lastName>Hassan</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-03-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2022-04-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2022-06-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>Dianne</firstName>
+        <lastName>Feinstein</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-09-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Access Board</name>
+        </item>
+        <item>
+          <name>Administrative remedies</name>
+        </item>
+        <item>
+          <name>Aviation and airports</name>
+        </item>
+        <item>
+          <name>Civil actions and liability</name>
+        </item>
+        <item>
+          <name>Consumer affairs</name>
+        </item>
+        <item>
+          <name>Department of Transportation</name>
+        </item>
+        <item>
+          <name>Disability and health-based discrimination</name>
+        </item>
+        <item>
+          <name>Disability and paralysis</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Transportation and Public Works</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-09</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-07-19T12:46:04Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Air Carrier Access Amendments Act of 2021</strong></p> <p>This bill expands provisions prohibiting discrimination against disabled individuals by an air carrier. Specifically, it enumerates certain actions that an air carrier must take or may not take with respect to a disabled individual. It also requires the Department of Transportation (DOT) to ensure that disabled individuals traveling in air transportation are able to file complaints with DOT in response to disability-related discrimination and receive assistance from DOT through a hotline or comparable electronic means.</p> <p>The bill authorizes an aggrieved individual and the Department of Justice to bring a civil action for discrimination.</p> <p>The Architectural and Transportation Barriers Compliance Board shall prescribe regulations setting forth minimum standards for aircraft with new or existing type certificates to ensure the accessibility of individuals with disabilities, including those who use wheelchairs. The standards shall address, among other things, boarding and deplaning equipment, seating accommodations, lavatories, visually accessible announcements, and proper stowage of assistive devices in the cargo hold to prevent damage. </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Air Carrier Access Amendments Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Air Carrier Access Amendments Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Air Carrier Access Amendments Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to protect the rights of passengers with disabilities in air transportation, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-03-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s642is/xml/BILLS-117s642is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-09</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>675</number>
+    <updateDate>2022-12-29T17:48:32Z</updateDate>
+    <updateDateIncludingText>2022-12-29T17:48:32Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>SRES</type>
+    <introducedDate>2022-06-15</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged from</name>
+            <date>2022-08-07T02:44:08Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2022-06-15T15:40:17Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-08-06</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (text: CR S4164)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-08-06</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent.(text: CR S4164)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-08-06</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S4164)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-08-06</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2022-08-06</actionDate>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-06-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-06-15</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>V000128</bioguideId>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-06-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001310</bioguideId>
+        <fullName>Sen. Braun, Mike [R-IN]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Braun</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-08-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Cardin</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-08-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Immigration</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-06-15</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-12-15T19:22:22Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution recognizes the significant contributions of citizens of Hellenic heritage to the United States. It also commemorates the 100th anniversary of the founding of the American Hellenic Educational Progressive Association.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>55</versionCode>
+        <actionDate>2022-08-06</actionDate>
+        <actionDesc>Passed Senate</actionDesc>
+        <updateDate>2022-12-16T20:18:52Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution recognizes the significant contributions of citizens of Hellenic heritage to the United States. It also commemorates the 100th anniversary of the founding of the American Hellenic Educational Progressive Association.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>A resolution commemorating the 100th Anniversary of the founding of the American Hellenic Educational Progressive Association.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A resolution commemorating the 100th Anniversary of the founding of the American Hellenic Educational Progressive Association.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution commemorating the 100th Anniversary of the founding of the American Hellenic Educational Progressive Association.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>5434</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2022-08-08T17:01:14Z</updateDate>
+        <number>5434</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2022-08-08T04:17:03Z</updateDate>
+        <latestAction>
+          <actionDate>2022-08-06</actionDate>
+          <text>Amendment SA 5434 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 5434</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/5434</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>V000128</bioguideId>
+            <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+            <firstName>Chris</firstName>
+            <lastName>Van Hollen</lastName>
+            <party>D</party>
+            <state>MD</state>
+            <identifiers>
+              <bioguideId>V000128</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <proposedDate>2022-08-06T04:00:00Z</proposedDate>
+        <submittedDate>2022-08-06T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>SRES</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>675</number>
+          <title>A resolution commemorating the 100th Anniversary of the founding of the American Hellenic Educational Progressive Association.</title>
+          <updateDateIncludingText>2022-12-29T17:48:32Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2022-08-06</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 5434 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-08-06</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 5434 proposed by Senator Durbin for Senator Van Hollen. (consideration: CR S4164; text: CR S4164) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-08-06</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-08-06</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-08-06</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 5434 proposed by Senator Durbin for Senator Van Hollen.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-08-06</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 5434 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2022-08-06T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sres675ats/xml/BILLS-117sres675ats.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-06-15T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sres675is/xml/BILLS-117sres675is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-08-06</actionDate>
+      <text>Resolution agreed to in Senate with an amendment and with a preamble by Unanimous Consent. (text: CR S4164)</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

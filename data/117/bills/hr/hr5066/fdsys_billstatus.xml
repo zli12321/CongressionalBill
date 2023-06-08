@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>5066</number>
+    <updateDate>2022-12-30T10:48:27Z</updateDate>
+    <updateDateIncludingText>2022-12-30T10:48:27Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-08-20</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 148 (Friday, August 20, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. MOORE of Utah:H.R. 5066.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 to Provide for the common defense andgeneral welfare of the United States; Regulate commerce; andMake all laws which shall be necessary and proper forcarrying into execution Congress's other powers as providedunder that Article.[Page H4343]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2022-11-01T18:45:28Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-08-20T19:02:25Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsba00</systemCode>
+        <name>Financial Services Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-08-20T19:02:30Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hlig00</systemCode>
+        <name>Intelligence (Permanent Select) Committee</name>
+        <chamber>House</chamber>
+        <type>Select</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-08-20T19:02:20Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-08-20T19:02:15Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-11-01</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-08-20</actionDate>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-08-20</actionDate>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-08-20</actionDate>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hlig00</systemCode>
+            <name>Intelligence (Permanent Select) Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-08-20</actionDate>
+        <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Intelligence (Permanent Select), the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-08-20</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-08-20</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001213</bioguideId>
+        <fullName>Rep. Moore, Blake D. [R-UT-1]</fullName>
+        <firstName>Blake</firstName>
+        <lastName>Moore</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>M001213</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>1</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>W000812</bioguideId>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <firstName>Ann</firstName>
+        <lastName>Wagner</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-08-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000194</bioguideId>
+        <fullName>Rep. Mace, Nancy [R-SC-1]</fullName>
+        <firstName>Nancy</firstName>
+        <lastName>Mace</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>M000194</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-08-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001215</bioguideId>
+        <fullName>Rep. Miller-Meeks, Mariannette [R-IA-2]</fullName>
+        <firstName>Mariannette</firstName>
+        <lastName>Miller-Meeks</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>M001215</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-08-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001306</bioguideId>
+        <fullName>Rep. Balderson, Troy [R-OH-12]</fullName>
+        <firstName>Troy</firstName>
+        <lastName>Balderson</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>B001306</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2021-08-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000564</bioguideId>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <firstName>Doug</firstName>
+        <lastName>Lamborn</lastName>
+        <party>R</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>L000564</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-08-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000294</bioguideId>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Emmer</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-08-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001091</bioguideId>
+        <fullName>Rep. Hinson, Ashley [R-IA-1]</fullName>
+        <firstName>Ashley</firstName>
+        <lastName>Hinson</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>H001091</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-08-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001114</bioguideId>
+        <fullName>Rep. Curtis, John R. [R-UT-3]</fullName>
+        <firstName>John</firstName>
+        <lastName>Curtis</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>C001114</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000597</bioguideId>
+        <fullName>Rep. Garbarino, Andrew R. [R-NY-2]</fullName>
+        <firstName>Andrew</firstName>
+        <lastName>Garbarino</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000597</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000552</bioguideId>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <firstName>Louie</firstName>
+        <lastName>Gohmert</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000603</bioguideId>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <firstName>David</firstName>
+        <lastName>Rouzer</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>R000603</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000576</bioguideId>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000825</bioguideId>
+        <fullName>Rep. Boebert, Lauren [R-CO-3]</fullName>
+        <firstName>Lauren</firstName>
+        <lastName>Boebert</lastName>
+        <party>R</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>B000825</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000369</bioguideId>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Amodei</lastName>
+        <party>R</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>A000369</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-10-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Afghanistan</name>
+        </item>
+        <item>
+          <name>Alliances</name>
+        </item>
+        <item>
+          <name>Asia</name>
+        </item>
+        <item>
+          <name>Aviation and airports</name>
+        </item>
+        <item>
+          <name>Bank accounts, deposits, capital</name>
+        </item>
+        <item>
+          <name>China</name>
+        </item>
+        <item>
+          <name>Conflicts and wars</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Diplomacy, foreign officials, Americans abroad</name>
+        </item>
+        <item>
+          <name>Emergency planning and evacuation</name>
+        </item>
+        <item>
+          <name>Europe</name>
+        </item>
+        <item>
+          <name>Foreign and international banking</name>
+        </item>
+        <item>
+          <name>Foreign labor</name>
+        </item>
+        <item>
+          <name>Foreign property</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Human rights</name>
+        </item>
+        <item>
+          <name>Intelligence activities, surveillance, classified information</name>
+        </item>
+        <item>
+          <name>Iran</name>
+        </item>
+        <item>
+          <name>Middle East</name>
+        </item>
+        <item>
+          <name>Military facilities and property</name>
+        </item>
+        <item>
+          <name>Military operations and strategy</name>
+        </item>
+        <item>
+          <name>Military personnel and dependents</name>
+        </item>
+        <item>
+          <name>Mining</name>
+        </item>
+        <item>
+          <name>Pakistan</name>
+        </item>
+        <item>
+          <name>Presidents and presidential powers, Vice Presidents</name>
+        </item>
+        <item>
+          <name>Russia</name>
+        </item>
+        <item>
+          <name>Sanctions</name>
+        </item>
+        <item>
+          <name>Sovereignty, recognition, national governance and status</name>
+        </item>
+        <item>
+          <name>Terrorism</name>
+        </item>
+        <item>
+          <name>Visas and passports</name>
+        </item>
+        <item>
+          <name>War and emergency powers</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-08-20</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-09-15T14:01:39Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Afghanistan Accountability Act</strong></p> <p>This bill requires the President to impose sanctions on certain foreign persons, such as Taliban officials, and requires reports related to Afghanistan.</p> <p>The President must impose asset- and visa-blocking sanctions on any foreign person who (1) is an official, agent, or instrumentality of the Taliban; (2) has acted to undermine democratic institutions or threaten the stability of Afghanistan; (3) has acted to limit or penalize freedom of expression in Afghanistan, particularly the freedom of expression of women; (4) has committed serious human rights abuses in Afghanistan; or (5) operates in the mining sector in Afghanistan. The sanctions also apply to certain immediate relatives of such persons and those who provide material support to such persons. </p> <p>The bill also requires reports to Congress on (1) the intelligence provided to the President and policymakers prior to and concerning the withdrawal of U.S. troops from Afghanistan, (2) whether the Taliban meets the criteria for designation as a foreign terrorist organization, and (3) human rights violations by the Taliban against individuals who supported U.S. efforts in Afghanistan.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Afghanistan Accountability Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Afghanistan Accountability Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Afghanistan Accountability Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require an intelligence assessment of the production, planning, and communication of intelligence relating to the withdrawal of United States military from Afghanistan, impose sanctions on the Taliban, report on human rights violations against Afghan individuals who supported the United States, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-08-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr5066ih/xml/BILLS-117hr5066ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-11-01</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

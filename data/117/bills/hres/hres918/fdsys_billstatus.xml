@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>918</number>
+    <updateDate>2022-12-30T04:33:53Z</updateDate>
+    <updateDateIncludingText>2022-12-30T04:33:53Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2022-02-09</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsgo00</systemCode>
+        <name>Oversight and Reform Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-02-09T14:02:10Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-02-09</actionDate>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-02-09</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-02-09</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>E000297</bioguideId>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <firstName>Adriano</firstName>
+        <lastName>Espaillat</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>V000081</bioguideId>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <firstName>NYDIA</firstName>
+        <lastName>VELAZQUEZ</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001067</bioguideId>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <firstName>Yvette</firstName>
+        <lastName>Clarke</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000002</bioguideId>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <firstName>JERROLD</firstName>
+        <lastName>NADLER</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001223</bioguideId>
+        <fullName>Rep. Bowman, Jamaal [D-NY-16]</fullName>
+        <firstName>Jamaal</firstName>
+        <lastName>Bowman</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>B001223</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000087</bioguideId>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <firstName>CAROLYN</firstName>
+        <lastName>MALONEY</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <district>12</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001137</bioguideId>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <firstName>GREGORY</firstName>
+        <lastName>MEEKS</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <district>5</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000294</bioguideId>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <firstName>Hakeem</firstName>
+        <lastName>Jeffries</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>J000294</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>8</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001201</bioguideId>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001188</bioguideId>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <firstName>Grace</firstName>
+        <lastName>Meng</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000486</bioguideId>
+        <fullName>Rep. Torres, Ritchie [D-NY-15]</fullName>
+        <firstName>Ritchie</firstName>
+        <lastName>Torres</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>T000486</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000306</bioguideId>
+        <fullName>Rep. Jones, Mondaire [D-NY-17]</fullName>
+        <firstName>Mondaire</firstName>
+        <lastName>Jones</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>J000306</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000296</bioguideId>
+        <fullName>Rep. Evans, Dwight [D-PA-3]</fullName>
+        <firstName>Dwight</firstName>
+        <lastName>Evans</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000490</bioguideId>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <firstName>SANFORD</firstName>
+        <lastName>BISHOP</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000172</bioguideId>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <firstName>Alexandria</firstName>
+        <lastName>Ocasio-Cortez</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>O000172</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000553</bioguideId>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <firstName>Al</firstName>
+        <lastName>Green</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2022-03-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Art, artists, authorship</name>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>Historical and cultural resources</name>
+        </item>
+        <item>
+          <name>Literature</name>
+        </item>
+        <item>
+          <name>Low- and moderate-income housing</name>
+        </item>
+        <item>
+          <name>Music</name>
+        </item>
+        <item>
+          <name>New York City</name>
+        </item>
+        <item>
+          <name>Performing arts</name>
+        </item>
+        <item>
+          <name>Political movements and philosophies</name>
+        </item>
+        <item>
+          <name>Racial and ethnic relations</name>
+        </item>
+        <item>
+          <name>U.S. history</name>
+        </item>
+        <item>
+          <name>Urban and suburban affairs and development</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Arts, Culture, Religion</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-02-09</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-03-24T18:58:01Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution recognizes that the Harlem Renaissance represented a pivotal moment in American history for African Americans and the African diaspora community of intellectuals, artists, performers, writers, poets, and musicians whose works of political discourse and creative expression set a path for self-determination and self-empowerment that is still evident today.</p> <p>The resolution also celebrates the lasting impact of the Harlem Renaissance on the art, literature, music, discourse, and culture of the United States.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Honoring the legacy of the Harlem Renaissance, a cultural, social, and political movement in American history.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Honoring the legacy of the Harlem Renaissance, a cultural, social, and political movement in American history.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Honoring the legacy of the Harlem Renaissance, a cultural, social, and political movement in American history.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-02-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres918ih/xml/BILLS-117hres918ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-02-09</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

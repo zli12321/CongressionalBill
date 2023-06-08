@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>764</number>
+    <updateDate>2022-12-30T08:18:21Z</updateDate>
+    <updateDateIncludingText>2022-12-30T08:18:21Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-11-02</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsfa05</systemCode>
+            <name>Asia, the Pacific, Central Asia, and Nonproliferation</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2022-02-22T19:42:10Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-11-02T14:03:00Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-02-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa05</systemCode>
+            <name>Asia, the Pacific, Central Asia, and Nonproliferation</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Asia, the Pacific, Central Asia and Nonproliferation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-11-02</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-11-02</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-11-02</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000391</bioguideId>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <firstName>Raja</firstName>
+        <lastName>Krishnamoorthi</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>K000391</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000344</bioguideId>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <firstName>BRAD</firstName>
+        <lastName>SHERMAN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <district>30</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000129</bioguideId>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <firstName>David</firstName>
+        <lastName>Valadao</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>V000129</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>21</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000096</bioguideId>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <firstName>WILLIAM</firstName>
+        <lastName>PASCRELL</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <district>9</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000389</bioguideId>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <firstName>Ro</firstName>
+        <lastName>Khanna</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000482</bioguideId>
+        <fullName>Rep. Doyle, Michael F. [D-PA-18]</fullName>
+        <firstName>MIKE</firstName>
+        <lastName>DOYLE</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>D000482</bioguideId>
+        </identifiers>
+        <district>18</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000822</bioguideId>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <firstName>Bonnie</firstName>
+        <lastName>Watson Coleman</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001059</bioguideId>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Costa</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000298</bioguideId>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <firstName>Pramila</firstName>
+        <lastName>Jayapal</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000523</bioguideId>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <firstName>DAVID</firstName>
+        <lastName>PRICE</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>P000523</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <firstName>Gerald</firstName>
+        <lastName>Connolly</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>11</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000034</bioguideId>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <firstName>FRANK</firstName>
+        <lastName>PALLONE</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>P000034</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000002</bioguideId>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <firstName>JERROLD</firstName>
+        <lastName>NADLER</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000515</bioguideId>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <firstName>BOBBY</firstName>
+        <lastName>RUSH</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-11-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001292</bioguideId>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <firstName>Donald</firstName>
+        <lastName>Beyer</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>8</district>
+        <sponsorshipDate>2022-06-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Arts, Culture, Religion</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-11-02</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-11-12T18:03:46Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution recognizes the religious and historical significance of Diwali.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Recognizing the religious and historical significance of the festival of Diwali.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recognizing the religious and historical significance of the festival of Diwali.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing the religious and historical significance of the festival of Diwali.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-11-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres764ih/xml/BILLS-117hres764ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-02-22</actionDate>
+      <text>Referred to the Subcommittee on Asia, the Pacific, Central Asia and Nonproliferation.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

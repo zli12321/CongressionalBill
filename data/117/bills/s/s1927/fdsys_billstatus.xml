@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1927</number>
+    <updateDate>2022-12-31T13:59:54Z</updateDate>
+    <updateDateIncludingText>2022-12-31T13:59:54Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-05-27</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sshr00</systemCode>
+        <name>Health, Education, Labor, and Pensions Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2021-11-15T21:35:55Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2021-06-10T14:00:00Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-27T21:11:25Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-11-15</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 165.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2021-11-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-11-15</actionDate>
+        <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-06-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-05-27</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-05-27</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001111</bioguideId>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <firstName>Patty</firstName>
+        <lastName>Murray</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Burr</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <middleName>Mauze</middleName>
+        <sponsorshipDate>2021-05-27</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <lastName>Kaine</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2021-06-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000570</bioguideId>
+        <fullName>Sen. Lujan, Ben Ray [D-NM]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Lujan</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2021-06-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-06-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-06-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2021-10-15T15:13:00Z</pubDate>
+        <title>S. 1927, CAPTA Reauthorization Act of 2021</title>
+        <url>https://www.cbo.gov/publication/57550</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Families</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Adoption and foster care</name>
+        </item>
+        <item>
+          <name>Child health</name>
+        </item>
+        <item>
+          <name>Child safety and welfare</name>
+        </item>
+        <item>
+          <name>Community life and organization</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Department of Health and Human Services</name>
+        </item>
+        <item>
+          <name>Domestic violence and child abuse</name>
+        </item>
+        <item>
+          <name>Drug, alcohol, tobacco use</name>
+        </item>
+        <item>
+          <name>Emergency communications systems</name>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+        </item>
+        <item>
+          <name>Family services</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Health information and medical records</name>
+        </item>
+        <item>
+          <name>Health programs administration and funding</name>
+        </item>
+        <item>
+          <name>Health promotion and preventive care</name>
+        </item>
+        <item>
+          <name>Indian social and development programs</name>
+        </item>
+        <item>
+          <name>Judicial procedure and administration</name>
+        </item>
+        <item>
+          <name>Mental health</name>
+        </item>
+        <item>
+          <name>Minority health</name>
+        </item>
+        <item>
+          <name>Performance measurement</name>
+        </item>
+        <item>
+          <name>Separation, divorce, custody, support</name>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+        </item>
+        <item>
+          <name>Telephone and wireless communication</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Families</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-27</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-01-25T22:03:10Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>CAPTA Reauthorization Act of 20</b><strong>21</strong></p> <p>This bill revises and reauthorizes through FY2027 state and community-based child abuse and prevention grants programs, supports for adoption and foster care, and other programs addressing child abuse and neglect.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>25</versionCode>
+        <actionDate>2021-11-15</actionDate>
+        <actionDesc>Reported to Senate</actionDesc>
+        <updateDate>2022-01-26T14:52:04Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>CAPTA Reauthorization Act of 20</b><strong>21</strong></p> <p>This bill revises and reauthorizes through FY2027 state and community-based child abuse and prevention grants programs, supports for adoption and foster care, and other programs addressing child abuse and neglect.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>CAPTA Reauthorization Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>CAPTA Reauthorization Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Child Abuse Prevention and Treatment Act.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>CAPTA Reauthorization Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <title>CAPTA Reauthorization Act of 2021</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Reported to Senate</billTextVersionName>
+        <billTextVersionCode>RS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2021-11-15T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1927rs/xml/BILLS-117s1927rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-05-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1927is/xml/BILLS-117s1927is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-11-15</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 165.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3428</number>
+    <updateDate>2022-12-30T03:34:00Z</updateDate>
+    <updateDateIncludingText>2022-12-30T03:34:00Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-12-16</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sseg00</systemCode>
+        <name>Energy and Natural Resources Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged from</name>
+            <date>2022-12-22T23:10:57Z</date>
+          </item>
+          <item>
+            <name>Hearings by</name>
+            <date>2022-03-01T15:00:10Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-12-16T23:15:56Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Fission for the Future Act of 2022</title>
+        <congress>117</congress>
+        <number>7360</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-04-04</actionDate>
+          <text>Referred to the Subcommittee on Energy.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-12-23</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-12-23</actionDate>
+        <actionTime>09:58:17</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-12-23</actionDate>
+        <actionTime>09:38:58</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment and an amendment to the Title by Voice Vote. (text of amendment in the nature of a substitute: CR S10094-10098)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S10104)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-03-01</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-12-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-12-16</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joseph</firstName>
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <firstName>John</firstName>
+        <lastName>Barrasso</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Advanced technology and technological innovations</name>
+        </item>
+        <item>
+          <name>Electric power generation and transmission</name>
+        </item>
+        <item>
+          <name>Employment and training programs</name>
+        </item>
+        <item>
+          <name>Energy research</name>
+        </item>
+        <item>
+          <name>Energy storage, supplies, demand</name>
+        </item>
+        <item>
+          <name>Higher education</name>
+        </item>
+        <item>
+          <name>Infrastructure development</name>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+        </item>
+        <item>
+          <name>Lighting, heating, cooling</name>
+        </item>
+        <item>
+          <name>Nuclear power</name>
+        </item>
+        <item>
+          <name>Research administration and funding</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Energy</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-12-16</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-05-06T15:19:53Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Fission for the Future Act of 2021</b></p> <p>This bill supports the commercial deployment of advanced nuclear reactors. Specifically, the Department of Energy (DOE) must establish a program that provides financial assistance for the commercial planning, licensing, development, and construction of (1) advanced nuclear reactors, or (2) supply chain infrastructure associated with such reactors or related technologies.</p> <p>In addition, the bill reauthorizes through FY2026 and revises a DOE program designed to strengthen university research and training in nuclear science and engineering.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>A bill to require the Secretary of Energy to establish a Nuclear Fuel Security Program, expand the American Assured Fuel Supply Program, and submit a report on a civil nuclear credit program, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill to require the Secretary of Energy to establish a Nuclear Fuel Security Program, expand the American Assured Fuel Supply Program, and submit a report on a civil nuclear credit program, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate</titleType>
+        <title>Fission for the Future Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Secretary of Energy to establish a program to provide Federal financial assistance to support advanced nuclear reactors and associated supply chain infrastructure, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Titles as Amended by Senate</titleType>
+        <title>A bill to require the Secretary of Energy to establish a Nuclear Fuel Security Program, expand the American Assured Fuel Supply Program, and submit a report on a civil nuclear credit program, and for other purposes.</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Fission for the Future Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>6628</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To amend the title.</purpose>
+        <updateDate>2022-12-29T14:46:15Z</updateDate>
+        <number>6628</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To amend the title.</purpose>
+        <updateDate>2022-12-23T05:16:24Z</updateDate>
+        <latestAction>
+          <actionDate>2022-12-22</actionDate>
+          <text>Amendment SA 6628 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 6628</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/6628</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>M001183</bioguideId>
+            <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+            <firstName>Joseph</firstName>
+            <lastName>Manchin</lastName>
+            <party>D</party>
+            <state>WV</state>
+            <identifiers>
+              <bioguideId>M001183</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>2</countIncludingWithdrawnCosponsors>
+          <count>2</count>
+          <item>
+            <bioguideId>B001261</bioguideId>
+            <fullName>Sen. Barrasso, John [R-WY]</fullName>
+            <firstName>John</firstName>
+            <lastName>Barrasso</lastName>
+            <party>R</party>
+            <state>WY</state>
+            <identifiers>
+              <bioguideId>B001261</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-12-22</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>R000584</bioguideId>
+            <fullName>Sen. Risch, James E. [R-ID]</fullName>
+            <firstName>James</firstName>
+            <lastName>Risch</lastName>
+            <party>R</party>
+            <state>ID</state>
+            <identifiers>
+              <bioguideId>R000584</bioguideId>
+            </identifiers>
+            <middleName>E.</middleName>
+            <sponsorshipDate>2022-12-22</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2022-12-22T23:43:00Z</proposedDate>
+        <submittedDate>2022-12-22T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>3428</number>
+          <title>A bill to require the Secretary of Energy to establish a Nuclear Fuel Security Program, expand the American Assured Fuel Supply Program, and submit a report on a civil nuclear credit program, and for other purposes.</title>
+          <updateDateIncludingText>2022-12-30T03:34:00Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6628 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6628 proposed by Senator Schumer for Senator Manchin. (consideration: CR S10104; text: CR S10104) To amend the title.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6628 proposed by Senator Schumer for Senator Manchin.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 6628 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>6627</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2022-12-29T14:46:15Z</updateDate>
+        <number>6627</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2022-12-23T05:16:24Z</updateDate>
+        <latestAction>
+          <actionDate>2022-12-22</actionDate>
+          <text>Amendment SA 6627 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 6627</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/6627</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>M001183</bioguideId>
+            <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+            <firstName>Joseph</firstName>
+            <lastName>Manchin</lastName>
+            <party>D</party>
+            <state>WV</state>
+            <identifiers>
+              <bioguideId>M001183</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>2</countIncludingWithdrawnCosponsors>
+          <count>2</count>
+          <item>
+            <bioguideId>B001261</bioguideId>
+            <fullName>Sen. Barrasso, John [R-WY]</fullName>
+            <firstName>John</firstName>
+            <lastName>Barrasso</lastName>
+            <party>R</party>
+            <state>WY</state>
+            <identifiers>
+              <bioguideId>B001261</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-12-22</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+          <item>
+            <bioguideId>R000584</bioguideId>
+            <fullName>Sen. Risch, James E. [R-ID]</fullName>
+            <firstName>James</firstName>
+            <lastName>Risch</lastName>
+            <party>R</party>
+            <state>ID</state>
+            <identifiers>
+              <bioguideId>R000584</bioguideId>
+            </identifiers>
+            <middleName>E.</middleName>
+            <sponsorshipDate>2022-12-22</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2022-12-22T23:41:49Z</proposedDate>
+        <submittedDate>2022-12-22T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>3428</number>
+          <title>A bill to require the Secretary of Energy to establish a Nuclear Fuel Security Program, expand the American Assured Fuel Supply Program, and submit a report on a civil nuclear credit program, and for other purposes.</title>
+          <updateDateIncludingText>2022-12-30T03:34:00Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6627 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6627 proposed by Senator Schumer for Senator Manchin. (consideration: CR S10104; text: CR S10094-10098) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6627 proposed by Senator Schumer for Senator Manchin.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 6627 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2022-12-22T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3428es/xml/BILLS-117s3428es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-12-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3428is/xml/BILLS-117s3428is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-12-23</actionDate>
+      <text>Message on Senate action sent to the House.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

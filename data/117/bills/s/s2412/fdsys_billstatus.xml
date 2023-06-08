@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2412</number>
+    <updateDate>2022-12-30T10:18:48Z</updateDate>
+    <updateDateIncludingText>2022-12-30T10:18:48Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-07-21</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-21T19:56:07Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>PALS Act</title>
+        <congress>117</congress>
+        <number>4612</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-09-07</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-07-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S5020)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-07-21</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <firstName>Dianne</firstName>
+        <lastName>Feinstein</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <firstName>Marsha</firstName>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001181</bioguideId>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <firstName>Jeanne</firstName>
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001047</bioguideId>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <firstName>Shelley</firstName>
+        <lastName>Capito</lastName>
+        <party>R</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <middleName>Moore</middleName>
+        <sponsorshipDate>2021-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000770</bioguideId>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <firstName>Debbie</firstName>
+        <lastName>Stabenow</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-08-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-21</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-08-15T13:16:17Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Protecting Access to Lifesaving Screenings Act of </b><b>2021</b> <b>or the PALS Act</b></p> <p>This bill makes a series of changes relating to health insurance coverage of screening mammography. </p> <p>Specifically, the bill requires&nbsp;that any provision of law referring to current recommendations of the U.S. Preventive Services Task Force (USPSTF) with respect to breast cancer screening mammography be administered as if (1) the provision referred to USPSTF recommendations last issued before 2009; and (2) those recommendations applied to any screening mammography modality, including any digital modality of such a procedure. This requirement shall also apply to the Veterans Health Administration's policy on mammography screening for veterans.</p> <p>In addition, the bill preserves Medicare coverage for screening mammography, without a requirement for coinsurance, and expands the definition of screening mammography to include any digital modality of such a procedure. Further, the Centers for Medicare &amp; Medicaid&nbsp;Services may not decrease the frequency with which screening mammography may be paid by Medicare for a woman over 39 years of age.</p> <p>In 2009, the USPSTF updated its guidelines to recommend against routine screening mammography for women between 40 to 49 years of age and to recommend biennial, instead of annual, screening mammography for most women between 50 to 74 years of age. In 2015, through the appropriations process, a three-year moratorium was placed on implementing the guidelines; the moratorium was subsequently renewed until January 1, 2023.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Protecting Access to Lifesaving Screenings Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Protecting Access to Lifesaving Screenings Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Protecting Access to Lifesaving Screenings Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>PALS Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title XVIII of the Social Security Act to protect coverage for screening mammography, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-07-21T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2412is/xml/BILLS-117s2412is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-21</actionDate>
+      <text>Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S5020)</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

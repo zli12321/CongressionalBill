@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1675</number>
+    <updateDate>2022-12-31T14:00:01Z</updateDate>
+    <updateDateIncludingText>2022-12-31T14:00:01Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-05-18</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sshr00</systemCode>
+        <name>Health, Education, Labor, and Pensions Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2021-06-08T21:38:03Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2021-05-25T14:00:04Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-18T20:23:16Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Maternal Health Quality Improvement Act of 2021</title>
+        <congress>117</congress>
+        <number>4387</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-21</actionDate>
+          <text>Ordered to be Reported by Voice Vote.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-06-08</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2021-06-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-06-08</actionDate>
+        <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Murray with an amendment in the nature of a substitute. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-05-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-05-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-05-18</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000790</bioguideId>
+        <fullName>Sen. Warnock, Raphael G. [D-GA]</fullName>
+        <firstName>Raphael</firstName>
+        <lastName>Warnock</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>W000790</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001198</bioguideId>
+        <fullName>Sen. Marshall, Roger [R-KS]</fullName>
+        <firstName>Roger</firstName>
+        <lastName>Marshall</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>M001198</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001076</bioguideId>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Maggie</firstName>
+        <lastName>Hassan</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001153</bioguideId>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <firstName>Lisa</firstName>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000377</bioguideId>
+        <fullName>Sen. Kelly, Mark [D-AZ]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Kelly</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>K000377</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-01-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-01-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2021-08-08T12:09:00Z</pubDate>
+        <title>S. 1675, Maternal Health Quality Improvement Act</title>
+        <url>https://www.cbo.gov/publication/57443</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Child health</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Disability and health-based discrimination</name>
+        </item>
+        <item>
+          <name>Education programs funding</name>
+        </item>
+        <item>
+          <name>Employment and training programs</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Health care quality</name>
+        </item>
+        <item>
+          <name>Health personnel</name>
+        </item>
+        <item>
+          <name>Health programs administration and funding</name>
+        </item>
+        <item>
+          <name>Health promotion and preventive care</name>
+        </item>
+        <item>
+          <name>Higher education</name>
+        </item>
+        <item>
+          <name>Immunology and vaccination</name>
+        </item>
+        <item>
+          <name>Medical education</name>
+        </item>
+        <item>
+          <name>Minority health</name>
+        </item>
+        <item>
+          <name>Nursing</name>
+        </item>
+        <item>
+          <name>Women's health</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-18</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-01-12T19:29:08Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Maternal Health Quality Improvement Act</b></p> <p>This bill requires the Department of Health and Human Services (HHS) to establish specified grant programs to support positive maternal health care outcomes for pregnant and postpartum women and their infants.</p> <p>Specifically, HHS must award grants to (1) develop best practices to reduce preventable maternal mortality, and (2) train health care professionals to reduce and prevent discrimination when providing maternal health services. In addition, HHS may award grants to establish evidence-informed, integrated health care services to pregnant and postpartum women and their infants.</p> <p>The bill also provides statutory authority for a grant program that supports perinatal quality collaboratives. These are networks of perinatal care providers and public health professionals that work to improve pregnancy outcomes through continuous quality improvement.</p> <p>HHS also must contract with an independent research organization to study and make recommendations on trainings for health professional schools and education programs on reducing and preventing discrimination in the provision of maternal health services.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>25</versionCode>
+        <actionDate>2021-06-08</actionDate>
+        <actionDesc>Reported to Senate</actionDesc>
+        <updateDate>2022-01-24T23:35:03Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Maternal Health Quality Improvement Act</b></p> <p>This bill requires the Department of Health and Human Services (HHS) to establish specified grant programs to support positive maternal health care outcomes for pregnant and postpartum women and their infants.</p> <p>Specifically, HHS must award grants to (1) develop best practices to reduce preventable maternal mortality, and (2) train health care professionals to reduce and prevent discrimination when providing maternal health services. In addition, HHS may award grants to establish evidence-informed, integrated health care services to pregnant and postpartum women and their infants.</p> <p>The bill also provides statutory authority for a grant program that supports perinatal quality collaboratives. These are networks of perinatal care providers and public health professionals that work to improve pregnancy outcomes through continuous quality improvement.</p> <p>HHS also must (1) contract with an independent research organization to study and make recommendations on trainings for health professional schools and education programs on reducing and preventing discrimination in the provision of maternal health services, and (2) address pregnant and postpartum women and their infants in public awareness initiatives related to vaccinations.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Maternal Health Quality Improvement Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Maternal Health Quality Improvement Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to improve maternal health.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Maternal Health Quality Improvement Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <title>Maternal Health Quality Improvement Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Reported to Senate</billTextVersionName>
+        <billTextVersionCode>RS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2021-06-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1675rs/xml/BILLS-117s1675rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-05-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1675is/xml/BILLS-117s1675is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-06-08</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 71.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

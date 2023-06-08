@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3447</number>
+    <updateDate>2022-12-30T03:48:58Z</updateDate>
+    <updateDateIncludingText>2022-12-30T03:48:58Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-01-07</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sseg00</systemCode>
+        <name>Energy and Natural Resources Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>sseg04</systemCode>
+            <name>National Parks Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings by</name>
+                <date>2022-09-21T14:30:08Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-01-07T17:59:05Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>National Service Animals Memorial Act</title>
+        <congress>117</congress>
+        <number>3438</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2022-01-04</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>National Service Animals Memorial Act</title>
+        <congress>117</congress>
+        <number>6353</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-09-20</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-09-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg04</systemCode>
+            <name>National Parks Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-01-07</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-01-07</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <firstName>Marsha</firstName>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-01-07</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000145</bioguideId>
+        <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+        <firstName>Alex</firstName>
+        <lastName>Padilla</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000145</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-03-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Disability assistance</name>
+        </item>
+        <item>
+          <name>District of Columbia</name>
+        </item>
+        <item>
+          <name>Government trust funds</name>
+        </item>
+        <item>
+          <name>Monuments and memorials</name>
+        </item>
+        <item>
+          <name>Public-private cooperation</name>
+        </item>
+        <item>
+          <name>Service animals</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Arts, Culture, Religion</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-01-07</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-01-13T22:54:02Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>National Service Animals Memorial Act</strong></p> <p>This bill authorizes the National Service Animals Monument Corporation to establish a commemorative work on federal land in the District of Columbia to commemorate the heroic deeds and sacrifices of service animals and handlers of service animals in the United States.</p> <p>The corporation shall be solely responsible for the acceptance of contributions for, and the payment of the expenses of, the establishment of the commemorative work.</p> <p>The establishment of the commemorative work shall be in accordance with the Commemorative Works Act. </p> <p>Federal funds may not be used to pay any expenses for the establishment of the commemorative work. </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>National Service Animals Memorial Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>National Service Animals Memorial Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>National Service Animals Memorial Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to authorize the National Service Animals Monument Corporation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-01-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3447is/xml/BILLS-117s3447is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-09-21</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

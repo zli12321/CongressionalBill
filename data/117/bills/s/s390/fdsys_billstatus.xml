@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>390</number>
+    <updateDate>2022-12-16T14:07:00Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:07:00Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-02-23</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sscm00</systemCode>
+        <name>Commerce, Science, and Transportation Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-23T21:45:35Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Emergency Reporting Act</title>
+        <congress>117</congress>
+        <number>1250</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-21</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-02-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-02-23</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Burr</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <middleName>Mauze</middleName>
+        <sponsorshipDate>2021-02-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Disaster relief and insurance</name>
+        </item>
+        <item>
+          <name>Emergency communications systems</name>
+        </item>
+        <item>
+          <name>Federal Communications Commission (FCC)</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+        </item>
+        <item>
+          <name>Internet and video services</name>
+        </item>
+        <item>
+          <name>Internet, web applications, social media</name>
+        </item>
+        <item>
+          <name>Public participation and lobbying</name>
+        </item>
+        <item>
+          <name>Telephone and wireless communication</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Science, Technology, Communications</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-23</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-03-24T18:39:32Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Emergency Reporting Act</b></p> <p>This bill requires the Federal Communications Commission (FCC) to report on certain activations of the Disaster Information Reporting System (the system through which communications providers report their operational status during times of crisis) and to adopt specified rules related to network outage reporting.</p> <p>If the system was activated for at least seven days, the FCC must issue a preliminary a report that includes (1) the number and duration of any service outages, (2) the approximate number of users or the amount of infrastructure potentially affected by a service outage, and (3) the number and duration of any outages at public safety answering points (PSAPs) that prevent the PSAPs from receiving and routing emergency calls to emergency service personnel. The FCC must also hold at least one public field hearing in the area affected by the event, and it must issue a final report that includes recommendations on how to improve the resiliency of affected communications or networks recovery efforts.</p> <p>The FCC must also determine the circumstances under which it shall require certain service providers to notify a PSAP of a communications service disruption that prevents the origination of 9&#8211;1&#8211;1 calls or the delivery of information that allows the PSAP to identify the number of or locate a 9&#8211;1&#8211;1 caller. Further, the FCC must require this notification to be made and specify the appropriate timing of the notification. </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Emergency Reporting Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Emergency Reporting Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Emergency Reporting Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to direct the Federal Communications Commission to issue reports after activation of the Disaster Information Reporting System and to make improvement to network outage reporting.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-02-23T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s390is/xml/BILLS-117s390is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-23</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

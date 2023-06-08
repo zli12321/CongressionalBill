@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1445</number>
+    <updateDate>2022-12-29T13:34:04Z</updateDate>
+    <updateDateIncludingText>2022-12-29T13:34:04Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2022-10-21</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif03</systemCode>
+            <name>Energy Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2022-10-24T16:10:33Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-10-21T15:02:25Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-10-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif03</systemCode>
+            <name>Energy Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-10-21</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-10-21</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-10-21</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001104</bioguideId>
+        <fullName>Rep. Cawthorn, Madison [R-NC-11]</fullName>
+        <firstName>Madison</firstName>
+        <lastName>Cawthorn</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>C001104</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000479</bioguideId>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <firstName>Van</firstName>
+        <lastName>Taylor</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>T000479</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001302</bioguideId>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <firstName>Andy</firstName>
+        <lastName>Biggs</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Babin</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <district>36</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000599</bioguideId>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Posey</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Burgess</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <district>26</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001120</bioguideId>
+        <fullName>Rep. Crenshaw, Dan [R-TX-2]</fullName>
+        <firstName>Dan</firstName>
+        <lastName>Crenshaw</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001120</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000134</bioguideId>
+        <fullName>Rep. Van Duyne, Beth [R-TX-24]</fullName>
+        <firstName>Beth</firstName>
+        <lastName>Van Duyne</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>V000134</bioguideId>
+        </identifiers>
+        <district>24</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000071</bioguideId>
+        <fullName>Rep. Ellzey, Jake [R-TX-6]</fullName>
+        <firstName>Jake</firstName>
+        <lastName>Ellzey</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>E000071</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000246</bioguideId>
+        <fullName>Rep. Fallon, Pat [R-TX-4]</fullName>
+        <firstName>Pat</firstName>
+        <lastName>Fallon</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000246</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000594</bioguideId>
+        <fullName>Rep. Gonzales, Tony [R-TX-23]</fullName>
+        <firstName>Tony</firstName>
+        <lastName>Gonzales</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000594</bioguideId>
+        </identifiers>
+        <district>23</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000473</bioguideId>
+        <fullName>Rep. Flores, Mayra [R-TX-34]</fullName>
+        <firstName>Mayra</firstName>
+        <lastName>Flores</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000473</bioguideId>
+        </identifiers>
+        <district>34</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000304</bioguideId>
+        <fullName>Rep. Jackson, Ronny [R-TX-13]</fullName>
+        <firstName>Ronny</firstName>
+        <lastName>Jackson</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000304</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001084</bioguideId>
+        <fullName>Rep. Herrell, Yvette [R-NM-2]</fullName>
+        <firstName>Yvette</firstName>
+        <lastName>Herrell</lastName>
+        <party>R</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>H001084</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000806</bioguideId>
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+        <firstName>Daniel</firstName>
+        <lastName>Webster</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000806</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000266</bioguideId>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <firstName>STEVE</firstName>
+        <lastName>CHABOT</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001211</bioguideId>
+        <fullName>Rep. Miller, Mary E. [R-IL-15]</fullName>
+        <firstName>Mary</firstName>
+        <lastName>Miller</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>M001211</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>15</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001309</bioguideId>
+        <fullName>Rep. Burchett, Tim [R-TN-2]</fullName>
+        <firstName>Tim</firstName>
+        <lastName>Burchett</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001309</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000552</bioguideId>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <firstName>Louie</firstName>
+        <lastName>Gohmert</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001177</bioguideId>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>McClintock</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000465</bioguideId>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <firstName>A.</firstName>
+        <lastName>Ferguson</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>F000465</bioguideId>
+        </identifiers>
+        <middleName>Drew</middleName>
+        <district>3</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000626</bioguideId>
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <firstName>Warren</firstName>
+        <lastName>Davidson</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>D000626</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000595</bioguideId>
+        <fullName>Rep. Letlow, Julia [R-LA-5]</fullName>
+        <firstName>Julia</firstName>
+        <lastName>Letlow</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>L000595</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000816</bioguideId>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <firstName>Roger</firstName>
+        <lastName>Williams</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000816</bioguideId>
+        </identifiers>
+        <district>25</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000614</bioguideId>
+        <fullName>Rep. Roy, Chip [R-TX-21]</fullName>
+        <firstName>Chip</firstName>
+        <lastName>Roy</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>R000614</bioguideId>
+        </identifiers>
+        <district>21</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000317</bioguideId>
+        <fullName>Rep. Malliotakis, Nicole [R-NY-11]</fullName>
+        <firstName>Nicole</firstName>
+        <lastName>Malliotakis</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M000317</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001103</bioguideId>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <firstName>Earl</firstName>
+        <lastName>Carter</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+        </identifiers>
+        <middleName>L. "Buddy"</middleName>
+        <district>1</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000129</bioguideId>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <firstName>David</firstName>
+        <lastName>Valadao</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>V000129</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>21</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000048</bioguideId>
+        <fullName>Rep. Pfluger, August [R-TX-11]</fullName>
+        <firstName>August</firstName>
+        <lastName>Pfluger</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>P000048</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000026</bioguideId>
+        <fullName>Rep. Nehls, Troy E. [R-TX-22]</fullName>
+        <firstName>Troy</firstName>
+        <lastName>Nehls</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>N000026</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>22</district>
+        <sponsorshipDate>2022-10-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001118</bioguideId>
+        <fullName>Rep. Cline, Ben [R-VA-6]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Cline</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001118</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-12-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Energy</name>
+      </policyArea>
+    </subjects>
+    <title>Recognizing that the irresponsible withdrawal of petroleum products from the Strategic Petroleum Reserve is a threat to the security of the United States.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recognizing that the irresponsible withdrawal of petroleum products from the Strategic Petroleum Reserve is a threat to the security of the United States.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing that the irresponsible withdrawal of petroleum products from the Strategic Petroleum Reserve is a threat to the security of the United States.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-10-21T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1445ih/xml/BILLS-117hres1445ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-10-24</actionDate>
+      <text>Referred to the Subcommittee on Energy.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

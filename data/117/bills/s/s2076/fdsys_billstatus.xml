@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2076</number>
+    <updateDate>2022-12-30T13:03:12Z</updateDate>
+    <updateDateIncludingText>2022-12-30T13:03:12Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-06-16</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sshr00</systemCode>
+        <name>Health, Education, Labor, and Pensions Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-06-16T16:53:36Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>PASTEUR Act of 2021</title>
+        <congress>117</congress>
+        <number>3932</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-08-02</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Cures 2.0 Act</title>
+        <congress>117</congress>
+        <number>6000</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-01-04</actionDate>
+          <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-06-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-06-16</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001267</bioguideId>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Bennet</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>Y000064</bioguideId>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <firstName>Todd</firstName>
+        <lastName>Young</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2021-06-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2022-04-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>Susan</firstName>
+        <lastName>Collins</lastName>
+        <party>R</party>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2022-04-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H000273</bioguideId>
+        <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+        <firstName>John</firstName>
+        <lastName>Hickenlooper</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>H000273</bioguideId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2022-12-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-12-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate>2022-12-15</sponsorshipWithdrawnDate>
+      </item>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike [R-SD]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Rounds</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-12-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Advisory bodies</name>
+        </item>
+        <item>
+          <name>Appropriations</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Department of Health and Human Services</name>
+        </item>
+        <item>
+          <name>Drug safety, medical device, and laboratory regulation</name>
+        </item>
+        <item>
+          <name>Drug therapy</name>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Health programs administration and funding</name>
+        </item>
+        <item>
+          <name>Indian social and development programs</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Manufacturing</name>
+        </item>
+        <item>
+          <name>Medicaid</name>
+        </item>
+        <item>
+          <name>Medicare</name>
+        </item>
+        <item>
+          <name>Military medicine</name>
+        </item>
+        <item>
+          <name>Minority health</name>
+        </item>
+        <item>
+          <name>Prescription drugs</name>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+        </item>
+        <item>
+          <name>Veterans' medical care</name>
+        </item>
+        <item>
+          <name>World health</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-06-16</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-08-03T22:49:02Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>The Pioneering Antimicrobial Subscriptions To End Up surging Resistance Act of 2021 or the PASTEUR Act</b><strong> of 2021</strong></p> <p>This bill authorizes the Department of Health and Human Services (HHS) to enter into subscription contracts for critical-need antimicrobial drugs, provides $11 billion in appropriations for activities under the bill, and contains other related provisions. </p> <p>A manufacturer of a Food and Drug Administration-approved antimicrobial drug may apply to HHS to have the drug designated as a critical-need antimicrobial, and HHS may enter into a subscription contract for such a critical-need antimicrobial. The bill imposes certain requirements related to such contracts, including a mechanism to lower payments under the contract in certain instances to limit the manufacturer's revenue from the drug. </p> <p>Furthermore, HHS and the Centers for Disease Control and Prevention (CDC) shall award grants to support efforts to encourage the appropriate use of antimicrobial drugs and efforts to combat antimicrobial resistance. The CDC shall also track and assess data relating to antibacterial resistance and human antibiotic use and make such data publicly available.</p> <p>HHS shall also establish a Committee on Critical Need Antimicrobials. The committee shall develop a list of prioritized infections for which new antimicrobial drug development is needed, among other duties.</p> <p>Within six years of the bill's enactment, the Government Accountability Office shall report to Congress a study on the bill's effectiveness in developing priority antimicrobial drugs.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>PASTEUR Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>PASTEUR Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>PASTEUR Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Pioneering Antimicrobial Subscriptions To End Up surging Resistance Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to establish a program to develop antimicrobial innovations targeting the most challenging pathogens and most threatening infections.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-06-16T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2076is/xml/BILLS-117s2076is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-06-16</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

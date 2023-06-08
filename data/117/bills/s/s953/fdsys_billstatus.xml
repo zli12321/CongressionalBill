@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>953</number>
+    <updateDate>2022-12-31T08:01:05Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:01:05Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-03-24</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sseg00</systemCode>
+        <name>Energy and Natural Resources Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>sseg07</systemCode>
+            <name>Water and Power Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings by</name>
+                <date>2022-05-25T19:00:32Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-24T20:51:03Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-05-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg07</systemCode>
+            <name>Water and Power Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>Ron</firstName>
+        <lastName>Wyden</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-24</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Agricultural conservation and pollution</name>
+        </item>
+        <item>
+          <name>Agricultural prices, subsidies, credit</name>
+        </item>
+        <item>
+          <name>Air quality</name>
+        </item>
+        <item>
+          <name>Alternative and renewable resources</name>
+        </item>
+        <item>
+          <name>Aquatic ecology</name>
+        </item>
+        <item>
+          <name>Birds</name>
+        </item>
+        <item>
+          <name>Climate change and greenhouse gases</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Dams and canals</name>
+        </item>
+        <item>
+          <name>Ecology</name>
+        </item>
+        <item>
+          <name>Farmland</name>
+        </item>
+        <item>
+          <name>Fishes</name>
+        </item>
+        <item>
+          <name>Government trust funds</name>
+        </item>
+        <item>
+          <name>Hunting and fishing</name>
+        </item>
+        <item>
+          <name>Lakes and rivers</name>
+        </item>
+        <item>
+          <name>Marine and coastal resources, fisheries</name>
+        </item>
+        <item>
+          <name>Outdoor recreation</name>
+        </item>
+        <item>
+          <name>Water resources funding</name>
+        </item>
+        <item>
+          <name>Water storage</name>
+        </item>
+        <item>
+          <name>Water use and supply</name>
+        </item>
+        <item>
+          <name>Watersheds</name>
+        </item>
+        <item>
+          <name>Wetlands</name>
+        </item>
+        <item>
+          <name>Wildlife conservation and habitat protection</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Water Resources Development</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-24</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-07-20T18:58:09Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Water for Conservation and Farming Act</strong></p> <p>This bill establishes a funding source for certain water resources development projects in western states. The bill also reauthorizes and expands existing water resources development programs, as well as establishes new programs.</p> <p>Specifically, the bill establishes the Bureau of Reclamation Infrastructure Fund to fund water-related programs, including water reclamation and reuse projects, dam safety projects, and the WaterSMART program (which provides assistance to eligible government entities to increase water supply). Each year from FY2031-FY2061, the Department of the Treasury must deposit $300 million of revenues into this fund that would otherwise be deposited into the Reclamation Fund (which currently funds irrigation works in western states).</p> <p>The bill also expands the allowable uses for grants under the WaterSMART program.</p> <p>Next, the bill revises the Reclamation Climate Change and Water program (which assesses the impact of climate change on water supplies) by requiring Reclamation to develop a strategy to address sustaining native biodiversity during periods of drought.</p> <p>The bill also reauthorizes through FY2028 the Fisheries Restoration and Irrigation Mitigation program (which funds fish passage projects in certain areas that drain into the Pacific Ocean).</p> <p>Finally, the bill establishes new programs directed at western states to</p> <ul> <li>provide assistance to agricultural producers to create and maintain waterbird and shorebird habitats,</li> <li>award grants to eligible government entities and nonprofit conservation organizations for habitat restoration projects that improve watershed health, and</li> <li>prepare plans to sustain the survival of critically important fisheries during periods of drought.</li> </ul>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Water for Conservation and Farming Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Water for Conservation and Farming Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Water for Conservation and Farming Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for drought preparedness and improved water supply reliability.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-03-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s953is/xml/BILLS-117s953is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-05-25</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

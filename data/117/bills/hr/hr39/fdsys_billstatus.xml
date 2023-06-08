@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>39</number>
+    <updateDate>2022-12-16T14:11:25Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:11:25Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-01-04</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 2 (Monday, January 4, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. GREEN of Texas:H.R. 39.Congress has the power to enact this legislation pursuantto the following:Necessary and Proper Clause (Art. 1, Sec. 8, Cl. 18)Appropriations Clause (Art. 1, Sec. 9, Cl. 7)[Page H52]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsvr00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr09</systemCode>
+            <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-04T16:59:10Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-01-04T15:01:20Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-02-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr09</systemCode>
+            <name>Disability Assistance and Memorial Affairs Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-01-04</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-01-04</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-04</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000553</bioguideId>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <firstName>Al</firstName>
+        <lastName>Green</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>G000559</bioguideId>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <firstName>John</firstName>
+        <lastName>Garamendi</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-05-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001059</bioguideId>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Costa</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2022-05-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000559</bioguideId>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>LANGEVIN</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-05-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000593</bioguideId>
+        <fullName>Rep. Perlmutter, Ed [D-CO-7]</fullName>
+        <firstName>Ed</firstName>
+        <lastName>Perlmutter</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>P000593</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2022-05-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000371</bioguideId>
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <firstName>Pete</firstName>
+        <lastName>Aguilar</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>A000371</bioguideId>
+        </identifiers>
+        <district>31</district>
+        <sponsorshipDate>2022-05-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001286</bioguideId>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <firstName>Cheri</firstName>
+        <lastName>Bustos</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2022-05-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-06-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001185</bioguideId>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <firstName>Sean</firstName>
+        <lastName>Maloney</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M001185</bioguideId>
+        </identifiers>
+        <middleName>Patrick</middleName>
+        <district>18</district>
+        <sponsorshipDate>2022-06-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>Y000062</bioguideId>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <firstName>John</firstName>
+        <lastName>Yarmuth</lastName>
+        <party>D</party>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>Y000062</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Conflicts and wars</name>
+        </item>
+        <item>
+          <name>Government trust funds</name>
+        </item>
+        <item>
+          <name>Marine and inland water transportation</name>
+        </item>
+        <item>
+          <name>Transportation employees</name>
+        </item>
+        <item>
+          <name>Veterans' pensions and compensation</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-01-04</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-02-24T16:32:57Z</updateDate>
+        <text>
+          <![CDATA[ <p> <strong>Honoring Our WWII Merchant Mariners Act of 2021</strong></p> <p>This bill requires the Department of Veterans Affairs to distribute a payment of $25,000 to U.S. merchant marines who engaged in qualified service during World War II. To be eligible, an individual must apply for the benefit and must not have received benefits under the Servicemen's Readjustment Act of 1944. The bill sets forth what constitutes qualified service, including time frame of service and licensing requirements.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Honoring Our WWII Merchant Mariners Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Honoring Our WWII Merchant Mariners Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Honoring Our WWII Merchant Mariners Act of 2021</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to establish the Merchant Mariner Equity Compensation Fund to provide benefits to certain individuals who served in the United States merchant marine (including the Army Transport Service and the Naval Transport Service) during World War II.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-01-04T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr39ih/xml/BILLS-117hr39ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-04</actionDate>
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

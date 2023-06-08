@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>502</number>
+    <updateDate>2022-12-31T04:57:45Z</updateDate>
+    <updateDateIncludingText>2022-12-31T04:57:45Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-06-25</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2022-11-01T17:09:37Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-06-25T13:02:25Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hswm00</systemCode>
+        <name>Ways and Means Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hswm04</systemCode>
+            <name>Trade Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-06-25T20:41:26Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-06-25T13:02:30Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-11-01</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-06-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hswm04</systemCode>
+            <name>Trade Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-06-25</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-06-25</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-06-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-06-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>H001084</bioguideId>
+        <fullName>Rep. Herrell, Yvette [R-NM-2]</fullName>
+        <firstName>Yvette</firstName>
+        <lastName>Herrell</lastName>
+        <party>R</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>H001084</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001248</bioguideId>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Burgess</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001248</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <district>26</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Babin</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <district>36</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000026</bioguideId>
+        <fullName>Rep. Nehls, Troy E. [R-TX-22]</fullName>
+        <firstName>Troy</firstName>
+        <lastName>Nehls</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>N000026</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>22</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001115</bioguideId>
+        <fullName>Rep. Cloud, Michael [R-TX-27]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Cloud</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001115</bioguideId>
+        </identifiers>
+        <district>27</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000755</bioguideId>
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+        <firstName>KEVIN</firstName>
+        <lastName>BRADY</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B000755</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000250</bioguideId>
+        <fullName>Rep. Sessions, Pete [R-TX-17]</fullName>
+        <firstName>PETE</firstName>
+        <lastName>SESSIONS</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000304</bioguideId>
+        <fullName>Rep. Jackson, Ronny [R-TX-13]</fullName>
+        <firstName>Ronny</firstName>
+        <lastName>Jackson</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000304</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000134</bioguideId>
+        <fullName>Rep. Van Duyne, Beth [R-TX-24]</fullName>
+        <firstName>Beth</firstName>
+        <lastName>Van Duyne</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>V000134</bioguideId>
+        </identifiers>
+        <district>24</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000377</bioguideId>
+        <fullName>Rep. Granger, Kay [R-TX-12]</fullName>
+        <firstName>KAY</firstName>
+        <lastName>GRANGER</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000377</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001051</bioguideId>
+        <fullName>Rep. Carter, John R. [R-TX-31]</fullName>
+        <firstName>John</firstName>
+        <lastName>Carter</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001051</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>31</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001157</bioguideId>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>McCaul</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <district>10</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000048</bioguideId>
+        <fullName>Rep. Pfluger, August [R-TX-11]</fullName>
+        <firstName>August</firstName>
+        <lastName>Pfluger</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>P000048</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000479</bioguideId>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <firstName>Van</firstName>
+        <lastName>Taylor</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>T000479</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000615</bioguideId>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <firstName>Jeff</firstName>
+        <lastName>Duncan</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000552</bioguideId>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <firstName>Louie</firstName>
+        <lastName>Gohmert</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001212</bioguideId>
+        <fullName>Rep. Moore, Barry [R-AL-2]</fullName>
+        <firstName>Barry</firstName>
+        <lastName>Moore</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>M001212</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000605</bioguideId>
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>Perry</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000589</bioguideId>
+        <fullName>Rep. Gooden, Lance [R-TX-5]</fullName>
+        <firstName>Lance</firstName>
+        <lastName>Gooden</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000589</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000375</bioguideId>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <firstName>Jodey</firstName>
+        <lastName>Arrington</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>A000375</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <district>19</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000246</bioguideId>
+        <fullName>Rep. Fallon, Pat [R-TX-4]</fullName>
+        <firstName>Pat</firstName>
+        <lastName>Fallon</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000246</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-06-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001120</bioguideId>
+        <fullName>Rep. Crenshaw, Dan [R-TX-2]</fullName>
+        <firstName>Dan</firstName>
+        <lastName>Crenshaw</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001120</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-06-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001214</bioguideId>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <firstName>W.</firstName>
+        <lastName>Steube</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001214</bioguideId>
+        </identifiers>
+        <middleName>Gregory</middleName>
+        <district>17</district>
+        <sponsorshipDate>2021-06-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001071</bioguideId>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <firstName>Jody</firstName>
+        <lastName>Hice</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <district>10</district>
+        <sponsorshipDate>2021-06-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Border security and unlawful immigration</name>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+        </item>
+        <item>
+          <name>Texas</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Immigration</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-06-25</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-12-10T18:36:40Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution supports the initiative of Governor Greg Abbott to complete a border wall in Texas and calls on other border state governors to follow suit. It also states that the status quo relating to border security is unsustainable, irresponsible, and dangerous.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Recognizing the border crisis as a threat to national security and supporting Governor Greg Abbott's initiative in completing the border wall.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing the border crisis as a threat to national security and supporting Governor Greg Abbott's initiative in completing the border wall.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recognizing the border crisis as a threat to national security and supporting Governor Greg Abbott's initiative in completing the border wall.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-06-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres502ih/xml/BILLS-117hres502ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-11-01</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

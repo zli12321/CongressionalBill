@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1346</number>
+    <updateDate>2022-12-29T12:48:49Z</updateDate>
+    <updateDateIncludingText>2022-12-29T12:48:49Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2022-09-13</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsgo00</systemCode>
+        <name>Oversight and Reform Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-09-13T18:00:15Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-09-13</actionDate>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-09-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-09-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000613</bioguideId>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <firstName>Jimmy</firstName>
+        <lastName>Panetta</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000613</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>T000467</bioguideId>
+        <fullName>Rep. Thompson, Glenn [R-PA-15]</fullName>
+        <firstName>Glenn</firstName>
+        <lastName>Thompson</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000631</bioguideId>
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <firstName>Madeleine</firstName>
+        <lastName>Dean</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>D000631</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000490</bioguideId>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <firstName>SANFORD</firstName>
+        <lastName>BISHOP</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000460</bioguideId>
+        <fullName>Rep. Thompson, Mike [D-CA-5]</fullName>
+        <firstName>MIKE</firstName>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>T000460</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000266</bioguideId>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <firstName>STEVE</firstName>
+        <lastName>CHABOT</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raúl M. [D-AZ-3]</fullName>
+        <firstName>Raúl</firstName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000586</bioguideId>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <firstName>Al</firstName>
+        <lastName>Lawson</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>L000586</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000370</bioguideId>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <firstName>Alma</firstName>
+        <lastName>Adams</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>A000370</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>12</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000171</bioguideId>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>O'Halleran</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001097</bioguideId>
+        <fullName>Rep. Cárdenas, Tony [D-CA-29]</fullName>
+        <firstName>Tony</firstName>
+        <lastName>Cárdenas</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <district>29</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001201</bioguideId>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000382</bioguideId>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <firstName>Ann</firstName>
+        <lastName>Kuster</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001296</bioguideId>
+        <fullName>Rep. Boyle, Brendan F. [D-PA-2]</fullName>
+        <firstName>Brendan</firstName>
+        <lastName>Boyle</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>B001296</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001212</bioguideId>
+        <fullName>Rep. Moore, Barry [R-AL-2]</fullName>
+        <firstName>Barry</firstName>
+        <lastName>Moore</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>M001212</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000614</bioguideId>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Pappas</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>P000614</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000582</bioguideId>
+        <fullName>Resident Commissioner González-Colón, Jenniffer [R-PR-At Large]</fullName>
+        <firstName>Jenniffer</firstName>
+        <lastName>Gonzalez-Colon</lastName>
+        <party>R</party>
+        <state>PR</state>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001119</bioguideId>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <firstName>Angie</firstName>
+        <lastName>Craig</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>C001119</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001059</bioguideId>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Costa</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000600</bioguideId>
+        <fullName>Del. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <firstName>Aumua Amata</firstName>
+        <lastName>Radewagen</lastName>
+        <party>R</party>
+        <state>AS</state>
+        <identifiers>
+          <bioguideId>R000600</bioguideId>
+        </identifiers>
+        <middleName>Coleman</middleName>
+        <district>0</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001058</bioguideId>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Huizenga</lastName>
+        <party>R</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>H001058</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-09-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000576</bioguideId>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-09-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000583</bioguideId>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Gottheimer</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>G000583</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-09-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000562</bioguideId>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <firstName>Stephen</firstName>
+        <lastName>Lynch</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <district>8</district>
+        <sponsorshipDate>2022-09-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000591</bioguideId>
+        <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+        <firstName>Elaine</firstName>
+        <lastName>Luria</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>L000591</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-09-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Arts, Culture, Religion</name>
+      </policyArea>
+    </subjects>
+    <title>Expressing support for the designation of the week beginning on September 11, 2022, as "Celebrate Community Week".</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing support for the designation of the week beginning on September 11, 2022, as "Celebrate Community Week".</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for the designation of the week beginning on September 11, 2022, as "Celebrate Community Week".</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-09-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1346ih/xml/BILLS-117hres1346ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-09-13</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

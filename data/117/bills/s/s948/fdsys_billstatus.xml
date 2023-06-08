@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>948</number>
+    <updateDate>2022-12-31T08:01:05Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:01:05Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-03-24</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-24T20:49:53Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Saving Gig Economy Taxpayers Act</title>
+        <congress>117</congress>
+        <number>3425</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-05-20</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>SNOOP Act of 2022</title>
+        <congress>117</congress>
+        <number>6913</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-03-03</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>SNOOP Act of 2022</title>
+        <congress>117</congress>
+        <number>3546</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2022-02-01</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001217</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-01-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H000601</bioguideId>
+        <fullName>Sen. Hagerty, Bill [R-TN]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Hagerty</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>H000601</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Small business</name>
+        </item>
+        <item>
+          <name>Tax administration and collection, taxpayers</name>
+        </item>
+        <item>
+          <name>Wages and earnings</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Taxation</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-24</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-03-17T16:17:14Z</updateDate>
+        <text>
+          <![CDATA[ <p>This bill modifies requirements for third party settlement organizations to eliminate their reporting requirement with respect to the transactions of their participating payees unless they have earned more than $20,000 on more than 200 separate transactions in an applicable tax period. A <em>third party settlement organization</em> is the central organization that has the contractual obligation to make payments to participating payees (generally, a merchant or business) in a third party payment network. </p> <p>This reverses a provision in the American Rescue Plan Act of 2021 that lowered the reporting threshold to $600 with no minimum on the number of transactions.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>A bill to protect American small businesses, gig workers, and freelancers by repealing the burdensome American Rescue Plan Act of 2021 transactions reporting threshold.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill to protect American small businesses, gig workers, and freelancers by repealing the burdensome American Rescue Plan Act of 2021 transactions reporting threshold.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to protect American small businesses, gig workers, and freelancers by repealing the burdensome American Rescue Plan Act of 2021 transactions reporting threshold.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-03-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s948is/xml/BILLS-117s948is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-24</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

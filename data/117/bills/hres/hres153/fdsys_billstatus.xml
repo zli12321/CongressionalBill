@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>153</number>
+    <updateDate>2022-12-16T14:11:31Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:11:31Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-02-23</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju10</systemCode>
+            <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-04-28T05:44:29Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hsju08</systemCode>
+            <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-04-28T05:44:17Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-23T19:08:20Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>A resolution condemning recent hate crimes committed against Asian American and Pacific Islanders.</title>
+        <congress>117</congress>
+        <number>200</number>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2021-04-29</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2369; text: CR S2369)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-04-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju10</systemCode>
+            <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-04-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju08</systemCode>
+            <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-23</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-23</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-23</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001135</bioguideId>
+        <fullName>Rep. Steel, Michelle [R-CA-48]</fullName>
+        <firstName>Michelle</firstName>
+        <lastName>Steel</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001135</bioguideId>
+        </identifiers>
+        <district>48</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>P000618</bioguideId>
+        <fullName>Rep. Porter, Katie [D-CA-45]</fullName>
+        <firstName>Katie</firstName>
+        <lastName>Porter</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000618</bioguideId>
+        </identifiers>
+        <district>45</district>
+        <sponsorshipDate>2021-02-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000397</bioguideId>
+        <fullName>Rep. Kim, Young [R-CA-39]</fullName>
+        <firstName>Young</firstName>
+        <lastName>Kim</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>K000397</bioguideId>
+        </identifiers>
+        <district>39</district>
+        <sponsorshipDate>2021-02-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000059</bioguideId>
+        <fullName>Rep. Calvert, Ken [R-CA-42]</fullName>
+        <firstName>KEN</firstName>
+        <lastName>CALVERT</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C000059</bioguideId>
+        </identifiers>
+        <district>42</district>
+        <sponsorshipDate>2021-02-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001091</bioguideId>
+        <fullName>Rep. Hinson, Ashley [R-IA-1]</fullName>
+        <firstName>Ashley</firstName>
+        <lastName>Hinson</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>H001091</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-02-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001110</bioguideId>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <firstName>J.</firstName>
+        <lastName>Correa</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001110</bioguideId>
+        </identifiers>
+        <middleName>Luis</middleName>
+        <district>46</district>
+        <sponsorshipDate>2021-02-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000579</bioguideId>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <firstName>Alan</firstName>
+        <lastName>Lowenthal</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>47</district>
+        <sponsorshipDate>2021-02-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000168</bioguideId>
+        <fullName>Rep. Salazar, Maria Elvira [R-FL-27]</fullName>
+        <firstName>Maria</firstName>
+        <lastName>Salazar</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S000168</bioguideId>
+        </identifiers>
+        <middleName>Elvira</middleName>
+        <district>27</district>
+        <sponsorshipDate>2021-02-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000133</bioguideId>
+        <fullName>Rep. Van Drew, Jefferson [R-NJ-2]</fullName>
+        <firstName>Jefferson</firstName>
+        <lastName>Van Drew</lastName>
+        <party>R</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000593</bioguideId>
+        <fullName>Rep. Levin, Mike [D-CA-49]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Levin</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000593</bioguideId>
+        </identifiers>
+        <district>49</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001194</bioguideId>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <firstName>John</firstName>
+        <lastName>Moolenaar</lastName>
+        <party>R</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>M001194</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-03-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000086</bioguideId>
+        <fullName>Rep. Owens, Burgess [R-UT-4]</fullName>
+        <firstName>Burgess</firstName>
+        <lastName>Owens</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>O000086</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-03-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000317</bioguideId>
+        <fullName>Rep. Malliotakis, Nicole [R-NY-11]</fullName>
+        <firstName>Nicole</firstName>
+        <lastName>Malliotakis</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M000317</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2021-03-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000823</bioguideId>
+        <fullName>Rep. Waltz, Michael [R-FL-6]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Waltz</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000823</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000479</bioguideId>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <firstName>Van</firstName>
+        <lastName>Taylor</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>T000479</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000129</bioguideId>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <firstName>David</firstName>
+        <lastName>Valadao</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>V000129</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>21</district>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001072</bioguideId>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+        <firstName>J.</firstName>
+        <lastName>Hill</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>H001072</bioguideId>
+        </identifiers>
+        <middleName>French</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000597</bioguideId>
+        <fullName>Rep. Garbarino, Andrew R. [R-NY-2]</fullName>
+        <firstName>Andrew</firstName>
+        <lastName>Garbarino</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000597</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000020</bioguideId>
+        <fullName>Rep. Jacobs, Chris [R-NY-27]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Jacobs</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>J000020</bioguideId>
+        </identifiers>
+        <district>27</district>
+        <sponsorshipDate>2021-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001118</bioguideId>
+        <fullName>Rep. Cline, Ben [R-VA-6]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Cline</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001118</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-04-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001172</bioguideId>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <firstName>Adrian</firstName>
+        <lastName>Smith</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <bioguideId>S001172</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Asia</name>
+        </item>
+        <item>
+          <name>Assault and harassment offenses</name>
+        </item>
+        <item>
+          <name>Criminal investigation, prosecution, interrogation</name>
+        </item>
+        <item>
+          <name>Criminal justice information and records</name>
+        </item>
+        <item>
+          <name>Hate crimes</name>
+        </item>
+        <item>
+          <name>Racial and ethnic relations</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Civil Rights and Liberties, Minority Issues</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-23</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-04-01T20:42:52Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution condemns all manifestations of expressions of racism and anti-Asian and Pacific Islander or ethnic intolerance.</p> <p>The resolution calls on federal law enforcement officials, working with state and local officials, to</p> <ul> <li> expeditiously and vigorously investigate all reports of hate crimes and threats against Asian Americans and Pacific Islanders in the United States; </li> <li> work to improve the reporting of such hate crimes; and </li> <li> hold the perpetrators of those crimes, incidents, or threats accountable and bring the perpetrators to justice.</li> </ul>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Condemning recent hate crimes committed against Asian-American and Pacific Islanders.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Condemning recent hate crimes committed against Asian-American and Pacific Islanders.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Condemning recent hate crimes committed against Asian-American and Pacific Islanders.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-02-23T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres153ih/xml/BILLS-117hres153ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-04-28</actionDate>
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>619</number>
+    <updateDate>2022-12-30T11:33:15Z</updateDate>
+    <updateDateIncludingText>2022-12-30T11:33:15Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-09-03</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsed00</systemCode>
+        <name>Education and Labor Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-09-03T16:00:20Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-09-03</actionDate>
+        <text>Referred to the House Committee on Education and Labor.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsed00</systemCode>
+            <name>Education and Labor Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-09-03</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR E947)</text>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-09-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-09-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>A000370</bioguideId>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <firstName>Alma</firstName>
+        <lastName>Adams</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>A000370</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>12</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B000490</bioguideId>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <firstName>SANFORD</firstName>
+        <lastName>BISHOP</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001185</bioguideId>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <firstName>Terri</firstName>
+        <lastName>Sewell</lastName>
+        <party>D</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>S001185</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000288</bioguideId>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <firstName>Henry</firstName>
+        <lastName>Johnson</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+        </identifiers>
+        <middleName>C. "Hank"</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000193</bioguideId>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <firstName>BENNIE</firstName>
+        <lastName>THOMPSON</lastName>
+        <party>D</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000481</bioguideId>
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <firstName>Rashida</firstName>
+        <lastName>Tlaib</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>T000481</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000754</bioguideId>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>COOPER</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>5</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000808</bioguideId>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <firstName>Frederica</firstName>
+        <lastName>Wilson</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>24</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000586</bioguideId>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <firstName>Al</firstName>
+        <lastName>Lawson</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>L000586</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000569</bioguideId>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <firstName>Blaine</firstName>
+        <lastName>Luetkemeyer</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000096</bioguideId>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <firstName>DANNY</firstName>
+        <lastName>DAVIS</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001159</bioguideId>
+        <fullName>Rep. Strickland, Marilyn [D-WA-10]</fullName>
+        <firstName>Marilyn</firstName>
+        <lastName>Strickland</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>S001159</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001205</bioguideId>
+        <fullName>Rep. Scanlon, Mary Gay [D-PA-5]</fullName>
+        <firstName>Mary</firstName>
+        <lastName>Scanlon</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>S001205</bioguideId>
+        </identifiers>
+        <middleName>Gay</middleName>
+        <district>5</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000552</bioguideId>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <firstName>Louie</firstName>
+        <lastName>Gohmert</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001251</bioguideId>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <firstName>G. K.</firstName>
+        <lastName>Butterfield</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001251</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001111</bioguideId>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <firstName>Charlie</firstName>
+        <lastName>Crist</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>C001111</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000788</bioguideId>
+        <fullName>Rep. Williams, Nikema [D-GA-5]</fullName>
+        <firstName>Nikema</firstName>
+        <lastName>Williams</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>W000788</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001200</bioguideId>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+        <firstName>A.</firstName>
+        <lastName>McEachin</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>M001200</bioguideId>
+        </identifiers>
+        <middleName>Donald</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000305</bioguideId>
+        <fullName>Rep. Ross, Deborah K. [D-NC-2]</fullName>
+        <firstName>Deborah</firstName>
+        <lastName>Ross</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>R000305</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000486</bioguideId>
+        <fullName>Rep. Torres, Ritchie [D-NY-15]</fullName>
+        <firstName>Ritchie</firstName>
+        <lastName>Torres</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>T000486</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipDate>2021-09-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Education</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-09-03</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-10-19T15:22:21Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution expresses support for historically Black colleges and universities (HBCUs) and recognizes National HBCU Conference Week.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Recognizing the significance of National Historically Black Colleges and Universities (HBCU) Conference Week.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recognizing the significance of National Historically Black Colleges and Universities (HBCU) Conference Week.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing the significance of National Historically Black Colleges and Universities (HBCU) Conference Week.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-09-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres619ih/xml/BILLS-117hres619ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-09-03</actionDate>
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

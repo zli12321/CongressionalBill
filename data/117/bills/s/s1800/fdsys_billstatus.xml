@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1800</number>
+    <updateDate>2022-12-31T13:59:57Z</updateDate>
+    <updateDateIncludingText>2022-12-31T13:59:57Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-05-25</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-25T17:06:11Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Human-Animal Chimera Prohibition Act of 2021</title>
+        <congress>117</congress>
+        <number>3542</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-11-01</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Countering Communist China Act</title>
+        <congress>117</congress>
+        <number>4792</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-09-03</actionDate>
+          <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-05-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-05-25</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001310</bioguideId>
+        <fullName>Sen. Braun, Mike [R-IN]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Braun</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000575</bioguideId>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <firstName>James</firstName>
+        <lastName>Lankford</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Inhofe</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <firstName>John</firstName>
+        <lastName>Thune</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2021-06-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Animal protection and human-animal relationships</name>
+        </item>
+        <item>
+          <name>Cell biology and embryology</name>
+        </item>
+        <item>
+          <name>Civil actions and liability</name>
+        </item>
+        <item>
+          <name>Genetics</name>
+        </item>
+        <item>
+          <name>Medical research</name>
+        </item>
+        <item>
+          <name>Research administration and funding</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Crime and Law Enforcement</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-25</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-11-18T12:40:53Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Human-Animal Chimera Prohibition Act of 2021</strong></p> <p>This bill establishes new federal crimes related to conduct involving certain types of human-animal chimeras. The term <em>human-animal chimera</em> means an organism that, from an early stage of development, contains human and nonhuman parts.</p> <p>This bill makes is unlawful to </p> <ul> <li>create or attempt to create a prohibited human-animal chimera,</li> <li>transfer or attempt to transfer a human embryo into a nonhuman womb,</li> <li>transfer or attempt to transfer a nonhuman embryo into a human womb, or</li> <li>transport or receive for any purpose a prohibited human-animal chimera.</li> </ul> <p>A violator is subject to civil and criminal penalties.<br> </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Human-Animal Chimera Prohibition Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Human-Animal Chimera Prohibition Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 18, United States Code, to prohibit certain types of human-animal chimeras.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Human-Animal Chimera Prohibition Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-05-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1800is/xml/BILLS-117s1800is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-05-25</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

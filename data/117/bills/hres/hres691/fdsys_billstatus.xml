@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>691</number>
+    <updateDate>2022-12-30T11:33:13Z</updateDate>
+    <updateDateIncludingText>2022-12-30T11:33:13Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-09-29</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsgo00</systemCode>
+        <name>Oversight and Reform Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-09-29T14:00:05Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-09-29</actionDate>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-09-29</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-09-29</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000576</bioguideId>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>P000607</bioguideId>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Pocan</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000165</bioguideId>
+        <fullName>Rep. Tiffany, Thomas P. [R-WI-7]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Tiffany</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>T000165</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001143</bioguideId>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <firstName>BETTY</firstName>
+        <lastName>MCCOLLUM</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>M001143</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000579</bioguideId>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Gallagher</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001059</bioguideId>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Costa</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000471</bioguideId>
+        <fullName>Rep. Fitzgerald, Scott [R-WI-5]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>Fitzgerald</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>F000471</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001160</bioguideId>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <firstName>Gwen</firstName>
+        <lastName>Moore</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000578</bioguideId>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <firstName>Doug</firstName>
+        <lastName>LaMalfa</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000188</bioguideId>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <firstName>RON</firstName>
+        <lastName>KIND</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001213</bioguideId>
+        <fullName>Rep. Steil, Bryan [R-WI-1]</fullName>
+        <firstName>Bryan</firstName>
+        <lastName>Steil</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>S001213</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000305</bioguideId>
+        <fullName>Rep. Jacobs, Sara [D-CA-53]</fullName>
+        <firstName>Sara</firstName>
+        <lastName>Jacobs</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>J000305</bioguideId>
+        </identifiers>
+        <district>53</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001135</bioguideId>
+        <fullName>Rep. Steel, Michelle [R-CA-48]</fullName>
+        <firstName>Michelle</firstName>
+        <lastName>Steel</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001135</bioguideId>
+        </identifiers>
+        <district>48</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000616</bioguideId>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+        <firstName>Dean</firstName>
+        <lastName>Phillips</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>P000616</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000129</bioguideId>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <firstName>David</firstName>
+        <lastName>Valadao</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>V000129</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>21</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000608</bioguideId>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>52</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001080</bioguideId>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <firstName>Judy</firstName>
+        <lastName>Chu</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <district>27</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000397</bioguideId>
+        <fullName>Rep. Kim, Young [R-CA-39]</fullName>
+        <firstName>Young</firstName>
+        <lastName>Kim</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>K000397</bioguideId>
+        </identifiers>
+        <district>39</district>
+        <sponsorshipDate>2021-09-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000468</bioguideId>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <firstName>Dina</firstName>
+        <lastName>Titus</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-10-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Arts, Culture, Religion</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Asia</name>
+        </item>
+        <item>
+          <name>Commemorative events and holidays</name>
+        </item>
+        <item>
+          <name>Laos</name>
+        </item>
+        <item>
+          <name>Racial and ethnic relations</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Arts, Culture, Religion</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-09-29</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-10-05T16:40:10Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution recognizes the cultural and historical significance of the Hmong New Year and wishes Hmong Americans and all individuals who observe this holiday a happy new year.</p> <p><br /></p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Recognizing the celebration of the Hmong New Year in 2021.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recognizing the celebration of the Hmong New Year in 2021.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing the celebration of the Hmong New Year in 2021.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-09-29T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres691ih/xml/BILLS-117hres691ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-09-29</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

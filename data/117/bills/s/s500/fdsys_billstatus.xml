@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>500</number>
+    <updateDate>2022-12-31T08:47:58Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:47:58Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-03-01</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sshr00</systemCode>
+        <name>Health, Education, Labor, and Pensions Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-01T22:59:46Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-03-01</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-03-01</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Consumer affairs</name>
+        </item>
+        <item>
+          <name>Genetics</name>
+        </item>
+        <item>
+          <name>Health information and medical records</name>
+        </item>
+        <item>
+          <name>Health technology, devices, supplies</name>
+        </item>
+        <item>
+          <name>Right of privacy</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-01</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-07-15T15:31:25Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Stop Marketing And Revealing The Wearables And Trackers Consumer Health Data Act or the SMARTWATCH Data Act</strong></p> <p>This bill restricts the commercial use of identifiable personal health information derived from a smartwatch or similar consumer device. The Department of Health and Human Services must enforce these restrictions.</p> <p>Specifically, an entity that collects personal health information from consumer devices may not transfer, sell, or otherwise allow domestic entities to access such information if the purpose is to increase profits or generate commercial value. However, the bill sets out certain exceptions to this prohibition, including where the consumer provided informed consent or where the information is necessary for specified business transactions.</p> <p>Furthermore, an entity that collects personal health information derived from consumer devices may not allow foreign entities to access such information unless there are certain privacy and security protections in place.</p> <p>In addition, any personal health information derived from a consumer device and received by health care providers, health plans, or their business associates is considered <em>protected health information</em> and thus subject to applicable federal privacy standards governing its use and disclosure.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>SMARTWATCH Data Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>SMARTWATCH Data Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>SMARTWATCH Data Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Stop Marketing And Revealing The Wearables And Trackers Consumer Health Data Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to prohibit the transfer or sale of certain consumer health information, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-03-01T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s500is/xml/BILLS-117s500is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-01</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

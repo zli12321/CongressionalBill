@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1712</number>
+    <updateDate>2022-12-31T14:00:00Z</updateDate>
+    <updateDateIncludingText>2022-12-31T14:00:00Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-05-19</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-19T20:06:47Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Jump-Start the Economy with Jobs Act</title>
+        <congress>117</congress>
+        <number>3266</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-05-17</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-05-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-05-19</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001310</bioguideId>
+        <fullName>Sen. Braun, Mike [R-IN]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Braun</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <fullName>Sen. Tillis, Thomas [R-NC]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Tillis</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <middleName>Roland</middleName>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001217</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <firstName>Marsha</firstName>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-19</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001079</bioguideId>
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+        <firstName>Cindy</firstName>
+        <lastName>Hyde-Smith</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>H001079</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-05-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Business records</name>
+        </item>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Personnel records</name>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+        </item>
+        <item>
+          <name>Unemployment</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Labor and Employment</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-19</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-04-04T21:29:14Z</updateDate>
+        <text>
+          <![CDATA[ <p>This bill requires each state that offers pandemic unemployment assistance (PUA) or pandemic emergency unemployment compensation (PEUC) to condition benefit eligibility for a long-term unemployed individual on an employer's confirmation that work is unavailable for the unemployed individual.</p> <p>Specifically, each state unemployment agency must request confirmation from the unemployed individual's most recent employer that the individual's position is not available at the time of the request. Unless the employer provides this confirmation, the state must terminate the individual's PUA or PEUC.</p> <p>The bill's provisions apply only to long-term unemployed individuals who have received PUA or PEUC for more than 30 weeks of unemployment.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>A bill to amend subtitle A of title II of division A of the CARES Act to require confirmation of employment status for long-term unemployed individuals, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill to amend subtitle A of title II of division A of the CARES Act to require confirmation of employment status for long-term unemployed individuals, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend subtitle A of title II of division A of the CARES Act to require confirmation of employment status for long-term unemployed individuals, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-05-19T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1712is/xml/BILLS-117s1712is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-05-19</actionDate>
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

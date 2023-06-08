@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>449</number>
+    <updateDate>2022-12-31T08:49:51Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:49:51Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-05-28</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsas00</systemCode>
+        <name>Armed Services Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-28T14:11:50Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>A resolution honoring women in the United States for their service in World War II and recognizing the role of Representative Edith Nourse Rogers in establishing the Women's Army Auxiliary Corps and the Women's Army Corps.</title>
+        <congress>117</congress>
+        <number>249</number>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2021-05-27</actionDate>
+          <text>Referred to the Committee on Armed Services. (text: CR S3903)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-05-28</actionDate>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-05-28</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-05-28</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001101</bioguideId>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <firstName>Katherine</firstName>
+        <lastName>Clark</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>C001101</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>5</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001159</bioguideId>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <firstName>Cathy</firstName>
+        <lastName>Rodgers</lastName>
+        <party>R</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>M001159</bioguideId>
+        </identifiers>
+        <middleName>McMorris</middleName>
+        <district>5</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001085</bioguideId>
+        <fullName>Rep. Houlahan, Chrissy [D-PA-6]</fullName>
+        <firstName>Chrissy</firstName>
+        <lastName>Houlahan</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>H001085</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000812</bioguideId>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <firstName>Ann</firstName>
+        <lastName>Wagner</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001207</bioguideId>
+        <fullName>Rep. Sherrill, Mikie [D-NJ-11]</fullName>
+        <firstName>Mikie</firstName>
+        <lastName>Sherrill</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>S001207</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001298</bioguideId>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <firstName>Don</firstName>
+        <lastName>Bacon</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000591</bioguideId>
+        <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+        <firstName>Elaine</firstName>
+        <lastName>Luria</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>L000591</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001109</bioguideId>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <firstName>Liz</firstName>
+        <lastName>Cheney</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>C001109</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001112</bioguideId>
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+        <firstName>Salud</firstName>
+        <lastName>Carbajal</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001112</bioguideId>
+        </identifiers>
+        <middleName>O.</middleName>
+        <district>24</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001175</bioguideId>
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <firstName>Jackie</firstName>
+        <lastName>Speier</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001215</bioguideId>
+        <fullName>Rep. Miller-Meeks, Mariannette [R-IA-2]</fullName>
+        <firstName>Mariannette</firstName>
+        <lastName>Miller-Meeks</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>M001215</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-05-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Conflicts and wars</name>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>House of Representatives</name>
+        </item>
+        <item>
+          <name>Massachusetts</name>
+        </item>
+        <item>
+          <name>Members of Congress</name>
+        </item>
+        <item>
+          <name>Military history</name>
+        </item>
+        <item>
+          <name>Military personnel and dependents</name>
+        </item>
+        <item>
+          <name>Women's employment</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-28</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-08-02T18:03:09Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution honors, commends, and recognizes the women who served the United States in military capacities during World War II to aid the war effort.</p> <p>Additionally, the resolution honors the contributions of Congresswoman Edith Nourse Rogers for supporting the establishment of the Women's Army Auxiliary Corps and the Women's Army Corps.<br> </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Honoring women in the United States for their service in World War II and recognizing the role of Representative Edith Nourse Rogers in establishing the Women's Army Auxiliary Corps and the Women's Army Corps.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Honoring women in the United States for their service in World War II and recognizing the role of Representative Edith Nourse Rogers in establishing the Women's Army Auxiliary Corps and the Women's Army Corps.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Honoring women in the United States for their service in World War II and recognizing the role of Representative Edith Nourse Rogers in establishing the Women's Army Auxiliary Corps and the Women's Army Corps.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-05-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres449ih/xml/BILLS-117hres449ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-05-28</actionDate>
+      <text>Referred to the House Committee on Armed Services.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

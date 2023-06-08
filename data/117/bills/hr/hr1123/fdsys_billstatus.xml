@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1123</number>
+    <updateDate>2022-12-16T14:06:24Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:06:24Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-02-18</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 31 (Thursday, February 18, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. GARBARINO:H.R. 1123.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18[Page H537]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsvr00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-03-22T16:02:50Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-18T17:37:00Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-03-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-18</actionDate>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-18</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-18</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000597</bioguideId>
+        <fullName>Rep. Garbarino, Andrew R. [R-NY-2]</fullName>
+        <firstName>Andrew</firstName>
+        <lastName>Garbarino</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000597</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>J000295</bioguideId>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <firstName>David</firstName>
+        <lastName>Joyce</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>J000295</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>14</district>
+        <sponsorshipDate>2021-02-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000369</bioguideId>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Amodei</lastName>
+        <party>R</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>A000369</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-02-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000386</bioguideId>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <firstName>John</firstName>
+        <lastName>Katko</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>K000386</bioguideId>
+        </identifiers>
+        <district>24</district>
+        <sponsorshipDate>2021-02-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-02-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000600</bioguideId>
+        <fullName>Del. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <firstName>Aumua Amata</firstName>
+        <lastName>Radewagen</lastName>
+        <party>R</party>
+        <state>AS</state>
+        <identifiers>
+          <bioguideId>R000600</bioguideId>
+        </identifiers>
+        <middleName>Coleman</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-02-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000515</bioguideId>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <firstName>BOBBY</firstName>
+        <lastName>RUSH</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-02-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000800</bioguideId>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <firstName>Peter</firstName>
+        <lastName>Welch</lastName>
+        <party>D</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2021-02-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000133</bioguideId>
+        <fullName>Rep. Van Drew, Jefferson [R-NJ-2]</fullName>
+        <firstName>Jefferson</firstName>
+        <lastName>Van Drew</lastName>
+        <party>R</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>V000133</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001184</bioguideId>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Massie</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>M001184</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000630</bioguideId>
+        <fullName>Rep. Delgado, Antonio [D-NY-19]</fullName>
+        <firstName>Antonio</firstName>
+        <lastName>Delgado</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>D000630</bioguideId>
+        </identifiers>
+        <district>19</district>
+        <sponsorshipDate>2021-07-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000583</bioguideId>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Gottheimer</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>G000583</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001209</bioguideId>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <firstName>Abigail</firstName>
+        <lastName>Spanberger</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>S001209</bioguideId>
+        </identifiers>
+        <middleName>Davis</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001180</bioguideId>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <firstName>David</firstName>
+        <lastName>McKinley</lastName>
+        <party>R</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-09-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000391</bioguideId>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <firstName>Raja</firstName>
+        <lastName>Krishnamoorthi</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>K000391</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2022-02-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001286</bioguideId>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <firstName>Cheri</firstName>
+        <lastName>Bustos</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2022-09-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000804</bioguideId>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <firstName>Robert</firstName>
+        <lastName>Wittman</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2022-09-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000468</bioguideId>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <firstName>Dina</firstName>
+        <lastName>Titus</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-09-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001206</bioguideId>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+        <firstName>Joseph</firstName>
+        <lastName>Morelle</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M001206</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>25</district>
+        <sponsorshipDate>2022-09-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>Y000062</bioguideId>
+        <fullName>Rep. Yarmuth, John A. [D-KY-3]</fullName>
+        <firstName>John</firstName>
+        <lastName>Yarmuth</lastName>
+        <party>D</party>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>Y000062</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2022-09-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000576</bioguideId>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-09-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000294</bioguideId>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Emmer</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-09-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000579</bioguideId>
+        <fullName>Rep. Ryan, Patrick [D-NY-19]</fullName>
+        <firstName>Patrick</firstName>
+        <lastName>Ryan</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>R000579</bioguideId>
+        </identifiers>
+        <district>19</district>
+        <sponsorshipDate>2022-09-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001047</bioguideId>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <firstName>James</firstName>
+        <lastName>Himes</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>H001047</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2022-11-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001053</bioguideId>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <firstName>Vicky</firstName>
+        <lastName>Hartzler</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>H001053</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2022-11-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Health facilities and institutions</name>
+        </item>
+        <item>
+          <name>Health information and medical records</name>
+        </item>
+        <item>
+          <name>Medical tests and diagnostic methods</name>
+        </item>
+        <item>
+          <name>Mental health</name>
+        </item>
+        <item>
+          <name>Neurological disorders</name>
+        </item>
+        <item>
+          <name>Prescription drugs</name>
+        </item>
+        <item>
+          <name>Veterans' medical care</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-18</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-03-19T15:54:30Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Veteran Suicide Prevention Act</b></p> <p>This bill requires the Department of Veterans Affairs (VA) to complete a review of the deaths of all covered veterans who died by suicide during the five-year period preceding the enactment of this bill. Covered veterans are those who received VA hospital care or medical services during the five-year period preceding the death of the veteran. </p> <p>The VA shall report on the results of the review and make such report publicly available.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Veteran Suicide Prevention Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Veteran Suicide Prevention Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Veteran Suicide Prevention Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Secretary of Veterans Affairs to conduct a review of the deaths of certain veterans who died by suicide, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-02-18T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr1123ih/xml/BILLS-117hr1123ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-22</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2180</number>
+    <updateDate>2022-12-31T08:48:06Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:48:06Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-03-23</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 54 (Tuesday, March 23, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. WEBER of Texas:H.R. 2180.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H1622]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-03-24T12:42:57Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-23T15:03:25Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsas00</systemCode>
+        <name>Armed Services Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-23T15:03:20Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-03-23</actionDate>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-03-23</actionDate>
+        <text>Referred to the Committee on Armed Services, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsas00</systemCode>
+            <name>Armed Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-03-23</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-03-23</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Babin</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <district>36</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000589</bioguideId>
+        <fullName>Rep. Gooden, Lance [R-TX-5]</fullName>
+        <firstName>Lance</firstName>
+        <lastName>Gooden</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000589</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000812</bioguideId>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <firstName>Ann</firstName>
+        <lastName>Wagner</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001305</bioguideId>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Budd</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000595</bioguideId>
+        <fullName>Rep. Good, Bob [R-VA-5]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Good</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>G000595</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000816</bioguideId>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <firstName>Roger</firstName>
+        <lastName>Williams</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000816</bioguideId>
+        </identifiers>
+        <district>25</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000599</bioguideId>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Posey</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001104</bioguideId>
+        <fullName>Rep. Cawthorn, Madison [R-NC-11]</fullName>
+        <firstName>Madison</firstName>
+        <lastName>Cawthorn</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>C001104</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000246</bioguideId>
+        <fullName>Rep. Fallon, Pat [R-TX-4]</fullName>
+        <firstName>Pat</firstName>
+        <lastName>Fallon</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000246</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000375</bioguideId>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <firstName>Jodey</firstName>
+        <lastName>Arrington</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>A000375</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <district>19</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001084</bioguideId>
+        <fullName>Rep. Herrell, Yvette [R-NM-2]</fullName>
+        <firstName>Yvette</firstName>
+        <lastName>Herrell</lastName>
+        <party>R</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>H001084</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001307</bioguideId>
+        <fullName>Rep. Baird, James R. [R-IN-4]</fullName>
+        <firstName>James</firstName>
+        <lastName>Baird</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001307</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001302</bioguideId>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <firstName>Andy</firstName>
+        <lastName>Biggs</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Border security and unlawful immigration</name>
+        </item>
+        <item>
+          <name>Civil disturbances</name>
+        </item>
+        <item>
+          <name>Crimes against property</name>
+        </item>
+        <item>
+          <name>District of Columbia</name>
+        </item>
+        <item>
+          <name>Government buildings, facilities, and property</name>
+        </item>
+        <item>
+          <name>Latin America</name>
+        </item>
+        <item>
+          <name>Mexico</name>
+        </item>
+        <item>
+          <name>Military personnel and dependents</name>
+        </item>
+        <item>
+          <name>National Guard and reserves</name>
+        </item>
+        <item>
+          <name>Protest and dissent</name>
+        </item>
+        <item>
+          <name>Subversive activities</name>
+        </item>
+        <item>
+          <name>Terrorism</name>
+        </item>
+        <item>
+          <name>U.S. Capitol</name>
+        </item>
+        <item>
+          <name>Violent crime</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-23</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-12-08T13:53:38Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Redirecting Resources to the Border Act</strong></p> <p>This bill addresses the relocation of personnel and fencing deployed in the National Capital Region in response to the January 6, 2021, attacks on the U.S. Capitol building and grounds.</p> <p>Specifically, the bill requires all fencing installed in response to the attacks to be relocated to the southern land border of the United States.</p> <p>The Department of Defense must reassign National Guard members who were deployed in response to the attacks to the National Capital Region on or after January 6, 2021, to the southern land border of the United States to assist U.S. Customs and Border patrol.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Redirecting Resources to the Border Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Redirecting Resources to the Border Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Redirecting Resources to the Border Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To relocate fencing around the Capitol Buildings and the United States Capitol Grounds, and to direct the Secretary of Defense to reassign members of the National Guard deployed to the National Capital Region to the southern land border of the United States.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-03-23T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr2180ih/xml/BILLS-117hr2180ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-24</actionDate>
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

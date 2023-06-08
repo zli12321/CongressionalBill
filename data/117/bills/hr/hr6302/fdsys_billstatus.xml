@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>6302</number>
+    <updateDate>2022-12-30T03:04:01Z</updateDate>
+    <updateDateIncludingText>2022-12-30T03:04:01Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-12-16</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 217 (Thursday, December 16, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Ms. LOIS FRANKEL of Florida:H.R. 6302.Congress has the power to enact this legislation pursuantto the following:Commerce Clause, Article I, Section 8, Clause 3; SpendingPower, Article I, Section 8, Clause 1.[Page H7833]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-12-17T14:44:52Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-12-16T16:03:15Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-12-17</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-12-16</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-12-16</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-12-16</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000462</bioguideId>
+        <fullName>Rep. Frankel, Lois [D-FL-21]</fullName>
+        <firstName>Lois</firstName>
+        <lastName>Frankel</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>F000462</bioguideId>
+        </identifiers>
+        <district>21</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001257</bioguideId>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <firstName>Gus</firstName>
+        <lastName>Bilirakis</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>12</district>
+        <sponsorshipDate>2021-12-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000624</bioguideId>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <firstName>Debbie</firstName>
+        <lastName>Dingell</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2021-12-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001298</bioguideId>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <firstName>Don</firstName>
+        <lastName>Bacon</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2022-01-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000096</bioguideId>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <firstName>DANNY</firstName>
+        <lastName>DAVIS</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2022-01-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2022-01-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000378</bioguideId>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <firstName>Cynthia</firstName>
+        <lastName>Axne</lastName>
+        <party>D</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>A000378</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-02-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raúl M. [D-AZ-3]</fullName>
+        <firstName>Raúl</firstName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2022-02-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-02-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000610</bioguideId>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <firstName>Theodore</firstName>
+        <lastName>Deutch</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>22</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000797</bioguideId>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <firstName>Debbie</firstName>
+        <lastName>Wasserman Schultz</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <district>23</district>
+        <sponsorshipDate>2022-02-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000588</bioguideId>
+        <fullName>Rep. Lamb, Conor [D-PA-17]</fullName>
+        <firstName>Conor</firstName>
+        <lastName>Lamb</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>L000588</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2022-02-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000192</bioguideId>
+        <fullName>Rep. Newman, Marie [D-IL-3]</fullName>
+        <firstName>Marie</firstName>
+        <lastName>Newman</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>N000192</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-02-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001090</bioguideId>
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Harder</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>H001090</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2022-03-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-12-16</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-03-28T16:21:06Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Protecting the Health of America's Older Adults Act</strong></p> <p>This bill requires the Centers for Disease Control and Prevention (CDC) to establish a program to promote the health and well-being of older adults.</p> <p>To carry out the program, the CDC must, among other activities, regularly assess the health-related needs of older adults, identify disparities in outcomes of older adults based on demographic and other factors, and coordinate the efforts of federal agencies and nonfederal stakeholders with respect to the health of older adults.</p> <p>Additionally, the CDC must award grants or enter into cooperative agreements with health departments and nonprofit community-based organizations to improve the availability of data on older adult populations, link health care and social services sectors, and undertake related efforts.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Protecting the Health of America’s Older Adults Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Protecting the Health of America’s Older Adults Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Protecting the Health of America’s Older Adults Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for the establishment of a program at the Centers for Disease Control and Prevention with respect to healthy aging and to authorize grants to health departments to carry out healthy aging programs, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-12-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr6302ih/xml/BILLS-117hr6302ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-12-17</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1441</number>
+    <updateDate>2022-12-16T14:06:03Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:06:03Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-02-26</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 37 (Friday, February 26, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. SWALWELL:H.R. 1441.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1, 3, and 18; Article I,Section 9, Clause 7[Page H860]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju08</systemCode>
+            <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-04-28T06:17:09Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-26T14:01:00Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-04-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju08</systemCode>
+            <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-26</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-26</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-26</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001193</bioguideId>
+        <fullName>Rep. Swalwell, Eric [D-CA-15]</fullName>
+        <firstName>Eric</firstName>
+        <lastName>Swalwell</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001193</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001084</bioguideId>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <firstName>David</firstName>
+        <lastName>Cicilline</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <middleName>N.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001208</bioguideId>
+        <fullName>Rep. McBath, Lucy [D-GA-6]</fullName>
+        <firstName>Lucy</firstName>
+        <lastName>McBath</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>M001208</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000606</bioguideId>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <firstName>Jamie</firstName>
+        <lastName>Raskin</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000574</bioguideId>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <firstName>EARL</firstName>
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001304</bioguideId>
+        <fullName>Rep. Brown, Anthony G. [D-MD-4]</fullName>
+        <firstName>Anthony</firstName>
+        <lastName>Brown</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>B001304</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001072</bioguideId>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <firstName>Andre</firstName>
+        <lastName>Carson</lastName>
+        <party>D</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>C001072</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001117</bioguideId>
+        <fullName>Rep. Casten, Sean [D-IL-6]</fullName>
+        <firstName>Sean</firstName>
+        <lastName>Casten</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>C001117</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000754</bioguideId>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>COOPER</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>5</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000197</bioguideId>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <firstName>DIANA</firstName>
+        <lastName>DEGETTE</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>D000197</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000623</bioguideId>
+        <fullName>Rep. DeSaulnier, Mark [D-CA-11]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>DeSaulnier</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>D000623</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000297</bioguideId>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <firstName>Adriano</firstName>
+        <lastName>Espaillat</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000586</bioguideId>
+        <fullName>Rep. Garcia, Jesus G. "Chuy" [D-IL-4]</fullName>
+        <firstName>Jesus</firstName>
+        <lastName>Garcia</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>G000586</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H000324</bioguideId>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <firstName>ALCEE</firstName>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>20</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001081</bioguideId>
+        <fullName>Rep. Hayes, Jahana [D-CT-5]</fullName>
+        <firstName>Jahana</firstName>
+        <lastName>Hayes</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>H001081</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001047</bioguideId>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <firstName>James</firstName>
+        <lastName>Himes</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>H001047</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000385</bioguideId>
+        <fullName>Rep. Kelly, Robin L. [D-IL-2]</fullName>
+        <firstName>Robin</firstName>
+        <lastName>Kelly</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>K000385</bioguideId>
+        </identifiers>
+        <middleName>L.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000389</bioguideId>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <firstName>Ro</firstName>
+        <lastName>Khanna</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000380</bioguideId>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <firstName>Daniel</firstName>
+        <lastName>Kildee</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>K000380</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <district>5</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000087</bioguideId>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <firstName>CAROLYN</firstName>
+        <lastName>MALONEY</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <district>12</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001204</bioguideId>
+        <fullName>Del. San Nicolas, Michael F. Q. [D-GU-At Large]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>San Nicolas</lastName>
+        <party>D</party>
+        <state>GU</state>
+        <identifiers>
+          <bioguideId>S001204</bioguideId>
+        </identifiers>
+        <middleName>F. Q.</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000179</bioguideId>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <firstName>GRACE</firstName>
+        <lastName>NAPOLITANO</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <district>32</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000597</bioguideId>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <firstName>Chellie</firstName>
+        <lastName>Pingree</lastName>
+        <party>D</party>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001145</bioguideId>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <firstName>JANICE</firstName>
+        <lastName>SCHAKOWSKY</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001207</bioguideId>
+        <fullName>Rep. Sherrill, Mikie [D-NJ-11]</fullName>
+        <firstName>Mikie</firstName>
+        <lastName>Sherrill</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>S001207</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001201</bioguideId>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000482</bioguideId>
+        <fullName>Rep. Trahan, Lori [D-MA-3]</fullName>
+        <firstName>Lori</firstName>
+        <lastName>Trahan</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>T000482</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000822</bioguideId>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <firstName>Bonnie</firstName>
+        <lastName>Watson Coleman</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2021-02-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000486</bioguideId>
+        <fullName>Rep. Torres, Ritchie [D-NY-15]</fullName>
+        <firstName>Ritchie</firstName>
+        <lastName>Torres</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>T000486</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipDate>2021-12-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000559</bioguideId>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <firstName>John</firstName>
+        <lastName>Garamendi</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-06-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Assault and harassment offenses</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Crime victims</name>
+        </item>
+        <item>
+          <name>Department of Justice</name>
+        </item>
+        <item>
+          <name>Domestic violence and child abuse</name>
+        </item>
+        <item>
+          <name>Firearms and explosives</name>
+        </item>
+        <item>
+          <name>Law enforcement administration and funding</name>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+        </item>
+        <item>
+          <name>Violent crime</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Crime and Law Enforcement</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-26</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-05-03T14:07:26Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>No Guns for Abusers Act of 2021</b></p> <p>This bill authorizes the Department of Justice (DOJ) to make grants for states, local governments, and tribal governments to implement procedures to remove firearms from individuals who are charged with or convicted of domestic violence or subject to a domestic violence protective order.</p> <p>The National Institute of Justice must report on best practices for implementing such procedures, and DOJ must submit federal legislative recommendations in accordance with the best practices. </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>No Guns for Abusers Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>No Guns for Abusers Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>No Guns for Abusers Act of 2021</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To authorize the Attorney General to make grants to States and units of local government to implement statutes, rules, policies, or procedures to authorize courts to issue relinquishment orders with respect to individuals charged with or convicted of a crime of domestic violence, or subject to a domestic violence protective order, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-02-26T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr1441ih/xml/BILLS-117hr1441ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-04-28</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

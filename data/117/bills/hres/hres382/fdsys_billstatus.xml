@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>382</number>
+    <updateDate>2022-12-31T09:46:57Z</updateDate>
+    <updateDateIncludingText>2022-12-31T09:46:57Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-05-11</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hswm00</systemCode>
+        <name>Ways and Means Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-11T18:05:05Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-05-11</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-05-11</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-05-11</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000188</bioguideId>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <firstName>RON</firstName>
+        <lastName>KIND</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001183</bioguideId>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <firstName>David</firstName>
+        <lastName>Schweikert</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-05-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001292</bioguideId>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <firstName>Donald</firstName>
+        <lastName>Beyer</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>8</district>
+        <sponsorshipDate>2021-05-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000465</bioguideId>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <firstName>A.</firstName>
+        <lastName>Ferguson</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>F000465</bioguideId>
+        </identifiers>
+        <middleName>Drew</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-05-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000375</bioguideId>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <firstName>Jodey</firstName>
+        <lastName>Arrington</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>A000375</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <district>19</district>
+        <sponsorshipDate>2021-06-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000376</bioguideId>
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Kelly</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2021-06-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000813</bioguideId>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <firstName>Jackie</firstName>
+        <lastName>Walorski</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-06-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001172</bioguideId>
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <firstName>Adrian</firstName>
+        <lastName>Smith</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <bioguideId>S001172</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-06-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001185</bioguideId>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <firstName>Terri</firstName>
+        <lastName>Sewell</lastName>
+        <party>D</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>S001185</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-06-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000585</bioguideId>
+        <fullName>Rep. LaHood, Darin [R-IL-18]</fullName>
+        <firstName>Darin</firstName>
+        <lastName>LaHood</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>L000585</bioguideId>
+        </identifiers>
+        <district>18</district>
+        <sponsorshipDate>2021-06-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000617</bioguideId>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <firstName>Suzan</firstName>
+        <lastName>DelBene</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-06-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001205</bioguideId>
+        <fullName>Rep. Miller, Carol D. [R-WV-3]</fullName>
+        <firstName>Carol</firstName>
+        <lastName>Miller</lastName>
+        <party>R</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001205</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-09-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001156</bioguideId>
+        <fullName>Rep. Sánchez, Linda T. [D-CA-38]</fullName>
+        <firstName>Linda</firstName>
+        <lastName>Sánchez</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S001156</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <district>38</district>
+        <sponsorshipDate>2021-10-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000815</bioguideId>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <firstName>Brad</firstName>
+        <lastName>Wenstrup</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>W000815</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001080</bioguideId>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <firstName>Judy</firstName>
+        <lastName>Chu</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+        </identifiers>
+        <district>27</district>
+        <sponsorshipDate>2021-10-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative remedies</name>
+        </item>
+        <item>
+          <name>Competitiveness, trade promotion, trade deficits</name>
+        </item>
+        <item>
+          <name>Free trade and trade barriers</name>
+        </item>
+        <item>
+          <name>International Affairs</name>
+        </item>
+        <item>
+          <name>International organizations and cooperation</name>
+        </item>
+        <item>
+          <name>Normal trade relations, most-favored-nation treatment</name>
+        </item>
+        <item>
+          <name>Office of the U.S. Trade Representative</name>
+        </item>
+        <item>
+          <name>Trade agreements and negotiations</name>
+        </item>
+        <item>
+          <name>Women in business</name>
+        </item>
+        <item>
+          <name>Women's employment</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Foreign Trade and International Finance</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-11</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-05-27T16:26:58Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution expresses the sense of the House of Representatives that the United States should continue to lead reform efforts and urge member cooperation at the World Trade Organization in order to address barriers to trade, improve living standards across the world, and enhance accountability and dispute settlement mechanisms.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Expressing the sense of the House of Representatives that the United States should reaffirm its commitment as a member of the World Trade Organization (WTO) and work with other WTO members to achieve reforms at the WTO that improve the speed and predictability of dispute settlement, address longstanding concerns with the WTO's Appellate Body, increase transparency at the WTO, ensure that WTO members invoke special and differential treatment reserved for developing countries only in fair and appropriate circumstances, and update the WTO rules to address the needs of the United States and other free and open economies in the 21st century.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of the House of Representatives that the United States should reaffirm its commitment as a member of the World Trade Organization (WTO) and work with other WTO members to achieve reforms at the WTO that improve the speed and predictability of dispute settlement, address longstanding concerns with the WTO's Appellate Body, increase transparency at the WTO, ensure that WTO members invoke special and differential treatment reserved for developing countries only in fair and appropriate circumstances, and update the WTO rules to address the needs of the United States and other free and open economies in the 21st century.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of the House of Representatives that the United States should reaffirm its commitment as a member of the World Trade Organization (WTO) and work with other WTO members to achieve reforms at the WTO that improve the speed and predictability of dispute settlement, address longstanding concerns with the WTO's Appellate Body, increase transparency at the WTO, ensure that WTO members invoke special and differential treatment reserved for developing countries only in fair and appropriate circumstances, and update the WTO rules to address the needs of the United States and other free and open economies in the 21st century.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-05-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres382ih/xml/BILLS-117hres382ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-05-11</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

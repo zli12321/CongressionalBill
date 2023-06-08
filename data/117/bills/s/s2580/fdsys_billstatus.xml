@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2580</number>
+    <updateDate>2022-12-30T10:48:23Z</updateDate>
+    <updateDateIncludingText>2022-12-30T10:48:23Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-08-02</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sseg00</systemCode>
+        <name>Energy and Natural Resources Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>sseg04</systemCode>
+            <name>National Parks Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings by</name>
+                <date>2021-10-06T17:53:34Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-08-02T21:27:49Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Alexander Lofgren Veterans in Parks (VIP) Act</title>
+        <congress>117</congress>
+        <number>4300</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-30</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-10-06</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg04</systemCode>
+            <name>National Parks Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-08-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-08-02</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <firstName>Kyrsten</firstName>
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <lastName>Boozman</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-08-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>Charles</firstName>
+        <lastName>Grassley</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-08-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-08-02</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000377</bioguideId>
+        <fullName>Sen. Kelly, Mark [D-AZ]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Kelly</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>K000377</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-09-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000622</bioguideId>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <firstName>Tammy</firstName>
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-09-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <state>DE</state>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2021-10-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000584</bioguideId>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <firstName>James</firstName>
+        <lastName>Risch</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-10-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000880</bioguideId>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Crapo</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-11-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Conflicts and wars</name>
+        </item>
+        <item>
+          <name>Military operations and strategy</name>
+        </item>
+        <item>
+          <name>Military personnel and dependents</name>
+        </item>
+        <item>
+          <name>Parks, recreation areas, trails</name>
+        </item>
+        <item>
+          <name>User charges and fees</name>
+        </item>
+        <item>
+          <name>Veterans' pensions and compensation</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Public Lands and Natural Resources</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-08-02</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-08-19T20:59:50Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Alexander Lofgren Veterans in Parks (VIP) Act</strong></p> <p><strong></strong>This bill makes the America the Beautiful-National Parks and Federal Recreational Lands Pass available, without charge, to members of the Armed Forces, veterans, and Gold Star Families. The pass covers the entrance fee and standard amenity recreation fee for all federal recreational lands and waters.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Alexander Lofgren Veterans in Parks (VIP) Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Alexander Lofgren Veterans in Parks (VIP) Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Alexander Lofgren Veterans in Parks (VIP) Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to direct the Secretary of the Interior and the Secretary of Agriculture to make free National Parks and Federal Recreational Lands Passes available to members of the Armed Forces, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-08-02T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2580is/xml/BILLS-117s2580is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-06</actionDate>
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

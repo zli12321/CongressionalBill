@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1874</number>
+    <updateDate>2022-12-31T13:59:55Z</updateDate>
+    <updateDateIncludingText>2022-12-31T13:59:55Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-05-27</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sseg00</systemCode>
+        <name>Energy and Natural Resources Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Hearings by</name>
+            <date>2021-12-02T15:00:06Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-27T15:42:53Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>SOAR Act</title>
+        <congress>117</congress>
+        <number>1229</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-12-02</actionDate>
+          <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Recreation Not Red Tape Act</title>
+        <congress>117</congress>
+        <number>3527</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-07</actionDate>
+          <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>SOAR Act</title>
+        <congress>117</congress>
+        <number>3670</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-12-14</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 460.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-12-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-05-27</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-05-27</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>Ron</firstName>
+        <lastName>Wyden</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>L000570</bioguideId>
+        <fullName>Sen. Lujan, Ben Ray [D-NM]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Lujan</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>L000570</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2021-12-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Department of Agriculture</name>
+        </item>
+        <item>
+          <name>Department of the Interior</name>
+        </item>
+        <item>
+          <name>Economic development</name>
+        </item>
+        <item>
+          <name>Employee performance</name>
+        </item>
+        <item>
+          <name>Environmental assessment, monitoring, research</name>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+        </item>
+        <item>
+          <name>Forests, forestry, trees</name>
+        </item>
+        <item>
+          <name>Government employee pay, benefits, personnel management</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Health promotion and preventive care</name>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+        </item>
+        <item>
+          <name>Internet and video services</name>
+        </item>
+        <item>
+          <name>Internet, web applications, social media</name>
+        </item>
+        <item>
+          <name>Land use and conservation</name>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+        </item>
+        <item>
+          <name>Mental health</name>
+        </item>
+        <item>
+          <name>Military personnel and dependents</name>
+        </item>
+        <item>
+          <name>National and community service</name>
+        </item>
+        <item>
+          <name>Outdoor recreation</name>
+        </item>
+        <item>
+          <name>Parks, recreation areas, trails</name>
+        </item>
+        <item>
+          <name>Performance measurement</name>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+        </item>
+        <item>
+          <name>Public-private cooperation</name>
+        </item>
+        <item>
+          <name>Rural conditions and development</name>
+        </item>
+        <item>
+          <name>Social work, volunteer service, charitable organizations</name>
+        </item>
+        <item>
+          <name>Travel and tourism</name>
+        </item>
+        <item>
+          <name>User charges and fees</name>
+        </item>
+        <item>
+          <name>Veterans' education, employment, rehabilitation</name>
+        </item>
+        <item>
+          <name>Veterans' medical care</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Public Lands and Natural Resources</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-27</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-09-30T12:14:50Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Recreation Not Red-Tape Act</b> </p> <p>This bill revises and sets forth provisions related to recreation areas and special recreation permits issued by the Department of the Interior and the Department of Agriculture (USDA) for individual or group use of federal recreational lands and waters. </p> <p>The bill makes permanent certain authorizations, including regarding such permits and the fees charged for them and for related administration, overhead, and indirect costs. </p> <p>Interior and USDA shall</p> <ul> <li>evaluate the special recreation permitting process and identify opportunities for eliminating duplicative processes, reducing costs, and decreasing processing times; </li> <li> establish categorical exclusions from environmental review requirements for special recreation permits if it would reduce processing times or costs without significantly affecting the human environment;</li> <li>authorize the issuance of temporary permits for new or additional recreational uses of federal lands and waters managed by the Forest Service and the Bureau of Land Management;</li> <li>allow online payment of certain federal passes and fees;</li> <li>develop initiatives to promote private-sector volunteer opportunities; and</li> <li>establish an interagency trail management plan.</li> </ul> <p>Permittees issued a special recreation permit may voluntarily and temporarily return one or more of their service days. </p> <p>The bill sets forth requirements for review by USDA of the renewal or adjustment of the allocations for the use of a special recreation permit. </p> <p>Interior and USDA may enter into agreements with states to allow the purchase of federal and state recreation passes in the same transaction.</p> <p>The bill establishes a National Recreation Area System.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Recreation Not Red Tape Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recreation Not Red Tape Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to promote innovative approaches to outdoor recreation on Federal land and to increase opportunities for collaboration with non-Federal partners, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Recreation Not Red Tape Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-05-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1874is/xml/BILLS-117s1874is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-12-02</actionDate>
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

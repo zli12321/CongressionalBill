@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>4608</number>
+    <updateDate>2022-12-29T18:48:39Z</updateDate>
+    <updateDateIncludingText>2022-12-29T18:48:39Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-07-26</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssbk00</systemCode>
+        <name>Banking, Housing, and Urban Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Hearings by</name>
+            <date>2022-07-28T18:14:29Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>ssfi00</systemCode>
+        <name>Finance Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-07-26T14:50:13Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-07-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssbk00</systemCode>
+            <name>Banking, Housing, and Urban Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-07-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfi00</systemCode>
+            <name>Finance Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-07-26</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>T000461</bioguideId>
+        <fullName>Sen. Toomey, Patrick [R-PA]</fullName>
+        <firstName>Patrick</firstName>
+        <lastName>Toomey</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001191</bioguideId>
+        <fullName>Sen. Sinema, Kyrsten [D-AZ]</fullName>
+        <firstName>Kyrsten</firstName>
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Computers and information technology</name>
+        </item>
+        <item>
+          <name>Currency</name>
+        </item>
+        <item>
+          <name>Digital media</name>
+        </item>
+        <item>
+          <name>Income tax exclusion</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Taxation</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-07-26</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-08-15T17:44:23Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Virtual Currency Tax Fairness Act</strong></p> <p>This bill excludes from gross income, for income tax purposes, a limited amount of gain from the sale or exchange of virtual currency, unless such sale or exchange is for cash or cash equivalents, property used in the active conduct of a trade or business, or property held for the production of income. The exclusion does not apply if the total value of the sale or exchange exceeds $50, or the total gain exceeds $50 (both amounts adjusted annually for inflation).</p> <p> The bill defines <em>virtual currency</em> as a digital representation of value that functions as a unit of account, a store of value, or a medium of exchange, and is not a representation of the U.S. dollar or any foreign currency.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Virtual Currency Tax Fairness Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Virtual Currency Tax Fairness Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Virtual Currency Tax Fairness Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Internal Revenue Code of 1986 to exclude from gross income de minimis gains from certain sales or exchanges of virtual currency, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-07-26T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s4608is/xml/BILLS-117s4608is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-07-28</actionDate>
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

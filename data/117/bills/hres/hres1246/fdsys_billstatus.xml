@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1246</number>
+    <updateDate>2022-12-29T18:33:48Z</updateDate>
+    <updateDateIncludingText>2022-12-29T18:33:48Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2022-07-22</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hswm00</systemCode>
+        <name>Ways and Means Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2022-09-28T19:44:05Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2022-09-20T19:31:30Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2022-07-22T13:00:50Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 117-522</citation>
+      </committeeReport>
+    </committeeReports>
+    <actions>
+      <item>
+        <actionDate>2022-09-28</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 129.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>H00129</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2022-09-28</actionDate>
+        <text>Reported adversely by the Committee on Ways and Means. H. Rept. 117-522.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-09-28</actionDate>
+        <text>Reported adversely by the Committee on Ways and Means. H. Rept. 117-522.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-09-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported Adversely by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-09-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-07-22</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-07-22</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-07-22</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001195</bioguideId>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <firstName>Jason</firstName>
+        <lastName>Smith</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>S001195</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B000755</bioguideId>
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+        <firstName>KEVIN</firstName>
+        <lastName>BRADY</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B000755</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2022-07-22</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Taxation</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-07-22</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-07-26T13:18:23Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution directs the Department of the Treasury to transmit to the House of Representatives, not later than 14 days after the adoption of this resolution, copies of any document, record, memo, correspondence or other communication that refers or relates to (1) the total number of recovery rebates issued to incarcerated individuals, nonresident aliens, individuals unlawfully present or unauthorized to work in the United States, and to individuals who died before January 1, 2021; and (2) the total dollar amount of such rebates issued to such individuals and aliens.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>07</versionCode>
+        <actionDate>2022-09-28</actionDate>
+        <actionDesc>Reported to House</actionDesc>
+        <updateDate>2022-10-06T13:38:46Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution directs the Department of the Treasury to transmit to the House of Representatives, not later than 14 days after the adoption of this resolution, copies of any document, record, memo, correspondence or other communication that refers or relates to (1) the total number of recovery rebates issued to incarcerated individuals, nonresident aliens, individuals unlawfully present or unauthorized to work in the United States, and to individuals who died before January 1, 2021; and (2) the total dollar amount of such rebates issued to such individuals and aliens.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Of inquiry directing the Secretary of the Treasury to provide certain documents in the Secretary's possession to the House of Representatives relating to recovery rebates under section 6428B of the Internal Revenue Code of 1986.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Of inquiry directing the Secretary of the Treasury to provide certain documents in the Secretary's possession to the House of Representatives relating to recovery rebates under section 6428B of the Internal Revenue Code of 1986.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Of inquiry directing the Secretary of the Treasury to provide certain documents in the Secretary's possession to the House of Representatives relating to recovery rebates under section 6428B of the Internal Revenue Code of 1986.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2022-09-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1246rh/xml/BILLS-117hres1246rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-07-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1246ih/xml/BILLS-117hres1246ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-09-28</actionDate>
+      <text>Placed on the House Calendar, Calendar No. 129.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

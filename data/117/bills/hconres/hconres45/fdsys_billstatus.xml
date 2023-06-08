@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>45</number>
+    <updateDate>2022-12-30T13:18:07Z</updateDate>
+    <updateDateIncludingText>2022-12-30T13:18:07Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HCONRES</type>
+    <introducedDate>2021-07-29</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>ssfr00</systemCode>
+        <name>Foreign Relations Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-07-18T20:27:02Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsfa14</systemCode>
+            <name>Europe, Energy, the Environment, and Cyber</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-08-04T14:30:21Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Markup by</name>
+            <date>2021-09-30T13:08:07Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-29T14:04:00Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-07-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-07-14</actionDate>
+        <actionTime>18:30:13</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-07-14</actionDate>
+        <actionTime>18:30:09</actionTime>
+        <text>On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 1 (Roll no. 354). (text: 06/21/2022 CR H5713-5714)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>354</rollNumber>
+            <url>https://clerk.house.gov/evs/2022/roll354.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2022-07-14T22:30:09Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-07-14</actionDate>
+        <actionTime>18:30:09</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 423 - 1 (Roll no. 354).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>354</rollNumber>
+            <url>https://clerk.house.gov/evs/2022/roll354.xml</url>
+            <chamber>House</chamber>
+            <congress>117</congress>
+            <date>2022-07-14T22:30:09Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2022-07-14</actionDate>
+        <actionTime>18:22:16</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H6608)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-06-21</actionDate>
+        <actionTime>16:39:20</actionTime>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <type>Floor</type>
+        <actionCode>H37220</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-06-21</actionDate>
+        <actionTime>16:33:02</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 45.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-06-21</actionDate>
+        <actionTime>16:32:53</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H5713-5714)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-06-21</actionDate>
+        <actionTime>16:32:27</actionTime>
+        <text>Ms. Manning moved to suspend the rules and agree to the resolution.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-09-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-09-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-08-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa14</systemCode>
+            <name>Europe, Energy, the Environment, and Cyber</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Europe, Energy, the Environment and Cyber.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-07-29</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-07-29</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-07-29</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>Z000017</bioguideId>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <firstName>Lee</firstName>
+        <lastName>Zeldin</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>1</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M001188</bioguideId>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <firstName>Grace</firstName>
+        <lastName>Meng</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-07-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000173</bioguideId>
+        <fullName>Rep. Omar, Ilhan [D-MN-5]</fullName>
+        <firstName>Ilhan</firstName>
+        <lastName>Omar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>O000173</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-07-29</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001309</bioguideId>
+        <fullName>Rep. Burchett, Tim [R-TN-2]</fullName>
+        <firstName>Tim</firstName>
+        <lastName>Burchett</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001309</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-08-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000795</bioguideId>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <firstName>Joe</firstName>
+        <lastName>Wilson</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000344</bioguideId>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <firstName>BRAD</firstName>
+        <lastName>SHERMAN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <district>30</district>
+        <sponsorshipDate>2021-09-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000479</bioguideId>
+        <fullName>Rep. Taylor, Van [R-TX-3]</fullName>
+        <firstName>Van</firstName>
+        <lastName>Taylor</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>T000479</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-09-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000522</bioguideId>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <firstName>CHRISTOPHER</firstName>
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-09-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-10-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000486</bioguideId>
+        <fullName>Rep. Torres, Ritchie [D-NY-15]</fullName>
+        <firstName>Ritchie</firstName>
+        <lastName>Torres</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>T000486</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipDate>2021-10-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000297</bioguideId>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <firstName>Adriano</firstName>
+        <lastName>Espaillat</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-10-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001206</bioguideId>
+        <fullName>Rep. Morelle, Joseph D. [D-NY-25]</fullName>
+        <firstName>Joseph</firstName>
+        <lastName>Morelle</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M001206</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>25</district>
+        <sponsorshipDate>2021-11-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000317</bioguideId>
+        <fullName>Rep. Malliotakis, Nicole [R-NY-11]</fullName>
+        <firstName>Nicole</firstName>
+        <lastName>Malliotakis</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M000317</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2022-01-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000087</bioguideId>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <firstName>CAROLYN</firstName>
+        <lastName>MALONEY</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M000087</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <district>12</district>
+        <sponsorshipDate>2022-01-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000597</bioguideId>
+        <fullName>Rep. Garbarino, Andrew R. [R-NY-2]</fullName>
+        <firstName>Andrew</firstName>
+        <lastName>Garbarino</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000597</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-04-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-04-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Criminal investigation, prosecution, interrogation</name>
+        </item>
+        <item>
+          <name>Diplomacy, foreign officials, Americans abroad</name>
+        </item>
+        <item>
+          <name>Europe</name>
+        </item>
+        <item>
+          <name>Serbia</name>
+        </item>
+        <item>
+          <name>Violent crime</name>
+        </item>
+        <item>
+          <name>War crimes, genocide, crimes against humanity</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-29</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-07-21T16:59:51Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution expresses the sense of Congress that the individuals responsible for the July 1999 murders of U.S. citizens Ylli, Agron, and Mehmet Bytyqi in Serbia should be brought to justice and that the United States should devote sufficient resources to fully assist and monitor Serbia's efforts to investigate and prosecute such individuals.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>53</versionCode>
+        <actionDate>2022-07-14</actionDate>
+        <actionDesc>Passed House</actionDesc>
+        <updateDate>2022-07-21T16:58:33Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution expresses the sense of Congress that the individuals responsible for the July 1999 murders of U.S. citizens Ylli, Agron, and Mehmet Bytyqi in Serbia should be brought to justice and that the United States should devote sufficient resources to fully assist and monitor Serbia's efforts to investigate and prosecute such individuals.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Expressing the sense of Congress regarding the execution-style murders of United States citizens Ylli, Agron, and Mehmet Bytyqi in the Republic of Serbia in July 1999.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing the sense of Congress regarding the execution-style murders of United States citizens Ylli, Agron, and Mehmet Bytyqi in the Republic of Serbia in July 1999.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing the sense of Congress regarding the execution-style murders of United States citizens Ylli, Agron, and Mehmet Bytyqi in the Republic of Serbia in July 1999.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2022-07-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres45rfs/xml/BILLS-117hconres45rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2022-07-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres45eh/xml/BILLS-117hconres45eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-07-29T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres45ih/xml/BILLS-117hconres45ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-07-18</actionDate>
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

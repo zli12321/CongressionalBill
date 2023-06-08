@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2408</number>
+    <updateDate>2022-12-30T10:18:49Z</updateDate>
+    <updateDateIncludingText>2022-12-30T10:18:49Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-07-21</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sshr00</systemCode>
+        <name>Health, Education, Labor, and Pensions Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-21T17:03:41Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Protecting Life on College Campus Act of 2021</title>
+        <congress>117</congress>
+        <number>4607</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-07-21</actionDate>
+          <text>Referred to the House Committee on Education and Labor.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>21st Century Assistive Technology Act</title>
+        <congress>117</congress>
+        <number>9028</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-09-29</actionDate>
+          <text>Referred to the House Committee on Education and Labor.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-07-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>sshr00</systemCode>
+            <name>Health, Education, Labor, and Pensions Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-07-21</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001243</bioguideId>
+        <fullName>Sen. Blackburn, Marsha [R-TN]</fullName>
+        <firstName>Marsha</firstName>
+        <lastName>Blackburn</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>B001243</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike [R-SD]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Rounds</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001079</bioguideId>
+        <fullName>Sen. Hyde-Smith, Cindy [R-MS]</fullName>
+        <firstName>Cindy</firstName>
+        <lastName>Hyde-Smith</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>H001079</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <fullName>Sen. Ernst, Joni [R-IA]</fullName>
+        <firstName>Joni</firstName>
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>E000295</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>I000024</bioguideId>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Inhofe</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000575</bioguideId>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <firstName>James</firstName>
+        <lastName>Lankford</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000584</bioguideId>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <firstName>James</firstName>
+        <lastName>Risch</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H000601</bioguideId>
+        <fullName>Sen. Hagerty, Bill [R-TN]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Hagerty</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>H000601</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Cotton</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <firstName>Roger</firstName>
+        <lastName>Wicker</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001089</bioguideId>
+        <fullName>Sen. Hawley, Josh [R-MO]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Hawley</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>H001089</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001310</bioguideId>
+        <fullName>Sen. Braun, Mike [R-IN]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Braun</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <fullName>Sen. Cramer, Kevin [R-ND]</fullName>
+        <firstName>Kevin</firstName>
+        <lastName>Cramer</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <lastName>Boozman</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <firstName>Jerry</firstName>
+        <lastName>Moran</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-08-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>Y000064</bioguideId>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <firstName>Todd</firstName>
+        <lastName>Young</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2022-02-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001061</bioguideId>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <firstName>John</firstName>
+        <lastName>Hoeven</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-04-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000880</bioguideId>
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Crapo</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-04-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001198</bioguideId>
+        <fullName>Sen. Marshall, Roger [R-KS]</fullName>
+        <firstName>Roger</firstName>
+        <lastName>Marshall</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>M001198</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-04-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <firstName>Deb</firstName>
+        <lastName>Fischer</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-04-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <firstName>Rob</firstName>
+        <lastName>Portman</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-04-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001217</bioguideId>
+        <fullName>Sen. Scott, Rick [R-FL]</fullName>
+        <firstName>Rick</firstName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001217</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-04-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Education</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-21</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-01-11T15:50:07Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Protecting Life on College Campus Act of 2021</strong></p> <p> This bill prohibits the award of federal funds to an institution of higher education (IHE) that hosts or is affiliated with a school-based service site that provides abortion drugs or abortions to its students or to employees of the IHE or the site. An IHE that hosts or is affiliated with a site must, in order to remain eligible for federal funds, annually certify that the site does not provide abortion drugs or abortions to students or employees.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Protecting Life on College Campus Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Protecting Life on College Campus Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Protecting Life on College Campus Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to prohibit the award of Federal funds to an institution of higher education that hosts or is affiliated with a student-based service site that provides abortion drugs or abortions to students of the institution or to employees of the institution or site, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-07-21T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2408is/xml/BILLS-117s2408is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-21</actionDate>
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>454</number>
+    <updateDate>2022-12-16T14:11:25Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:11:25Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-01-25</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 14 (Monday, January 25, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. CARBAJAL:H.R. 454.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H232]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-03-05T18:52:53Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-01-25T18:33:15Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-03-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-01-25</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-01-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001112</bioguideId>
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+        <firstName>Salud</firstName>
+        <lastName>Carbajal</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001112</bioguideId>
+        </identifiers>
+        <middleName>O.</middleName>
+        <district>24</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001200</bioguideId>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <firstName>Darren</firstName>
+        <lastName>Soto</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-02-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000132</bioguideId>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <firstName>Filemon</firstName>
+        <lastName>Vela</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>V000132</bioguideId>
+        </identifiers>
+        <district>34</district>
+        <sponsorshipDate>2021-02-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000608</bioguideId>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>52</district>
+        <sponsorshipDate>2021-02-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000587</bioguideId>
+        <fullName>Rep. Garcia, Sylvia R. [D-TX-29]</fullName>
+        <firstName>Sylvia</firstName>
+        <lastName>Garcia</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000587</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>29</district>
+        <sponsorshipDate>2021-06-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000371</bioguideId>
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <firstName>Pete</firstName>
+        <lastName>Aguilar</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>A000371</bioguideId>
+        </identifiers>
+        <district>31</district>
+        <sponsorshipDate>2021-06-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001097</bioguideId>
+        <fullName>Rep. Cárdenas, Tony [D-CA-29]</fullName>
+        <firstName>Tony</firstName>
+        <lastName>Cárdenas</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <district>29</district>
+        <sponsorshipDate>2021-06-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative remedies</name>
+        </item>
+        <item>
+          <name>Criminal justice information and records</name>
+        </item>
+        <item>
+          <name>Department of Homeland Security</name>
+        </item>
+        <item>
+          <name>Immigration status and procedures</name>
+        </item>
+        <item>
+          <name>Marriage and family status</name>
+        </item>
+        <item>
+          <name>Military personnel and dependents</name>
+        </item>
+        <item>
+          <name>National Guard and reserves</name>
+        </item>
+        <item>
+          <name>Visas and passports</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Immigration</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-01-25</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-03-15T15:54:30Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Protect Patriot Parents Act </b></p> <p>This bill makes certain aliens who are parents of a veteran eligible for adjustment to permanent residence status.</p> <p>An eligible alien shall be an individual who is a parent of a U.S. citizen who serves or served in the Armed Forces, either on active duty or in a reserve component. If the U.S. citizen has been discharged from the Armed Forces, such discharge must be under honorable conditions. </p> <p>Certain factors that would otherwise make an alien inadmissible, such as having entered the United States without being admitted, shall not make such an alien parent ineligible for permanent residence status under this bill. The Department of Homeland Security (DHS) may also waive certain factors that would otherwise make an alien inadmissible, such as having misrepresented a material fact to secure a visa, if the alien does not pose a threat to the public and has not committed any crimes that are unrelated to immigration status.</p> <p>An eligible alien who was previously removed from (or permitted to leave) the United States before this bill's enactment may apply for adjustment of status under this bill from abroad. DHS and the Department of State shall also establish a program where an eligible alien who has applied for adjustment of status under this bill may be admitted into the United States as a nonimmigrant while the application is pending, if DHS and the State Department determine that the alien does not pose a threat to the public or national security.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Protect Patriot Parents Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Protect Patriot Parents Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Protect Patriot Parents Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To render certain military parents eligible for adjustment of status, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-01-25T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr454ih/xml/BILLS-117hr454ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-05</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

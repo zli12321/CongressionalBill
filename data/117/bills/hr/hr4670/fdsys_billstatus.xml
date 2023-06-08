@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>4670</number>
+    <updateDate>2022-12-31T05:05:23Z</updateDate>
+    <updateDateIncludingText>2022-12-31T05:05:23Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-07-22</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 129 (Thursday, July 22, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. SCHWEIKERT:H.R. 4670.Congress has the power to enact this legislation pursuantto the following:Article 1. Section 8,. Clause 18 of the U.S. Constitution:The Congress shall have the Power to make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer therof.[Page H3846]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsvr00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsvr11</systemCode>
+            <name>Technology Modernization  Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-09-08T18:21:04Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-09-08T18:20:57Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-22T13:01:40Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-07-23T14:14:17Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-22T13:01:30Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hswm00</systemCode>
+        <name>Ways and Means Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hswm02</systemCode>
+            <name>Health Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-07-22T17:26:31Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-22T13:01:35Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-09-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr11</systemCode>
+            <name>Technology Modernization  Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Technology Modernization.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-09-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsvr03</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-07-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif14</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>hswm02</systemCode>
+            <name>Health Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsvr00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-07-22</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001183</bioguideId>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <firstName>David</firstName>
+        <lastName>Schweikert</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Blood and blood diseases</name>
+        </item>
+        <item>
+          <name>Cancer</name>
+        </item>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Digestive and metabolic diseases</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Genetics</name>
+        </item>
+        <item>
+          <name>Health care costs and insurance</name>
+        </item>
+        <item>
+          <name>Health care coverage and access</name>
+        </item>
+        <item>
+          <name>Health care quality</name>
+        </item>
+        <item>
+          <name>Health information and medical records</name>
+        </item>
+        <item>
+          <name>Health technology, devices, supplies</name>
+        </item>
+        <item>
+          <name>Home and outpatient care</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Internet and video services</name>
+        </item>
+        <item>
+          <name>Internet, web applications, social media</name>
+        </item>
+        <item>
+          <name>Medicaid</name>
+        </item>
+        <item>
+          <name>Medicare</name>
+        </item>
+        <item>
+          <name>Musculoskeletal and skin diseases</name>
+        </item>
+        <item>
+          <name>Rural conditions and development</name>
+        </item>
+        <item>
+          <name>Veterans' medical care</name>
+        </item>
+        <item>
+          <name>Women's health</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Health</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-22</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-01-31T18:44:21Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Advanced Safe Testing at Residence Telehealth Act of 2021</b></p> <p>This bill temporarily establishes several programs to provide telehealth services for at-home testing, evaluations, and other health care.</p> <p>Specifically, the bill establishes a demonstration program to provide assistive telehealth consultations and home- and community-based care for certain Medicare beneficiaries through Medicare Advantage (MA) plans. Covered services include certain at-home diagnostic tests, telehealth consultations, transportation services, and meal benefits. Beneficiaries must be (1) age 65 or older and eligible to enroll in a qualifying MA plan and to receive certain low-income subsidies under the Medicare prescription drug benefit, or (2) dually eligible for Medicare and Medicaid benefits.</p> <p>The bill also establishes a grant program for state Medicaid programs to cover similar at-home tests and related telehealth consultations. Additionally, the Department of Veterans Affairs must establish a pilot program to provide tests and related telehealth consultations free of charge to veterans.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Advanced Safe Testing at Residence Telehealth Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title XVIII of the Social Security Act to provide coverage and payment for certain tests and assistive telehealth consultations, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Advanced Safe Testing at Residence Telehealth Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Advanced Safe Testing at Residence Telehealth Act of 2021</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-07-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr4670ih/xml/BILLS-117hr4670ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-09-08</actionDate>
+      <text>Referred to the Subcommittee on Technology Modernization.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

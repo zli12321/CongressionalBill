@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>872</number>
+    <updateDate>2022-12-31T08:01:09Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:01:09Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-03-18</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssev00</systemCode>
+        <name>Environment and Public Works Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-18T19:51:43Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Tribal Coastal Resiliency Act</title>
+        <congress>117</congress>
+        <number>1415</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-11-16</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 405.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Environmental Justice For All Act</title>
+        <congress>117</congress>
+        <number>2021</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-07-27</actionDate>
+          <text>Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 21.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Transit to Trails Act</title>
+        <congress>117</congress>
+        <number>1461</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-04-29</actionDate>
+          <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Transit to Trails Act of 2021</title>
+        <congress>117</congress>
+        <number>2924</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-05-03</actionDate>
+          <text>Referred to the Subcommittee on Highways and Transit.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Cumulative Impacts Act of 2022</title>
+        <congress>117</congress>
+        <number>9218</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-10-24</actionDate>
+          <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-03-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-03-18</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>D000622</bioguideId>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <firstName>Tammy</firstName>
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000622</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001176</bioguideId>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <firstName>Jeff</firstName>
+        <lastName>Merkley</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Durbin</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000779</bioguideId>
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <firstName>Ron</firstName>
+        <lastName>Wyden</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001194</bioguideId>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Schatz</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>Edward</firstName>
+        <lastName>Markey</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <firstName>Bernard</firstName>
+        <lastName>Sanders</lastName>
+        <party>I</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000128</bioguideId>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>V000128</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000145</bioguideId>
+        <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+        <firstName>Alex</firstName>
+        <lastName>Padilla</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000145</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-04-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Administrative remedies</name>
+        </item>
+        <item>
+          <name>Advisory bodies</name>
+        </item>
+        <item>
+          <name>Air quality</name>
+        </item>
+        <item>
+          <name>American Samoa</name>
+        </item>
+        <item>
+          <name>Buy American requirements</name>
+        </item>
+        <item>
+          <name>Caribbean area</name>
+        </item>
+        <item>
+          <name>Child health</name>
+        </item>
+        <item>
+          <name>Civil actions and liability</name>
+        </item>
+        <item>
+          <name>Climate change and greenhouse gases</name>
+        </item>
+        <item>
+          <name>Coal</name>
+        </item>
+        <item>
+          <name>Community life and organization</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Cosmetics and personal care</name>
+        </item>
+        <item>
+          <name>Department of Transportation</name>
+        </item>
+        <item>
+          <name>Drug safety, medical device, and laboratory regulation</name>
+        </item>
+        <item>
+          <name>Due process and equal protection</name>
+        </item>
+        <item>
+          <name>Ecology</name>
+        </item>
+        <item>
+          <name>Economic development</name>
+        </item>
+        <item>
+          <name>Electric power generation and transmission</name>
+        </item>
+        <item>
+          <name>Employee benefits and pensions</name>
+        </item>
+        <item>
+          <name>Employment and training programs</name>
+        </item>
+        <item>
+          <name>Energy revenues and royalties</name>
+        </item>
+        <item>
+          <name>Energy storage, supplies, demand</name>
+        </item>
+        <item>
+          <name>Environmental Protection Agency (EPA)</name>
+        </item>
+        <item>
+          <name>Environmental assessment, monitoring, research</name>
+        </item>
+        <item>
+          <name>Environmental education</name>
+        </item>
+        <item>
+          <name>Environmental health</name>
+        </item>
+        <item>
+          <name>Environmental regulatory procedures</name>
+        </item>
+        <item>
+          <name>Evidence and witnesses</name>
+        </item>
+        <item>
+          <name>Executive Office of the President</name>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+        </item>
+        <item>
+          <name>Federal officials</name>
+        </item>
+        <item>
+          <name>Federal-Indian relations</name>
+        </item>
+        <item>
+          <name>Food supply, safety, and labeling</name>
+        </item>
+        <item>
+          <name>Foreign language and bilingual programs</name>
+        </item>
+        <item>
+          <name>Geography and mapping</name>
+        </item>
+        <item>
+          <name>Government employee pay, benefits, personnel management</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Government trust funds</name>
+        </item>
+        <item>
+          <name>Guam</name>
+        </item>
+        <item>
+          <name>Gulf of Mexico</name>
+        </item>
+        <item>
+          <name>Hazardous wastes and toxic substances</name>
+        </item>
+        <item>
+          <name>Health programs administration and funding</name>
+        </item>
+        <item>
+          <name>Health promotion and preventive care</name>
+        </item>
+        <item>
+          <name>Health technology, devices, supplies</name>
+        </item>
+        <item>
+          <name>Higher education</name>
+        </item>
+        <item>
+          <name>Historical and cultural resources</name>
+        </item>
+        <item>
+          <name>Housing and community development funding</name>
+        </item>
+        <item>
+          <name>Indian lands and resources rights</name>
+        </item>
+        <item>
+          <name>Indian social and development programs</name>
+        </item>
+        <item>
+          <name>Infrastructure development</name>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+        </item>
+        <item>
+          <name>Internet and video services</name>
+        </item>
+        <item>
+          <name>Internet, web applications, social media</name>
+        </item>
+        <item>
+          <name>Land transfers</name>
+        </item>
+        <item>
+          <name>Land use and conservation</name>
+        </item>
+        <item>
+          <name>Legal fees and court costs</name>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+        </item>
+        <item>
+          <name>Marine and coastal resources, fisheries</name>
+        </item>
+        <item>
+          <name>Marketing and advertising</name>
+        </item>
+        <item>
+          <name>Medical research</name>
+        </item>
+        <item>
+          <name>Mining</name>
+        </item>
+        <item>
+          <name>Minority health</name>
+        </item>
+        <item>
+          <name>Monuments and memorials</name>
+        </item>
+        <item>
+          <name>Northern Mariana Islands</name>
+        </item>
+        <item>
+          <name>Oil and gas</name>
+        </item>
+        <item>
+          <name>Outdoor recreation</name>
+        </item>
+        <item>
+          <name>Parks, recreation areas, trails</name>
+        </item>
+        <item>
+          <name>Performance measurement</name>
+        </item>
+        <item>
+          <name>Pest management</name>
+        </item>
+        <item>
+          <name>Poverty and welfare assistance</name>
+        </item>
+        <item>
+          <name>Product safety and quality</name>
+        </item>
+        <item>
+          <name>Public participation and lobbying</name>
+        </item>
+        <item>
+          <name>Public transit</name>
+        </item>
+        <item>
+          <name>Public-private cooperation</name>
+        </item>
+        <item>
+          <name>Puerto Rico</name>
+        </item>
+        <item>
+          <name>Racial and ethnic relations</name>
+        </item>
+        <item>
+          <name>Regional and metropolitan planning</name>
+        </item>
+        <item>
+          <name>Research administration and funding</name>
+        </item>
+        <item>
+          <name>Rural conditions and development</name>
+        </item>
+        <item>
+          <name>Sex and reproductive health</name>
+        </item>
+        <item>
+          <name>Soil pollution</name>
+        </item>
+        <item>
+          <name>Solid waste and recycling</name>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+        </item>
+        <item>
+          <name>Transportation programs funding</name>
+        </item>
+        <item>
+          <name>U.S. territories and protectorates</name>
+        </item>
+        <item>
+          <name>Urban and suburban affairs and development</name>
+        </item>
+        <item>
+          <name>User charges and fees</name>
+        </item>
+        <item>
+          <name>Virgin Islands</name>
+        </item>
+        <item>
+          <name>Water quality</name>
+        </item>
+        <item>
+          <name>Water use and supply</name>
+        </item>
+        <item>
+          <name>Women's health</name>
+        </item>
+        <item>
+          <name>Youth employment and child labor</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Environmental Protection</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-18</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-04-29T13:23:09Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Environmental Justice For All Act</b></p> <p>This bill establishes several environmental justice requirements, advisory bodies, and programs to address the disproportionate adverse human health or environmental effects of federal laws or programs on communities of color, low-income communities, or tribal and indigenous communities.</p> <p>Specifically, the bill prohibits disparate impacts on the basis of race, color, or national origin as discrimination.<i> </i>Aggrieved persons may seek legal remedy when faced with such discrimination.</p> <p>In addition, the bill directs agencies to follow certain requirements concerning environmental justice. For example, agencies must prepare community impact reports that assess the potential impacts of their actions on environmental justice communities under certain circumstances.</p> <p>Further, it creates a variety of advisory bodies and positions, such as the White House Environmental Justice Interagency Council. Among other things, the council must issue an environmental justice strategy.</p> <p>It also establishes requirements and programs concerning chemicals or toxic ingredients in certain products. For example, the bill (1) requires certain products (e.g., cosmetics) to include a list of ingredients or warnings; and (2) provides grants for research on designing safer alternatives to chemicals in certain consumer, cleaning, toy, or baby products that have an inherent toxicity or that are associated with chronic adverse health effects.</p> <p>Finally, it creates a variety of funding programs, such as a grant program to enhance access to park and recreational opportunities in an urban areas.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Environmental Justice For All Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Environmental Justice For All Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Environmental Justice For All Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to restore, reaffirm, and reconcile environmental justice and civil rights, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-03-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s872is/xml/BILLS-117s872is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-03-18</actionDate>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

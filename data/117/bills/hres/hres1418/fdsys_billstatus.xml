@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1418</number>
+    <updateDate>2022-12-29T12:48:47Z</updateDate>
+    <updateDateIncludingText>2022-12-29T12:48:47Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2022-09-30</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsgo00</systemCode>
+        <name>Oversight and Reform Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-09-30T13:02:00Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-09-30</actionDate>
+        <text>Referred to the House Committee on Oversight and Reform.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsgo00</systemCode>
+            <name>Oversight and Reform Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-09-30</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-09-30</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>N000188</bioguideId>
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <firstName>Donald</firstName>
+        <lastName>Norcross</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>N000188</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>A000378</bioguideId>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <firstName>Cynthia</firstName>
+        <lastName>Axne</lastName>
+        <party>D</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>A000378</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000490</bioguideId>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <firstName>SANFORD</firstName>
+        <lastName>BISHOP</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000574</bioguideId>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <firstName>EARL</firstName>
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001278</bioguideId>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <firstName>Suzanne</firstName>
+        <lastName>Bonamici</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001066</bioguideId>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <firstName>Kathy</firstName>
+        <lastName>Castor</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>C001066</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001084</bioguideId>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <firstName>David</firstName>
+        <lastName>Cicilline</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <middleName>N.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001059</bioguideId>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Costa</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000096</bioguideId>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <firstName>DANNY</firstName>
+        <lastName>DAVIS</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000631</bioguideId>
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <firstName>Madeleine</firstName>
+        <lastName>Dean</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>D000631</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000617</bioguideId>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <firstName>Suzan</firstName>
+        <lastName>DelBene</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raúl M. [D-AZ-3]</fullName>
+        <firstName>Raúl</firstName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000288</bioguideId>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <firstName>Henry</firstName>
+        <lastName>Johnson</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+        </identifiers>
+        <middleName>C. "Hank"</middleName>
+        <district>4</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000391</bioguideId>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <firstName>Raja</firstName>
+        <lastName>Krishnamoorthi</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>K000391</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000582</bioguideId>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Lieu</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+        </identifiers>
+        <district>33</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000562</bioguideId>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <firstName>Stephen</firstName>
+        <lastName>Lynch</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <district>8</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001208</bioguideId>
+        <fullName>Rep. McBath, Lucy [D-GA-6]</fullName>
+        <firstName>Lucy</firstName>
+        <lastName>McBath</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>M001208</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000002</bioguideId>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <firstName>JERROLD</firstName>
+        <lastName>NADLER</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000192</bioguideId>
+        <fullName>Rep. Newman, Marie [D-IL-3]</fullName>
+        <firstName>Marie</firstName>
+        <lastName>Newman</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>N000192</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000613</bioguideId>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <firstName>Jimmy</firstName>
+        <lastName>Panetta</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000613</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000604</bioguideId>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <firstName>Donald</firstName>
+        <lastName>Payne</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>P000604</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>10</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>Q000023</bioguideId>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Quigley</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000486</bioguideId>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <firstName>LUCILLE</firstName>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>R000486</bioguideId>
+        </identifiers>
+        <district>40</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001190</bioguideId>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <firstName>Bradley</firstName>
+        <lastName>Schneider</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>S001190</bioguideId>
+        </identifiers>
+        <middleName>Scott</middleName>
+        <district>10</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001201</bioguideId>
+        <fullName>Rep. Suozzi, Thomas R. [D-NY-3]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Suozzi</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>S001201</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000468</bioguideId>
+        <fullName>Rep. Titus, Dina [D-NV-1]</fullName>
+        <firstName>Dina</firstName>
+        <lastName>Titus</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>T000468</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000481</bioguideId>
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <firstName>Rashida</firstName>
+        <lastName>Tlaib</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>T000481</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000081</bioguideId>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <firstName>NYDIA</firstName>
+        <lastName>VELAZQUEZ</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000826</bioguideId>
+        <fullName>Rep. Wild, Susan [D-PA-7]</fullName>
+        <firstName>Susan</firstName>
+        <lastName>Wild</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>W000826</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2022-09-30</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000614</bioguideId>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Pappas</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>P000614</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-10-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001097</bioguideId>
+        <fullName>Rep. Cárdenas, Tony [D-CA-29]</fullName>
+        <firstName>Tony</firstName>
+        <lastName>Cárdenas</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <district>29</district>
+        <sponsorshipDate>2022-10-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Animals</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-09-30</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-10-04T22:00:55Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution expresses support for the designation of a National Animal Rescue Day to create awareness for animal rescue programs throughout the year and address the challenge of pet overpopulation through continued spaying and neutering.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Expressing support for the designation of October 1, 2022, as "National Animal Rescue Day" to create awareness of the importance of animal adoption, to educate on the importance of spaying and neutering animals, and to encourage animal adoptions throughout the United States.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Expressing support for the designation of October 1, 2022, as "National Animal Rescue Day" to create awareness of the importance of animal adoption, to educate on the importance of spaying and neutering animals, and to encourage animal adoptions throughout the United States.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Expressing support for the designation of October 1, 2022, as "National Animal Rescue Day" to create awareness of the importance of animal adoption, to educate on the importance of spaying and neutering animals, and to encourage animal adoptions throughout the United States.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-09-30T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1418ih/xml/BILLS-117hres1418ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-09-30</actionDate>
+      <text>Referred to the House Committee on Oversight and Reform.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

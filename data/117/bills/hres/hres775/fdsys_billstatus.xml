@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>775</number>
+    <updateDate>2022-12-30T08:18:21Z</updateDate>
+    <updateDateIncludingText>2022-12-30T08:18:21Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-11-05</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag16</systemCode>
+            <name>General Farm Commodities and Risk Management Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-11-30T16:48:07Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-11-05T12:00:35Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>A resolution celebrating the 125th anniversary of the National Grain and Feed Association and recognizing the Association and its members for transforming the bounty of United States farmers into safe, nutritious, sustainable, and affordable human and animal food.</title>
+        <congress>117</congress>
+        <number>447</number>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2021-12-18</actionDate>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 11/16/2021 S8241)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-11-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag16</systemCode>
+            <name>General Farm Commodities and Risk Management Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-11-05</actionDate>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-11-05</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-11-05</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001157</bioguideId>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <firstName>David</firstName>
+        <lastName>Scott</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>S001157</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>T000467</bioguideId>
+        <fullName>Rep. Thompson, Glenn [R-PA-15]</fullName>
+        <firstName>Glenn</firstName>
+        <lastName>Thompson</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001286</bioguideId>
+        <fullName>Rep. Bustos, Cheri [D-IL-17]</fullName>
+        <firstName>Cheri</firstName>
+        <lastName>Bustos</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>B001286</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000586</bioguideId>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <firstName>Al</firstName>
+        <lastName>Lawson</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>L000586</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001119</bioguideId>
+        <fullName>Rep. Craig, Angie [D-MN-2]</fullName>
+        <firstName>Angie</firstName>
+        <lastName>Craig</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>C001119</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000171</bioguideId>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>O'Halleran</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000871</bioguideId>
+        <fullName>Rep. Mann, Tracey [R-KS-1]</fullName>
+        <firstName>Tracey</firstName>
+        <lastName>Mann</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>M000871</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001087</bioguideId>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <firstName>Eric</firstName>
+        <lastName>Crawford</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>C001087</bioguideId>
+        </identifiers>
+        <middleName>A. "Rick"</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000378</bioguideId>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <firstName>Cynthia</firstName>
+        <lastName>Axne</lastName>
+        <party>D</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>A000378</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000490</bioguideId>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <firstName>SANFORD</firstName>
+        <lastName>BISHOP</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000266</bioguideId>
+        <fullName>Rep. LaTurner, Jake [R-KS-2]</fullName>
+        <firstName>Jake</firstName>
+        <lastName>LaTurner</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>L000266</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000298</bioguideId>
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+        <firstName>Ron</firstName>
+        <lastName>Estes</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>E000298</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000188</bioguideId>
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <firstName>RON</firstName>
+        <lastName>KIND</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000595</bioguideId>
+        <fullName>Rep. Letlow, Julia [R-LA-5]</fullName>
+        <firstName>Julia</firstName>
+        <lastName>Letlow</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>L000595</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000446</bioguideId>
+        <fullName>Rep. Feenstra, Randy [R-IA-4]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Feenstra</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>F000446</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000603</bioguideId>
+        <fullName>Rep. Rouzer, David [R-NC-7]</fullName>
+        <firstName>David</firstName>
+        <lastName>Rouzer</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>R000603</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001059</bioguideId>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Costa</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001307</bioguideId>
+        <fullName>Rep. Baird, James R. [R-IN-4]</fullName>
+        <firstName>James</firstName>
+        <lastName>Baird</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001307</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001110</bioguideId>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <firstName>J.</firstName>
+        <lastName>Correa</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001110</bioguideId>
+        </identifiers>
+        <middleName>Luis</middleName>
+        <district>46</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001209</bioguideId>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <firstName>Abigail</firstName>
+        <lastName>Spanberger</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>S001209</bioguideId>
+        </identifiers>
+        <middleName>Davis</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001088</bioguideId>
+        <fullName>Rep. Hagedorn, Jim [R-MN-1]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Hagedorn</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>H001088</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000576</bioguideId>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000619</bioguideId>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <firstName>Rodney</firstName>
+        <lastName>Davis</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001189</bioguideId>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <firstName>Austin</firstName>
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000103</bioguideId>
+        <fullName>Rep. Rosendale Sr., Matthew M. [R-MT-At Large]</fullName>
+        <firstName>Matthew</firstName>
+        <lastName>Rosendale</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>R000103</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-11-05</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001055</bioguideId>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <firstName>Ed</firstName>
+        <lastName>Case</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>C001055</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-11-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001275</bioguideId>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <firstName>Larry</firstName>
+        <lastName>Bucshon</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001275</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-12-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001295</bioguideId>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Bost</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2021-12-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000563</bioguideId>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Gibbs</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>G000563</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-12-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Agricultural marketing and promotion</name>
+        </item>
+        <item>
+          <name>Agricultural trade</name>
+        </item>
+        <item>
+          <name>Commemorative events and holidays</name>
+        </item>
+        <item>
+          <name>Competitiveness, trade promotion, trade deficits</name>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>Food supply, safety, and labeling</name>
+        </item>
+        <item>
+          <name>Grain</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Agriculture and Food</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-11-05</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-11-22T18:06:04Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution commemorates the 125th anniversary of the National Grain and Feed Association. It also recognizes the National Grain and Feed Association for 125 years of promoting the noble purpose of its members in transforming the American farmer's bounty into safe, nutritious, sustainable, and affordable human and animal food.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Recognizing the 125th anniversary of the National Grain and Feed Association and celebrating the history and longstanding efforts of the Association and its members in transforming the American farmer's bounty into safe, nutritious, sustainable, and affordable human and animal food.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Recognizing the 125th anniversary of the National Grain and Feed Association and celebrating the history and longstanding efforts of the Association and its members in transforming the American farmer's bounty into safe, nutritious, sustainable, and affordable human and animal food.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Recognizing the 125th anniversary of the National Grain and Feed Association and celebrating the history and longstanding efforts of the Association and its members in transforming the American farmer's bounty into safe, nutritious, sustainable, and affordable human and animal food.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-11-05T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres775ih/xml/BILLS-117hres775ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-11-30</actionDate>
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

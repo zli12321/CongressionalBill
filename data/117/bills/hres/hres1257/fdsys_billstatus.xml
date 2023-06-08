@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1257</number>
+    <updateDate>2022-12-29T18:33:48Z</updateDate>
+    <updateDateIncludingText>2022-12-29T18:33:48Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2022-07-26</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2022-09-22T21:15:44Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2022-09-14T19:22:09Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2022-07-26T16:07:05Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 117-490</citation>
+      </committeeReport>
+    </committeeReports>
+    <actions>
+      <item>
+        <actionDate>2022-09-22</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 110.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>H00110</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2022-09-22</actionDate>
+        <text>Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 117-490.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-09-22</actionDate>
+        <text>Reported adversely (Amended) by the Committee on Judiciary. H. Rept. 117-490.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-09-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported Unfavorably (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-09-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-07-26</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-07-26</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-07-26</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000376</bioguideId>
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Kelly</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B000755</bioguideId>
+        <fullName>Rep. Brady, Kevin [R-TX-8]</fullName>
+        <firstName>KEVIN</firstName>
+        <lastName>BRADY</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B000755</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2022-07-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Immigration</name>
+      </policyArea>
+    </subjects>
+    <title>Of inquiry directing the Secretary of Health and Human Services to provide certain documents in the Secretary's possession to the House of Representatives relating to the establishment of an Emergency Intake Site in Erie, Pennsylvania, at the Pennsylvania International Academy, to house the influx of unaccompanied migrant children.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Of inquiry directing the Secretary of Health and Human Services to provide certain documents in the Secretary's possession to the House of Representatives relating to the establishment of an Emergency Intake Site in Erie, Pennsylvania, at the Pennsylvania International Academy, to house the influx of unaccompanied migrant children.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Of inquiry directing the Secretary of Health and Human Services to provide certain documents in the Secretary's possession to the House of Representatives relating to the establishment of an Emergency Intake Site in Erie, Pennsylvania, at the Pennsylvania International Academy, to house the influx of unaccompanied migrant children.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2022-09-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1257rh/xml/BILLS-117hres1257rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-07-26T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1257ih/xml/BILLS-117hres1257ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-09-22</actionDate>
+      <text>Placed on the House Calendar, Calendar No. 110.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

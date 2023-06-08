@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>392</number>
+    <updateDate>2022-12-31T09:46:57Z</updateDate>
+    <updateDateIncludingText>2022-12-31T09:46:57Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-05-13</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif17</systemCode>
+            <name>Consumer Protection and Commerce Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-05-14T16:32:28Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-13T16:04:15Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>A resolution supporting the designation of May 13, 2021, as "National Senior Fraud Awareness Day" to raise awareness about the increasing number of fraudulent scams targeted at seniors in the United States, to encourage the implementation of policies to prevent those scams from happening, and to improve protections from those scams for seniors.</title>
+        <congress>117</congress>
+        <number>214</number>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2021-05-13</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2530-2531; text: CR S2527)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-05-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif17</systemCode>
+            <name>Consumer Protection and Commerce Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Consumer Protection and Commerce.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-05-13</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-05-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-05-13</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001270</bioguideId>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <firstName>Karen</firstName>
+        <lastName>Bass</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+        </identifiers>
+        <district>37</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>A000378</bioguideId>
+        <fullName>Rep. Axne, Cynthia [D-IA-3]</fullName>
+        <firstName>Cynthia</firstName>
+        <lastName>Axne</lastName>
+        <party>D</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>A000378</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001097</bioguideId>
+        <fullName>Rep. Cárdenas, Tony [D-CA-29]</fullName>
+        <firstName>Tony</firstName>
+        <lastName>Cárdenas</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <district>29</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001072</bioguideId>
+        <fullName>Rep. Carson, Andre [D-IN-7]</fullName>
+        <firstName>Andre</firstName>
+        <lastName>Carson</lastName>
+        <party>D</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>C001072</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000631</bioguideId>
+        <fullName>Rep. Dean, Madeleine [D-PA-4]</fullName>
+        <firstName>Madeleine</firstName>
+        <lastName>Dean</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>D000631</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000610</bioguideId>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <firstName>Theodore</firstName>
+        <lastName>Deutch</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>22</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-1]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Fitzpatrick</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000583</bioguideId>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Gottheimer</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>G000583</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001038</bioguideId>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Higgins</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>H001038</bioguideId>
+        </identifiers>
+        <district>26</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <firstName>SHEILA</firstName>
+        <lastName>JACKSON LEE</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <district>18</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000590</bioguideId>
+        <fullName>Rep. Lee, Susie [D-NV-3]</fullName>
+        <firstName>Susie</firstName>
+        <lastName>Lee</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>L000590</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001278</bioguideId>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <firstName>Suzanne</firstName>
+        <lastName>Bonamici</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001145</bioguideId>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <firstName>JANICE</firstName>
+        <lastName>SCHAKOWSKY</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <district>9</district>
+        <sponsorshipDate>2021-05-13</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001055</bioguideId>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <firstName>Ed</firstName>
+        <lastName>Case</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <bioguideId>C001055</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-05-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Aging</name>
+        </item>
+        <item>
+          <name>Commemorative events and holidays</name>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>Consumer affairs</name>
+        </item>
+        <item>
+          <name>Crime prevention</name>
+        </item>
+        <item>
+          <name>Fraud offenses and financial crimes</name>
+        </item>
+        <item>
+          <name>Internet and video services</name>
+        </item>
+        <item>
+          <name>Internet, web applications, social media</name>
+        </item>
+        <item>
+          <name>Postal service</name>
+        </item>
+        <item>
+          <name>Telephone and wireless communication</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Commerce</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-13</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-05-25T19:19:43Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution expresses support for the designation of National Senior Fraud Awareness Day and encourages the development of policies that help prevent scams targeting older adults.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Supporting the designation of May 13, 2021, as "National Senior Fraud Awareness Day" to raise awareness about the increasing number of fraudulent scams targeted at seniors in the United States, to encourage the implementation of policies to prevent those scams from happening, and to improve protections from those scams for seniors.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Supporting the designation of May 13, 2021, as "National Senior Fraud Awareness Day" to raise awareness about the increasing number of fraudulent scams targeted at seniors in the United States, to encourage the implementation of policies to prevent those scams from happening, and to improve protections from those scams for seniors.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Supporting the designation of May 13, 2021, as "National Senior Fraud Awareness Day" to raise awareness about the increasing number of fraudulent scams targeted at seniors in the United States, to encourage the implementation of policies to prevent those scams from happening, and to improve protections from those scams for seniors.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-05-13T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres392ih/xml/BILLS-117hres392ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-05-14</actionDate>
+      <text>Referred to the Subcommittee on Consumer Protection and Commerce.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

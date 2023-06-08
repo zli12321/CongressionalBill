@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>279</number>
+    <updateDate>2022-12-31T08:48:01Z</updateDate>
+    <updateDateIncludingText>2022-12-31T08:48:01Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-03-26</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju10</systemCode>
+            <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-10-19T14:47:02Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-26T18:13:40Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsii00</systemCode>
+        <name>Natural Resources Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Hearings by</name>
+            <date>2021-05-12T16:42:26Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-26T18:13:45Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-10-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju10</systemCode>
+            <name>Constitution, Civil Rights, and Civil Liberties Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-05-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-03-26</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-03-26</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-03-26</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-03-26</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raúl M. [D-AZ-3]</fullName>
+        <firstName>Raúl</firstName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>3</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>P000610</bioguideId>
+        <fullName>Del. Plaskett, Stacey E. [D-VI-At Large]</fullName>
+        <firstName>Stacey</firstName>
+        <lastName>Plaskett</lastName>
+        <party>D</party>
+        <state>VI</state>
+        <identifiers>
+          <bioguideId>P000610</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001177</bioguideId>
+        <fullName>Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large]</fullName>
+        <firstName>Gregorio</firstName>
+        <lastName>Sablan</lastName>
+        <party>D</party>
+        <state>MP</state>
+        <identifiers>
+          <bioguideId>S001177</bioguideId>
+        </identifiers>
+        <middleName>Kilili Camacho</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001204</bioguideId>
+        <fullName>Del. San Nicolas, Michael F. Q. [D-GU-At Large]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>San Nicolas</lastName>
+        <party>D</party>
+        <state>GU</state>
+        <identifiers>
+          <bioguideId>S001204</bioguideId>
+        </identifiers>
+        <middleName>F. Q.</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000582</bioguideId>
+        <fullName>Resident Commissioner González-Colón, Jenniffer [R-PR-At Large]</fullName>
+        <firstName>Jenniffer</firstName>
+        <lastName>Gonzalez-Colon</lastName>
+        <party>R</party>
+        <state>PR</state>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000081</bioguideId>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <firstName>NYDIA</firstName>
+        <lastName>VELAZQUEZ</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000586</bioguideId>
+        <fullName>Rep. Garcia, Jesus G. "Chuy" [D-IL-4]</fullName>
+        <firstName>Jesus</firstName>
+        <lastName>Garcia</lastName>
+        <party>D</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>G000586</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000486</bioguideId>
+        <fullName>Rep. Torres, Ritchie [D-NY-15]</fullName>
+        <firstName>Ritchie</firstName>
+        <lastName>Torres</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>T000486</bioguideId>
+        </identifiers>
+        <district>15</district>
+        <sponsorshipDate>2021-03-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <fullName>Del. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <firstName>ELEANOR</firstName>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <state>DC</state>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <middleName>HOLMES</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-04-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001068</bioguideId>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <firstName>Jared</firstName>
+        <lastName>Huffman</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-04-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000481</bioguideId>
+        <fullName>Rep. Tlaib, Rashida [D-MI-13]</fullName>
+        <firstName>Rashida</firstName>
+        <lastName>Tlaib</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>T000481</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-04-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000179</bioguideId>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <firstName>GRACE</firstName>
+        <lastName>NAPOLITANO</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <district>32</district>
+        <sponsorshipDate>2021-04-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001200</bioguideId>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <firstName>Darren</firstName>
+        <lastName>Soto</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-04-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000574</bioguideId>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <firstName>Ruben</firstName>
+        <lastName>Gallego</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-05-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-05-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000574</bioguideId>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <firstName>EARL</firstName>
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-06-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <firstName>JAMES</firstName>
+        <lastName>MCGOVERN</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-07-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Constitution and constitutional amendments</name>
+        </item>
+        <item>
+          <name>Due process and equal protection</name>
+        </item>
+        <item>
+          <name>Racial and ethnic relations</name>
+        </item>
+        <item>
+          <name>Sovereignty, recognition, national governance and status</name>
+        </item>
+        <item>
+          <name>Supreme Court</name>
+        </item>
+        <item>
+          <name>U.S. history</name>
+        </item>
+        <item>
+          <name>U.S. territories and protectorates</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Law</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-26</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-08-03T15:09:48Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution rejects&nbsp;the Supreme Court's decisions in the Insular Cases (a series of cases regarding the application of constitutional rights in U.S. territories) and recognizes that constitutional and democratic principles apply throughout the states and territories of the United States.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Acknowledging that the United States Supreme Court's decisions in the Insular Cases and the "territorial incorporation doctrine" are contrary to the text and history of the United States Constitution, rest on racial views and stereotypes from the era of Plessy v. Ferguson that have long been rejected, are contrary to our Nation's most basic constitutional and democratic principles, and should be rejected as having no place in United States constitutional law.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Acknowledging that the United States Supreme Court's decisions in the Insular Cases and the "territorial incorporation doctrine" are contrary to the text and history of the United States Constitution, rest on racial views and stereotypes from the era of Plessy v. Ferguson that have long been rejected, are contrary to our Nation's most basic constitutional and democratic principles, and should be rejected as having no place in United States constitutional law.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Acknowledging that the United States Supreme Court's decisions in the Insular Cases and the "territorial incorporation doctrine" are contrary to the text and history of the United States Constitution, rest on racial views and stereotypes from the era of Plessy v. Ferguson that have long been rejected, are contrary to our Nation's most basic constitutional and democratic principles, and should be rejected as having no place in United States constitutional law.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-03-26T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres279ih/xml/BILLS-117hres279ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-19</actionDate>
+      <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

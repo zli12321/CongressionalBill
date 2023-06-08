@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>519</number>
+    <updateDate>2022-12-31T05:03:52Z</updateDate>
+    <updateDateIncludingText>2022-12-31T05:03:52Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-07-01</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsru00</systemCode>
+        <name>Rules Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-01T13:01:00Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-07-01</actionDate>
+        <text>Referred to the House Committee on Rules.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-07-01</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-07-01</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001115</bioguideId>
+        <fullName>Rep. Cloud, Michael [R-TX-27]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Cloud</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001115</bioguideId>
+        </identifiers>
+        <district>27</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>P000605</bioguideId>
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>Perry</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2021-07-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Babin</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <district>36</district>
+        <sponsorshipDate>2021-07-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001305</bioguideId>
+        <fullName>Rep. Budd, Ted [R-NC-13]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Budd</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001305</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-07-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <sponsorshipDate>2021-07-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <firstName>Paul</firstName>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-07-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000626</bioguideId>
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <firstName>Warren</firstName>
+        <lastName>Davidson</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>D000626</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-07-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000246</bioguideId>
+        <fullName>Rep. Fallon, Pat [R-TX-4]</fullName>
+        <firstName>Pat</firstName>
+        <lastName>Fallon</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000246</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000304</bioguideId>
+        <fullName>Rep. Jackson, Ronny [R-TX-13]</fullName>
+        <firstName>Ronny</firstName>
+        <lastName>Jackson</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000304</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-07-26</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Congress</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-01</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-06-02T15:55:42Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution requires, no later than 60 days after a select commission is established in the legislative branch, and every 30 days afterwards, the chair of the commission to submit to the Clerk of the House a report that, for each line item expense incurred by the commission to carry out the duties of that commission</p> <ul> <li>documents the date and amount of each outlay, and</li> <li>includes a copy of the receipt for each outlay.</li> </ul> <p>The Clerk shall make such information received with respect to the budget outlays of a select commission available to the public on a government website in a searchable, sortable, and downloadable format as soon as possible after it is received.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Amending the Rules of the House of Representatives to require the chair of a select commission established in the legislative branch to report each line item expense to the Clerk of the House of Representatives, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Amending the Rules of the House of Representatives to require the chair of a select commission established in the legislative branch to report each line item expense to the Clerk of the House of Representatives, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Amending the Rules of the House of Representatives to require the chair of a select commission established in the legislative branch to report each line item expense to the Clerk of the House of Representatives, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-07-01T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres519ih/xml/BILLS-117hres519ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-01</actionDate>
+      <text>Referred to the House Committee on Rules.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

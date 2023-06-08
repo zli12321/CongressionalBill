@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1787</number>
+    <updateDate>2022-12-16T14:09:25Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:09:25Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-03-11</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 46 (Thursday, March 11, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. CLYDE:H.R. 1787.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H1356]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju08</systemCode>
+            <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-05-18T21:00:39Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-03-11T14:11:20Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-05-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju08</systemCode>
+            <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-03-11</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-03-11</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-03-11</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-03-10</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR H1308)</text>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001116</bioguideId>
+        <fullName>Rep. Clyde, Andrew S. [R-GA-9]</fullName>
+        <firstName>Andrew</firstName>
+        <lastName>Clyde</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>C001116</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>9</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>H001052</bioguideId>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <firstName>Andy</firstName>
+        <lastName>Harris</lastName>
+        <party>R</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001067</bioguideId>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Hudson</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>H001067</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000626</bioguideId>
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <firstName>Warren</firstName>
+        <lastName>Davidson</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>D000626</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000595</bioguideId>
+        <fullName>Rep. Good, Bob [R-VA-5]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Good</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>G000595</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001302</bioguideId>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <firstName>Andy</firstName>
+        <lastName>Biggs</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000103</bioguideId>
+        <fullName>Rep. Rosendale Sr., Matthew M. [R-MT-At Large]</fullName>
+        <firstName>Matthew</firstName>
+        <lastName>Rosendale</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>R000103</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000605</bioguideId>
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>Perry</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000552</bioguideId>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <firstName>Louie</firstName>
+        <lastName>Gohmert</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000552</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001103</bioguideId>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <firstName>Earl</firstName>
+        <lastName>Carter</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>C001103</bioguideId>
+        </identifiers>
+        <middleName>L. "Buddy"</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000583</bioguideId>
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <firstName>Barry</firstName>
+        <lastName>Loudermilk</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>L000583</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001071</bioguideId>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <firstName>Jody</firstName>
+        <lastName>Hice</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <district>10</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000372</bioguideId>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <firstName>Rick</firstName>
+        <lastName>Allen</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>A000372</bioguideId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <district>12</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000478</bioguideId>
+        <fullName>Rep. Tenney, Claudia [R-NY-22]</fullName>
+        <firstName>Claudia</firstName>
+        <lastName>Tenney</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>T000478</bioguideId>
+        </identifiers>
+        <district>22</district>
+        <sponsorshipDate>2021-03-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001274</bioguideId>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <firstName>Mo</firstName>
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000032</bioguideId>
+        <fullName>Rep. Donalds, Byron [R-FL-19]</fullName>
+        <firstName>Byron</firstName>
+        <lastName>Donalds</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>D000032</bioguideId>
+        </identifiers>
+        <district>19</district>
+        <sponsorshipDate>2022-05-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000465</bioguideId>
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <firstName>A.</firstName>
+        <lastName>Ferguson</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>F000465</bioguideId>
+        </identifiers>
+        <middleName>Drew</middleName>
+        <district>3</district>
+        <sponsorshipDate>2022-06-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Criminal justice information and records</name>
+        </item>
+        <item>
+          <name>Firearms and explosives</name>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Crime and Law Enforcement</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-03-11</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-08-09T11:09:21Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Ensuring Second Amendment Freedoms are Executed Timely Act</strong></p> <p>This bill allows a licensed gun dealer, manufacturer, or importer to transfer a firearm to an unlicensed person if a submitted background check remains incomplete after three calendar days (currently, three business days).</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Ensuring Second Amendment Freedoms are Executed Timely Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Ensuring Second Amendment Freedoms are Executed Timely Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Ensuring Second Amendment Freedoms are Executed Timely Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To prevent unnecessary delay in firearms transfers from licensed firearms dealers to unlicensed persons.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-03-11T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr1787ih/xml/BILLS-117hr1787ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-05-18</actionDate>
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

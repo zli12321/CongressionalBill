@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>5716</number>
+    <updateDate>2022-12-30T07:34:01Z</updateDate>
+    <updateDateIncludingText>2022-12-30T07:34:01Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-10-25</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 187 (Monday, October 25, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. HARDER of California:H.R. 5716.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1 & Article I, Section 8,Clause 18 of the Constitution.[Page H5873]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsii00</systemCode>
+        <name>Natural Resources Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Oceans, and Wildlife Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-10-29T16:10:47Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-10-25T16:02:05Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-10-29</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Oceans, and Wildlife Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-10-25</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-10-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-10-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>H001090</bioguideId>
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Harder</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>H001090</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001059</bioguideId>
+        <fullName>Rep. Costa, Jim [D-CA-16]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Costa</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001059</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2021-10-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000559</bioguideId>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <firstName>John</firstName>
+        <lastName>Garamendi</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-10-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000613</bioguideId>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <firstName>Jimmy</firstName>
+        <lastName>Panetta</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000613</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipDate>2021-10-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001166</bioguideId>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <firstName>Jerry</firstName>
+        <lastName>McNerney</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-10-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Transportation and Public Works</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-10-25</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-05-05T13:00:56Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Securing Access for the central Valley and Enhancing (SAVE) Water Resources Act</b></p> <p>This bill authorizes assistance for water management and infrastructure projects and awards grants for water recycling and reuse projects.</p> <p>The bill (1) establishes the Water Infrastructure and Drought Solutions Fund to finance various water-related projects; (2) modifies the grant program for the funding of water recycling and reuse projects to assign priorities, including to projects that provide a more reliable water supply for states and localities; and (3) reauthorizes through FY2026 the Rural Water Supply Program.</p> <p>In addition, the Department of the Interior must establish a pilot program to provide financial assistance to certain water supply projects that contribute to a safe, adequate water supply for domestic, agricultural, environmental, municipal, or industrial use.</p> <p>The Bureau of Reclamation must award prizes for achievements for certain applications of water technology.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Securing Access for the central Valley and Enhancing (SAVE) Water Resources Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Securing Access for the central Valley and Enhancing (SAVE) Water Resources Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Securing Access for the central Valley and Enhancing (SAVE) Water Resources Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <title>Reclamation Infrastructure Finance and Innovation Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To promote water supply reliability and improved water management for rural communities, the State of California, and the Nation, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-10-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr5716ih/xml/BILLS-117hr5716ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-29</actionDate>
+      <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3099</number>
+    <updateDate>2022-12-30T07:48:45Z</updateDate>
+    <updateDateIncludingText>2022-12-30T07:48:45Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-10-28</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2022-05-24T16:30:48Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2021-12-15T16:30:00Z</date>
+          </item>
+          <item>
+            <name>Hearings by</name>
+            <date>2021-11-30T19:30:00Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-10-28T16:19:01Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 117-115</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <title>FedRAMP Authorization Act</title>
+        <congress>117</congress>
+        <number>21</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-01-06</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Strengthening American Cybersecurity Act of 2022</title>
+        <congress>117</congress>
+        <number>3600</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2022-03-02</actionDate>
+          <text>Held at the desk.</text>
+          <actionTime>13:11:27</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>FedRAMP Authorization Act</title>
+        <congress>117</congress>
+        <number>8956</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-10-11</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-05-24</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 383.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2022-05-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-115.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-05-24</actionDate>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment in the nature of a substitute. With written report No. 117-115.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-12-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-11-30</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-10-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-10-28</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>H001076</bioguideId>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Maggie</firstName>
+        <lastName>Hassan</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-10-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001089</bioguideId>
+        <fullName>Sen. Hawley, Josh [R-MO]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Hawley</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>H001089</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-10-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-10-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2022-03-24T20:03:00Z</pubDate>
+        <title>S. 3099, Federal Secure Cloud Improvement and Jobs Act of 2021</title>
+        <url>https://www.cbo.gov/publication/57947</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Advisory bodies</name>
+        </item>
+        <item>
+          <name>Computer security and identity theft</name>
+        </item>
+        <item>
+          <name>Computers and information technology</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Performance measurement</name>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+        </item>
+        <item>
+          <name>Technology assessment</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Government Operations and Politics</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-10-28</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-04-11T19:31:57Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Federal </b><strong>Secure Cloud Improvement and Jobs Act of 2021</strong></p> <p>This bill provides statutory authority for the Federal Risk and Authorization Management Program (FedRAMP) within the General Services Administration (GSA).</p> <p>FedRAMP is a government-wide program that provides a standardized, reusable approach to security assessment and authorization for cloud computing products and services that process unclassified information used by agencies. </p> <p>The bill establishes a FedRAMP Board to provide input and recommendations to the GSA regarding the requirements and guidelines for, and the prioritization of, security assessments of cloud computing products and services.</p> <p>The GSA may determine the requirements for accreditation of a third-party organization to perform independent assessments and other activities that will improve the overall performance of FedRAMP and reduce the cost of FedRAMP authorizations for cloud service providers. Such requirements may include developing or requiring certification programs for individuals employed by the third-party organization seeking accreditation.</p> <p>The Government Accountability Office must publish a report that, among other requirements, includes an assessment of the costs incurred by agencies and cloud service providers related to the issuance of FedRAMP authorizations.</p> <p>The bill establishes the Federal Secure Cloud Advisory Committee.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>25</versionCode>
+        <actionDate>2022-05-24</actionDate>
+        <actionDesc>Reported to Senate</actionDesc>
+        <updateDate>2022-08-27T19:24:18Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Federal </b><strong>Secure Cloud Improvement and Jobs Act of 2021</strong></p> <p>This bill provides statutory authority for the Federal Risk and Authorization Management Program (FedRAMP) within the General Services Administration (GSA).</p> <p>FedRAMP is a government-wide program that provides a standardized, reusable approach to security assessment and authorization for cloud computing products and services that process unclassified information used by agencies. </p> <p>The bill establishes a FedRAMP Board to provide input and recommendations to the GSA regarding the requirements and guidelines for, and the prioritization of, security assessments of cloud computing products and services.</p> <p>The GSA may determine whether FedRAMP may use an independent assessment service to analyze, validate, and attest to the quality and compliance of security assessment materials that pertain to cloud computing products and services. An independent assessment service that performs such work must annually report to GSA about any foreign interest in, influence of, or control of its service.</p> <p>The Government Accountability Office must publish a report that, among other requirements, includes an assessment of the costs incurred by agencies and cloud service providers related to the issuance of FedRAMP authorizations.</p> <p>The bill establishes the Federal Secure Cloud Advisory Committee.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Federal Secure Cloud Improvement and Jobs Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Federal Secure Cloud Improvement and Jobs Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <title>Federal Secure Cloud Improvement and Jobs Act of 2021</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Reported to Senate</billTextVersionName>
+        <billTextVersionCode>RS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 44, United States Code, to establish the Federal Risk and Authorization Management Program within the General Services Administration, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Federal Secure Cloud Improvement and Jobs Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2022-05-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3099rs/xml/BILLS-117s3099rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-10-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3099is/xml/BILLS-117s3099is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-05-24</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 383.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

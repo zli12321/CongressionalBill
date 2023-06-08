@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3600</number>
+    <updateDate>2022-12-29T22:18:21Z</updateDate>
+    <updateDateIncludingText>2022-12-29T22:18:21Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-02-08</introducedDate>
+    <congress>117</congress>
+    <relatedBills>
+      <item>
+        <title>Federal Information Security Modernization Act of 2022</title>
+        <congress>117</congress>
+        <number>6497</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-02-02</actionDate>
+          <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Federal Secure Cloud Improvement and Jobs Act of 2021</title>
+        <congress>117</congress>
+        <number>3099</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2022-05-24</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 383.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>FedRAMP Authorization Act</title>
+        <congress>117</congress>
+        <number>8956</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-10-11</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-03-02</actionDate>
+        <actionTime>13:11:27</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-02</actionDate>
+        <actionTime>13:08:01</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-02</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-03-01</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with amendments by Unanimous Consent. (text: CR S897-919)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-03-01</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-01</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S896-919)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-02-09</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 265.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2022-02-08</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2022-02-08</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <firstName>Rob</firstName>
+        <lastName>Portman</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000805</bioguideId>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <firstName>Mark</firstName>
+        <lastName>Warner</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2022-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>Susan</firstName>
+        <lastName>Collins</lastName>
+        <party>R</party>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2022-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000383</bioguideId>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <firstName>Angus</firstName>
+        <lastName>King</lastName>
+        <party>I</party>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <sponsorshipDate>2022-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Burr</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <middleName>Mauze</middleName>
+        <sponsorshipDate>2022-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001070</bioguideId>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <firstName>Bob</firstName>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000145</bioguideId>
+        <fullName>Sen. Padilla, Alex [D-CA]</fullName>
+        <firstName>Alex</firstName>
+        <lastName>Padilla</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000145</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000584</bioguideId>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <firstName>James</firstName>
+        <lastName>Risch</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2022-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000174</bioguideId>
+        <fullName>Sen. Ossoff, Jon [D-GA]</fullName>
+        <firstName>Jon</firstName>
+        <lastName>Ossoff</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>O000174</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <firstName>John</firstName>
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H000273</bioguideId>
+        <fullName>Sen. Hickenlooper, John W. [D-CO]</fullName>
+        <firstName>John</firstName>
+        <lastName>Hickenlooper</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>H000273</bioguideId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <sponsorshipDate>2022-02-17</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001267</bioguideId>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Bennet</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Advisory bodies</name>
+        </item>
+        <item>
+          <name>Civil actions and liability</name>
+        </item>
+        <item>
+          <name>Computer security and identity theft</name>
+        </item>
+        <item>
+          <name>Computers and information technology</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Criminal investigation, prosecution, interrogation</name>
+        </item>
+        <item>
+          <name>Department of Homeland Security</name>
+        </item>
+        <item>
+          <name>Employment and training programs</name>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+        </item>
+        <item>
+          <name>Federal officials</name>
+        </item>
+        <item>
+          <name>Government employee pay, benefits, personnel management</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Infrastructure development</name>
+        </item>
+        <item>
+          <name>Performance measurement</name>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+        </item>
+        <item>
+          <name>Right of privacy</name>
+        </item>
+        <item>
+          <name>Science, Technology, Communications</name>
+        </item>
+        <item>
+          <name>Technology assessment</name>
+        </item>
+        <item>
+          <name>Telephone and wireless communication</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Government Operations and Politics</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-02-08</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-03-12T21:11:42Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Strengthening American Cybersecurity Act of 2022</strong></p> <p>This bill addresses cybersecurity threats against critical infrastructure and the federal government.</p> <p>The Cybersecurity and Infrastructure Security Agency (CISA) must perform ongoing and continuous assessments of federal risk posture.</p> <p> An agency, within a specified time frame, must (1) determine whether notice to any individual potentially affected by a breach is appropriate based on a risk assessment; and (2) as appropriate, provide written notice to each individual potentially affected.</p> <p> Each agency must (1) provide information relating to a major incident to specified parties, and (2) develop specified training for individuals with access to federal information or information systems.</p> <p>The bill requires reporting and other actions to address cybersecurity incidents.</p> <p> Entities that own or operate critical infrastructure must report cyber incidents and ransom payments within specified time frames.</p> <p> The bill limits the use and disclosure of reported information.</p> <p> The bill establishes (1) an interagency council to standardize federal reporting of cybersecurity threats, (2) a task force on ransomware attacks, and (3) a pilot program to identify information systems vulnerable to such attacks.</p> <p>The bill provides statutory authority for the Federal Risk and Authorization Management Program (FedRAMP) within the General Services Administration (GSA). </p> <p>FedRAMP is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud computing products and services.</p> <p> The bill establishes a FedRAMP Board to examine the operations of FedRAMP and the Federal Secure Cloud Advisory Committee.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>55</versionCode>
+        <actionDate>2022-03-01</actionDate>
+        <actionDesc>Passed Senate</actionDesc>
+        <updateDate>2022-03-14T15:29:16Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Strengthening American Cybersecurity Act of 2022</strong></p> <p>This bill addresses cybersecurity threats against critical infrastructure and the federal government.</p> <p>The Cybersecurity and Infrastructure Security Agency (CISA) must perform ongoing and continuous assessments of federal risk posture.</p> <p> An agency, within a specified time frame, must (1) determine whether notice to any individual potentially affected by a breach is appropriate based on a risk assessment; and (2) as appropriate, provide written notice to each individual potentially affected.</p> <p> Each agency must (1) provide information relating to a major incident to specified parties, and (2) develop specified training for individuals with access to federal information or information systems.</p> <p>The bill requires reporting and other actions to address cybersecurity incidents.</p> <p> Entities that own or operate critical infrastructure must report cyber incidents and ransom payments within specified time frames.</p> <p> The bill limits the use and disclosure of reported information.</p> <p> The bill establishes (1) an interagency council to standardize federal reporting of cybersecurity threats, (2) a task force on ransomware attacks, and (3) a pilot program to identify information systems vulnerable to such attacks.</p> <p>The bill provides statutory authority for the Federal Risk and Authorization Management Program (FedRAMP) within the General Services Administration (GSA). </p> <p>FedRAMP is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud computing products and services.</p> <p> The bill establishes a FedRAMP Board to examine the operations of FedRAMP and the Federal Secure Cloud Advisory Committee.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Strengthening American Cybersecurity Act of 2022</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Strengthening American Cybersecurity Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to improve the cybersecurity of the Federal Government, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>Strengthening American Cybersecurity Act of 2022</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate for portions of this bill</titleType>
+        <title>Federal Secure Cloud Improvement and Jobs Act of 2022</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate for portions of this bill</titleType>
+        <title>Cyber Incident Reporting for Critical Infrastructure Act of 2022</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed Senate for portions of this bill</titleType>
+        <title>Federal Information Security Modernization Act of 2022</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate for portions of this bill</titleType>
+        <title>Federal Secure Cloud Improvement and Jobs Act of 2022</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate</titleType>
+        <title>Strengthening American Cybersecurity Act of 2022</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate for portions of this bill</titleType>
+        <title>Cyber Incident Reporting for Critical Infrastructure Act of 2022</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate for portions of this bill</titleType>
+        <title>Federal Information Security Modernization Act of 2022</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <title>Federal Secure Cloud Improvement and Jobs Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <title>Cyber Incident Reporting for Critical Infrastructure Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <title>Federal Information Security Modernization Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Strengthening American Cybersecurity Act of 2022</title>
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>4954</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the bill.</purpose>
+        <updateDate>2022-03-02T16:46:16Z</updateDate>
+        <number>4954</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To improve the bill.</purpose>
+        <updateDate>2022-03-02T05:16:23Z</updateDate>
+        <latestAction>
+          <actionDate>2022-03-01</actionDate>
+          <text>Amendment SA 4954 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 4954</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4954</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>W000437</bioguideId>
+            <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+            <firstName>Roger</firstName>
+            <lastName>Wicker</lastName>
+            <party>R</party>
+            <state>MS</state>
+            <identifiers>
+              <bioguideId>W000437</bioguideId>
+            </identifiers>
+            <middleName>F.</middleName>
+          </item>
+        </sponsors>
+        <proposedDate>2022-03-01T05:00:00Z</proposedDate>
+        <submittedDate>2022-03-01T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>3600</number>
+          <title>Strengthening American Cybersecurity Act of 2022</title>
+          <updateDateIncludingText>2022-12-29T22:18:21Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4954 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4954 proposed by Senator Peters for Senator Wicker. (consideration: CR S897; text: CR S897) To improve the bill.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4954 proposed by Senator Peters for Senator Wicker.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 4954 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>4953</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To amend the Federal Cybersecurity Enhancement Act of 2015 to require Federal agencies to obtain exemptions from certain cybersecurity requirements in order to avoid compliance with those requirements.</purpose>
+        <updateDate>2022-03-02T16:46:16Z</updateDate>
+        <number>4953</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>To amend the Federal Cybersecurity Enhancement Act of 2015 to require Federal agencies to obtain exemptions from certain cybersecurity requirements in order to avoid compliance with those requirements.</purpose>
+        <updateDate>2022-03-02T05:16:23Z</updateDate>
+        <latestAction>
+          <actionDate>2022-03-01</actionDate>
+          <text>Amendment SA 4953 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 4953</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/4953</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>P000595</bioguideId>
+            <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+            <firstName>Gary</firstName>
+            <lastName>Peters</lastName>
+            <party>D</party>
+            <state>MI</state>
+            <identifiers>
+              <bioguideId>P000595</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>P000449</bioguideId>
+            <fullName>Sen. Portman, Rob [R-OH]</fullName>
+            <firstName>Rob</firstName>
+            <lastName>Portman</lastName>
+            <party>R</party>
+            <state>OH</state>
+            <identifiers>
+              <bioguideId>P000449</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-03-01</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2022-03-01T05:00:00Z</proposedDate>
+        <submittedDate>2022-03-01T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>3600</number>
+          <title>Strengthening American Cybersecurity Act of 2022</title>
+          <updateDateIncludingText>2022-12-29T22:18:21Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4953 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 4953 proposed by Senator Peters. (consideration: CR S897; text: CR S897) To amend the Federal Cybersecurity Enhancement Act of 2015 to require Federal agencies to obtain exemptions from certain cybersecurity requirements in order to avoid compliance with those requirements.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 4953 proposed by Senator Peters.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-03-01</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 4953 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2022-03-01T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3600es/xml/BILLS-117s3600es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Placed on Calendar Senate</type>
+        <date>2022-02-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3600pcs/xml/BILLS-117s3600pcs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-03-02</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>13:11:27</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

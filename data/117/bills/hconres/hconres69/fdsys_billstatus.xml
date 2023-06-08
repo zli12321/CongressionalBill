@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>69</number>
+    <updateDate>2022-12-30T04:04:45Z</updateDate>
+    <updateDateIncludingText>2022-12-30T04:04:45Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HCONRES</type>
+    <introducedDate>2022-02-07</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsha00</systemCode>
+        <name>Committee on House Administration</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-02-07T17:01:45Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 3076) to provide stability to and enhance the services of the United States Postal Service, and for other purposes; providing for consideration of the bill (H.R. 6617) making further continuing appropriations for the fiscal year ending September 30, 2022, and for other purposes; and for other purposes.</title>
+        <congress>117</congress>
+        <number>912</number>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2022-02-08</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>14:24:47</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-02-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-02-10</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S650)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-02-10</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S650)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-02-09</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-02-08</actionDate>
+        <actionTime>14:25:06</actionTime>
+        <text>Pursuant to the provisions of H. Res. 912, H. Con. Res. 69 is considered passed House. (text: CR H1032-1033)</text>
+        <type>Floor</type>
+        <actionCode>H1B000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-02-08</actionDate>
+        <actionTime>14:25:06</actionTime>
+        <text>Passed/agreed to in House: Pursuant to the provisions of H. Res. 912, H. Con. Res. 69 is considered passed House.(text: CR H1032-1033)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-02-07</actionDate>
+        <text>Referred to the House Committee on House Administration.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-02-07</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-02-07</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>L000397</bioguideId>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <firstName>ZOE</firstName>
+        <lastName>LOFGREN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <district>19</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Congressional operations and organization</name>
+        </item>
+        <item>
+          <name>Presidents and presidential powers, Vice Presidents</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Congress</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-02-07</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-04-14T17:55:23Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution provides for a joint session of Congress on March 1, 2022, to receive a message from the President.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>55</versionCode>
+        <actionDate>2022-02-10</actionDate>
+        <actionDesc>Passed Senate</actionDesc>
+        <updateDate>2022-04-14T22:59:29Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution provides for a joint session of Congress on March 1, 2022, to receive a message from the President.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Providing for a joint session of Congress to receive a message from the President.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Providing for a joint session of Congress to receive a message from the President.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Providing for a joint session of Congress to receive a message from the President.</title>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date/>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres69enr/xml/BILLS-117hconres69enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Received in Senate</type>
+        <date>2022-02-09T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres69rds/xml/BILLS-117hconres69rds.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2022-02-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres69eh/xml/BILLS-117hconres69eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-02-07T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres69ih/xml/BILLS-117hconres69ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-02-10</actionDate>
+      <text>Message on Senate action sent to the House.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

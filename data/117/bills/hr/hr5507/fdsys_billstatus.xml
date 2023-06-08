@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>5507</number>
+    <updateDate>2022-12-30T07:18:58Z</updateDate>
+    <updateDateIncludingText>2022-12-30T07:18:58Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-10-08</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hswm00</systemCode>
+        <name>Ways and Means Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hswm03</systemCode>
+            <name>Worker and Family Support Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-10-08T20:59:44Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-10-08T14:03:15Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Unemployment Insurance Improvement Act</title>
+        <congress>117</congress>
+        <number>2865</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-09-27</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-10-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>hswm03</systemCode>
+            <name>Worker and Family Support Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Worker and Family Support.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-10-08</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hswm00</systemCode>
+            <name>Ways and Means Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-10-08</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-10-08</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001292</bioguideId>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <firstName>Donald</firstName>
+        <lastName>Beyer</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>8</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>O000172</bioguideId>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <firstName>Alexandria</firstName>
+        <lastName>Ocasio-Cortez</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>O000172</bioguideId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2021-10-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001224</bioguideId>
+        <fullName>Rep. Bush, Cori [D-MO-1]</fullName>
+        <firstName>Cori</firstName>
+        <lastName>Bush</lastName>
+        <party>D</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>B001224</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-10-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001207</bioguideId>
+        <fullName>Rep. Sherrill, Mikie [D-NJ-11]</fullName>
+        <firstName>Mikie</firstName>
+        <lastName>Sherrill</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>S001207</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2021-10-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000585</bioguideId>
+        <fullName>Rep. Gomez, Jimmy [D-CA-34]</fullName>
+        <firstName>Jimmy</firstName>
+        <lastName>Gomez</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>G000585</bioguideId>
+        </identifiers>
+        <district>34</district>
+        <sponsorshipDate>2021-10-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000608</bioguideId>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>52</district>
+        <sponsorshipDate>2021-10-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Labor and Employment</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-10-08</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-10-28T15:53:38Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Unemployment Insurance Improvement Act</b></p> <p>This bill expands the list of requirements a state unemployment compensation system must follow to be compliant under federal law.</p> <p>Specifically, the bill requires the maximum benefit period available to an individual be at least 26 weeks. The base period used to determine unemployment eligibility must consist of at least four completed calendar quarters preceding the claim and must include the most recently completed calendar quarter. Further, compensation must not be denied to an otherwise eligible individual who earns at least $1,000 during the highest quarter and at least $1,500 during the entire base period. Finally, compensation must not be denied under an ability to work, active search for work, or refusal to accept work provision solely on the basis of the number of hours of work the individual is seeking, so long as the individual is seeking at least 20 hours of work or half the hours the individual typically worked. </p> <p>Employers that pay unemployment taxes to a noncompliant state system cannot claim amounts paid into the state system as a credit against federal unemployment tax due.</p> <p>The bill also requires states to meet specified online claim system accessibility requirements and to ensure that offline means of filing are available. A state that does not comply cannot receive federal funds for administration of its state unemployment system.</p> <p><br> </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Unemployment Insurance Improvement Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Unemployment Insurance Improvement Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Unemployment Insurance Improvement Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To improve the unemployment insurance program.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-10-08T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr5507ih/xml/BILLS-117hr5507ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-08</actionDate>
+      <text>Referred to the Subcommittee on Worker and Family Support.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

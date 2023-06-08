@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>4592</number>
+    <updateDate>2022-12-29T18:48:40Z</updateDate>
+    <updateDateIncludingText>2022-12-29T18:48:40Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-07-21</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2022-12-13T19:20:32Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2022-08-03T14:18:59Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2022-07-21T18:13:13Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Quantum Computing Cybersecurity Preparedness Act</title>
+        <congress>117</congress>
+        <number>7535</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-12-21</actionDate>
+          <text>Became Public Law No: 117-260.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-12-13</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 635.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2022-12-13</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 117-251.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-12-13</actionDate>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Peters with an amendment. With written report No. 117-251.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-08-03</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-07-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-07-21</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>H001076</bioguideId>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <firstName>Maggie</firstName>
+        <lastName>Hassan</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>P000449</bioguideId>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <firstName>Rob</firstName>
+        <lastName>Portman</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-07-21</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000608</bioguideId>
+        <fullName>Sen. Rosen, Jacky [D-NV]</fullName>
+        <firstName>Jacklyn</firstName>
+        <lastName>Rosen</lastName>
+        <party>D</party>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-09-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <fullName>Sen. Tillis, Thomas [R-NC]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Tillis</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+        </identifiers>
+        <middleName>Roland</middleName>
+        <sponsorshipDate>2022-09-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>Y000064</bioguideId>
+        <fullName>Sen. Young, Todd [R-IN]</fullName>
+        <firstName>Todd</firstName>
+        <lastName>Young</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2022-11-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001046</bioguideId>
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <firstName>Martin</firstName>
+        <lastName>Heinrich</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <sponsorshipDate>2022-11-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2022-08-16T19:33:00Z</pubDate>
+        <title>S. 4592, Quantum Computing Cybersecurity Preparedness Act</title>
+        <url>https://www.cbo.gov/publication/58382</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Government Operations and Politics</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-07-21</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-09-30T17:04:49Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Quantum Computing Cybersecurity Preparedness Act</strong></p> <p>This bill addresses the migration of executive agencies information technology systems to post-quantum cryptography. Post-quantum cryptography is encryption strong enough to resist attacks from quantum computers developed in the future.</p> <p>Not later than one year after the National Institutes of Standards and Technology has issued post-quantum cryptography standards, the Office of Management and Budget (OMB) shall begin to prioritize the migration of agency information technology systems to post-quantum cryptography.</p> <p>Not later than one year after the date of the enactment of this bill, the OMB shall submit to Congress a report on</p> <ul> <li>a strategy to address the risk posed by the vulnerabilities of agency information technology systems to the potential capability of a quantum computer;</li> <li>the funding necessary to secure such information technology systems from the threat posed by adversarial access to quantum computers; and </li> <li>a description of federal coordination efforts to develop standards for post-quantum cryptography, including any federal Information Processing Standards.</li></ul>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>25</versionCode>
+        <actionDate>2022-12-13</actionDate>
+        <actionDesc>Reported to Senate</actionDesc>
+        <updateDate>2022-12-22T20:37:30Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Quantum Computing Cybersecurity Preparedness Act</strong></p> <p>This bill addresses the migration of executive agencies information technology systems to post-quantum cryptography. Post-quantum cryptography is encryption strong enough to resist attacks from quantum computers developed in the future.</p> <p>Not later than one year after the National Institutes of Standards and Technology has issued post-quantum cryptography standards, the Office of Management and Budget (OMB) shall begin to prioritize the migration of agency information technology systems to post-quantum cryptography.</p> <p>Not later than one year after the date of the enactment of this bill, the OMB shall submit to Congress a report on</p> <ul> <li>a strategy to address the risk posed by the vulnerabilities of agency information technology systems to the potential capability of a quantum computer;</li> <li>the funding necessary to secure such information technology systems from the threat posed by adversarial access to quantum computers; and </li> <li>a description of federal coordination efforts to develop standards for post-quantum cryptography, including any federal Information Processing Standards.</li></ul>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Quantum Computing Cybersecurity Preparedness Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Quantum Computing Cybersecurity Preparedness Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <title>Quantum Computing Cybersecurity Preparedness Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Reported to Senate</billTextVersionName>
+        <billTextVersionCode>RS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Quantum Computing Cybersecurity Preparedness Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to encourage the migration of Federal Government information technology systems to quantum-resistant cryptography, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2022-12-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s4592rs/xml/BILLS-117s4592rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-07-21T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s4592is/xml/BILLS-117s4592is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-12-13</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 635.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

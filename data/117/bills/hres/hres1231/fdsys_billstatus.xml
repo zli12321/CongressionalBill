@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1231</number>
+    <updateDate>2022-12-29T18:33:49Z</updateDate>
+    <updateDateIncludingText>2022-12-29T18:33:49Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2022-07-18</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-07-18T16:00:10Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-07-18</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-07-18</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-07-18</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000797</bioguideId>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <firstName>Debbie</firstName>
+        <lastName>Wasserman Schultz</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+        </identifiers>
+        <district>23</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>D000610</bioguideId>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <firstName>Theodore</firstName>
+        <lastName>Deutch</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>22</district>
+        <sponsorshipDate>2022-07-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>D000600</bioguideId>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <firstName>Mario</firstName>
+        <lastName>Diaz-Balart</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>D000600</bioguideId>
+        </identifiers>
+        <district>25</district>
+        <sponsorshipDate>2022-07-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000297</bioguideId>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <firstName>Adriano</firstName>
+        <lastName>Espaillat</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>E000297</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2022-07-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000168</bioguideId>
+        <fullName>Rep. Salazar, Maria Elvira [R-FL-27]</fullName>
+        <firstName>Maria</firstName>
+        <lastName>Salazar</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>S000168</bioguideId>
+        </identifiers>
+        <middleName>Elvira</middleName>
+        <district>27</district>
+        <sponsorshipDate>2022-07-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001135</bioguideId>
+        <fullName>Rep. Manning, Kathy E. [D-NC-6]</fullName>
+        <firstName>Kathy</firstName>
+        <lastName>Manning</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>M001135</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>6</district>
+        <sponsorshipDate>2022-07-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001056</bioguideId>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <firstName>Jaime</firstName>
+        <lastName>Herrera Beutler</lastName>
+        <party>R</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>H001056</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2022-07-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000583</bioguideId>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Gottheimer</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>G000583</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2022-09-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-07-18</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-08-29T11:58:14Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution condemns the 1994 attack on the Argentine Jewish Mutual Association Jewish Community Center in Buenos Aires, Argentina, and expresses sympathy for the victims' relatives. It also expresses concern for the continuing 28-year-long delay in the proper resolution of the case and calls for accountability for the attack, including for the Iranian and Hezbollah operatives involved.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Condemning the attack on the Argentine Jewish Mutual Association Jewish Community Center in Buenos Aires, Argentina, in July 1994 and expressing the concern of the United States regarding the continuing, 28-year-long delay in the resolution of this case and encouraging accountability for the attack.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Condemning the attack on the Argentine Jewish Mutual Association Jewish Community Center in Buenos Aires, Argentina, in July 1994 and expressing the concern of the United States regarding the continuing, 28-year-long delay in the resolution of this case and encouraging accountability for the attack.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Condemning the attack on the Argentine Jewish Mutual Association Jewish Community Center in Buenos Aires, Argentina, in July 1994 and expressing the concern of the United States regarding the continuing, 28-year-long delay in the resolution of this case and encouraging accountability for the attack.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-07-18T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres1231ih/xml/BILLS-117hres1231ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-07-18</actionDate>
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

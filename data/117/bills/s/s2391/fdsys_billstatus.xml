@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2391</number>
+    <updateDate>2022-12-30T10:18:49Z</updateDate>
+    <updateDateIncludingText>2022-12-30T10:18:49Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-07-20</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssfr00</systemCode>
+        <name>Foreign Relations Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-20T16:22:56Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>To repeal the Authorization for Use of Military Force Against Iraq Resolution of 2002.</title>
+        <congress>117</congress>
+        <number>256</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-06-17</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>ARTICLE ONE Act</title>
+        <congress>117</congress>
+        <number>2996</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-05-05</actionDate>
+          <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>ARTICLE ONE Act</title>
+        <congress>117</congress>
+        <number>241</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-02-04</actionDate>
+          <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-07-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-07-20</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001169</bioguideId>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <firstName>Christopher</firstName>
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>L000577</bioguideId>
+        <fullName>Sen. Lee, Mike [R-UT]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Lee</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>L000577</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <firstName>Bernard</firstName>
+        <lastName>Sanders</lastName>
+        <party>I</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-07-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000133</bioguideId>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <firstName>Edward</firstName>
+        <lastName>Markey</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2021-12-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2022-01-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Alliances</name>
+        </item>
+        <item>
+          <name>Appropriations</name>
+        </item>
+        <item>
+          <name>Asia</name>
+        </item>
+        <item>
+          <name>Australia</name>
+        </item>
+        <item>
+          <name>Collective security</name>
+        </item>
+        <item>
+          <name>Conflicts and wars</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Emergency Management</name>
+        </item>
+        <item>
+          <name>Europe</name>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Iraq</name>
+        </item>
+        <item>
+          <name>Israel</name>
+        </item>
+        <item>
+          <name>Japan</name>
+        </item>
+        <item>
+          <name>Legislative rules and procedure</name>
+        </item>
+        <item>
+          <name>Middle East</name>
+        </item>
+        <item>
+          <name>Military assistance, sales, and agreements</name>
+        </item>
+        <item>
+          <name>Military education and training</name>
+        </item>
+        <item>
+          <name>Military operations and strategy</name>
+        </item>
+        <item>
+          <name>New Zealand</name>
+        </item>
+        <item>
+          <name>Oceania</name>
+        </item>
+        <item>
+          <name>Presidents and presidential powers, Vice Presidents</name>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+        </item>
+        <item>
+          <name>South Korea</name>
+        </item>
+        <item>
+          <name>Taiwan</name>
+        </item>
+        <item>
+          <name>Trade restrictions</name>
+        </item>
+        <item>
+          <name>War and emergency powers</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-20</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-11-22T13:24:51Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>National Security Powers Act of 2021</strong></p> <p>This bill limits presidential authorities related to, and increases congressional oversight of, introducing U.S. armed forces into hostilities, arms transactions, and national emergencies.</p> <p>The bill limits presidential authority to introduce U.S. forces into hostilities absent a declaration of war, specific statutory authorization, or when necessary to repel a sudden attack (or imminent threat of an attack). It also establishes procedures for the President to notify Congress of and obtain authorization for the introduction of U.S. forces into hostilities (or the risk of them). Additionally, the bill repeals laws authorizing the use of force abroad and the War Powers Resolution, which provides procedures for Congress and the President to participate in decisions to send U.S. forces into hostilities. For a treaty or other international obligation to authorize the introduction or retention of U.S. forces, Congress must specifically enact implementing legislation to that effect.</p> <p>The President must seek congressional approval before entering, renewing, or extending an arms sale or related transaction if the transaction exceeds specified dollar thresholds. This does not apply to transactions with NATO and its member countries, Australia, Japan, South Korea, Israel, New Zealand, or Taiwan.</p> <p>The bill restricts presidential authorities related to national emergencies, including by limiting the period of a declared emergency to 30 days unless Congress authorizes an extension. The bill also establishes procedures for approving or disapproving an extension, requires the President to provide more detailed reports to Congress about national emergencies, and sets out specific provisions for terminating an emergency.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>National Security Powers Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>National Security Powers Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>National Security Powers Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <title>Arms Export Reform Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to provide for clarification and limitations with respect to the exercise of national security powers, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-07-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2391is/xml/BILLS-117s2391is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-20</actionDate>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

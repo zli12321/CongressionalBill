@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>812</number>
+    <updateDate>2022-12-16T14:06:20Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:06:20Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-02-04</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 21 (Thursday, February 4, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. TONY GONZALES of Texas:H.R. 812.Congress has the power to enact this legislation pursuantto the following:Article 1, section 8[Page H387]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-04-23T18:36:31Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hsju08</systemCode>
+            <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-04-23T18:36:01Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-04T15:02:45Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hshm00</systemCode>
+        <name>Homeland Security Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hshm09</systemCode>
+            <name>Oversight, Management, and Accountability Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-05T20:20:13Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security, Facilitation, and Operations Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-05T20:20:07Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-04T15:02:40Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>BOSS Act</title>
+        <congress>117</congress>
+        <number>6673</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-02-10</actionDate>
+          <text>Referred to the Subcommittee on Border Security, Facilitation, and Operations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-04-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju01</systemCode>
+            <name>Immigration and Citizenship Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-04-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsju08</systemCode>
+            <name>Crime, Terrorism, and Homeland Security Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm09</systemCode>
+            <name>Oversight, Management, and Accountability Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Oversight, Management, and Accountability.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-05</actionDate>
+        <committees>
+          <item>
+            <systemCode>hshm11</systemCode>
+            <name>Border Security, Facilitation, and Operations Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border Security, Facilitation, and Operations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-04</actionDate>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-04</actionDate>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hshm00</systemCode>
+            <name>Homeland Security Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-04</actionDate>
+        <text>Sponsor introductory remarks on measure. (CR H334)</text>
+        <type>IntroReferral</type>
+        <actionCode>B00100</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-04</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-04</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000594</bioguideId>
+        <fullName>Rep. Gonzales, Tony [R-TX-23]</fullName>
+        <firstName>Tony</firstName>
+        <lastName>Gonzales</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>G000594</bioguideId>
+        </identifiers>
+        <district>23</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S000250</bioguideId>
+        <fullName>Rep. Sessions, Pete [R-TX-17]</fullName>
+        <firstName>PETE</firstName>
+        <lastName>SESSIONS</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-02-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000026</bioguideId>
+        <fullName>Rep. Nehls, Troy E. [R-TX-22]</fullName>
+        <firstName>Troy</firstName>
+        <lastName>Nehls</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>N000026</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>22</district>
+        <sponsorshipDate>2021-02-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000304</bioguideId>
+        <fullName>Rep. Jackson, Ronny [R-TX-13]</fullName>
+        <firstName>Ronny</firstName>
+        <lastName>Jackson</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000304</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-02-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000740</bioguideId>
+        <fullName>Rep. Bice, Stephanie I. [R-OK-5]</fullName>
+        <firstName>Stephanie</firstName>
+        <lastName>Bice</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>B000740</bioguideId>
+        </identifiers>
+        <middleName>I.</middleName>
+        <district>5</district>
+        <sponsorshipDate>2021-03-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001084</bioguideId>
+        <fullName>Rep. Herrell, Yvette [R-NM-2]</fullName>
+        <firstName>Yvette</firstName>
+        <lastName>Herrell</lastName>
+        <party>R</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>H001084</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-03-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000134</bioguideId>
+        <fullName>Rep. Van Duyne, Beth [R-TX-24]</fullName>
+        <firstName>Beth</firstName>
+        <lastName>Van Duyne</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>V000134</bioguideId>
+        </identifiers>
+        <district>24</district>
+        <sponsorshipDate>2021-03-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000871</bioguideId>
+        <fullName>Rep. Mann, Tracey [R-KS-1]</fullName>
+        <firstName>Tracey</firstName>
+        <lastName>Mann</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>M000871</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-03-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000377</bioguideId>
+        <fullName>Rep. Armstrong, Kelly [R-ND-At Large]</fullName>
+        <firstName>Kelly</firstName>
+        <lastName>Armstrong</lastName>
+        <party>R</party>
+        <state>ND</state>
+        <identifiers>
+          <bioguideId>A000377</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2021-04-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001299</bioguideId>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Banks</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001299</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-04-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001082</bioguideId>
+        <fullName>Rep. Hern, Kevin [R-OK-1]</fullName>
+        <firstName>Kevin</firstName>
+        <lastName>Hern</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>H001082</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-04-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001091</bioguideId>
+        <fullName>Rep. Hinson, Ashley [R-IA-1]</fullName>
+        <firstName>Ashley</firstName>
+        <lastName>Hinson</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>H001091</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-04-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000446</bioguideId>
+        <fullName>Rep. Feenstra, Randy [R-IA-4]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Feenstra</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>F000446</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-06-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001212</bioguideId>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <firstName>Pete</firstName>
+        <lastName>Stauber</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001212</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-06-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000071</bioguideId>
+        <fullName>Rep. Ellzey, Jake [R-TX-6]</fullName>
+        <firstName>Jake</firstName>
+        <lastName>Ellzey</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>E000071</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000473</bioguideId>
+        <fullName>Rep. Flores, Mayra [R-TX-34]</fullName>
+        <firstName>Mayra</firstName>
+        <lastName>Flores</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000473</bioguideId>
+        </identifiers>
+        <district>34</district>
+        <sponsorshipDate>2022-09-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Arizona</name>
+        </item>
+        <item>
+          <name>Border security and unlawful immigration</name>
+        </item>
+        <item>
+          <name>California</name>
+        </item>
+        <item>
+          <name>Computers and information technology</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Department of Homeland Security</name>
+        </item>
+        <item>
+          <name>Drug trafficking and controlled substances</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Employee hiring</name>
+        </item>
+        <item>
+          <name>Federal-Indian relations</name>
+        </item>
+        <item>
+          <name>Government employee pay, benefits, personnel management</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Government trust funds</name>
+        </item>
+        <item>
+          <name>Human trafficking</name>
+        </item>
+        <item>
+          <name>Intelligence activities, surveillance, classified information</name>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+        </item>
+        <item>
+          <name>Latin America</name>
+        </item>
+        <item>
+          <name>Mexico</name>
+        </item>
+        <item>
+          <name>New Mexico</name>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+        </item>
+        <item>
+          <name>Smuggling and trafficking</name>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+        </item>
+        <item>
+          <name>Technology assessment</name>
+        </item>
+        <item>
+          <name>Terrorism</name>
+        </item>
+        <item>
+          <name>Texas</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Immigration</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-04</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-05-21T00:06:09Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Security First Act</b></p> <p>This bill provides statutory authorization for the Operation Stonegarden program from FY2022 through FY2025 and contains other provisions related to border security. (Operation Stonegarden provides grants to enhance the border security capabilities of state, local, and tribal governments.)</p> <p>From FY2022 through FY2025, the money from unreported monetary instruments seized from individuals crossing the U.S.-Mexico border and transferred into the Department of the Treasury general fund shall be made available without further appropriation to the Department of Homeland Security (DHS) to fund Operation Stonegarden. </p> <p>DHS shall report to Congress on (1) DHS hiring practices from 2017 to 2020, and (2) whether certain Mexican drug cartels meet the criteria to be designated as foreign terrorist organizations. DHS shall also periodically report to Congress about the technology needed to secure the U.S.-Mexico land border.</p> <p><br> </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Security First Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Security First Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Security First Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To authorize certain appropriations for certain fiscal years for Operation Stonegarden, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-02-04T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr812ih/xml/BILLS-117hr812ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-04-23</actionDate>
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

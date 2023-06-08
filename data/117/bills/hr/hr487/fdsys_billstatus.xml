@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>487</number>
+    <updateDate>2022-12-16T14:07:55Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:07:55Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-01-25</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 14 (Monday, January 25, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Ms. SPANBERGER:H.R. 487.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H233]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition, Oversight, and Department Operations Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-24T20:03:45Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-01-25T18:33:25Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-02-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag03</systemCode>
+            <name>Nutrition, Oversight, and Department Operations Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Nutrition, Oversight, and Department Operations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-01-25</actionDate>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-01-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001209</bioguideId>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <firstName>Abigail</firstName>
+        <lastName>Spanberger</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>S001209</bioguideId>
+        </identifiers>
+        <middleName>Davis</middleName>
+        <district>7</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>U000031</bioguideId>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <firstName>FRED</firstName>
+        <lastName>UPTON</lastName>
+        <party>R</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>U000031</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-01-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000032</bioguideId>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <firstName>SHEILA</firstName>
+        <lastName>JACKSON LEE</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+        </identifiers>
+        <district>18</district>
+        <sponsorshipDate>2021-02-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001204</bioguideId>
+        <fullName>Del. San Nicolas, Michael F. Q. [D-GU-At Large]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>San Nicolas</lastName>
+        <party>D</party>
+        <state>GU</state>
+        <identifiers>
+          <bioguideId>S001204</bioguideId>
+        </identifiers>
+        <middleName>F. Q.</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-02-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Computers and information technology</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Employment and training programs</name>
+        </item>
+        <item>
+          <name>Food assistance and relief</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+        </item>
+        <item>
+          <name>Poverty and welfare assistance</name>
+        </item>
+        <item>
+          <name>State and local finance</name>
+        </item>
+        <item>
+          <name>State and local government operations</name>
+        </item>
+        <item>
+          <name>Transportation costs</name>
+        </item>
+        <item>
+          <name>Wages and earnings</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Agriculture and Food</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-01-25</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-12-10T18:23:57Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Revitalize and Expand SNAP Education and Training for America's Future Act or</b> <b>the </b><b>RESET for America's Future Act</b></p> <p>This bill increases federal reimbursement for certain state employment and training programs under the Supplemental Nutrition Assistance Program (SNAP, formerly known as the food stamp program).</p> <p>The Department of Agriculture (USDA) must issue certain guidelines that permit a state to submit for full and expedited federal reimbursement of any costs incurred through SNAP employment and training programs that meet certain criteria (e.g., programs with proven positive outcomes), with no match requirement.</p> <p>USDA must temporarily reimburse each state 100% of costs incurred in connection with transportation costs and other expenses related to participation in such programs through the end of the COVID-19 (i.e., coronavirus disease 2019) public health emergency or two years, whichever is later. It must also reimburse each state 100% of costs incurred to build, modernize, or improve state and local data systems related to SNAP employment and training programs.</p> <p>Further, USDA must commission a thorough national assessment of its SNAP employment and training programs to develop a strategy for continuous improvement to the programs.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>RESET for America’s Future Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>RESET for America’s Future Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>RESET for America’s Future Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Revitalize and Expand SNAP Education and Training for America’s Future Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Food and Nutrition Act of 2008 to expand the operation of the State employment and training programs under such Act, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-01-25T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr487ih/xml/BILLS-117hr487ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-24</actionDate>
+      <text>Referred to the Subcommittee on Nutrition, Oversight, and Department Operations.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

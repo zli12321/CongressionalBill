@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>4321</number>
+    <updateDate>2022-12-29T18:20:05Z</updateDate>
+    <updateDateIncludingText>2022-12-29T18:20:05Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-05-26</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sscm00</systemCode>
+        <name>Commerce, Science, and Transportation Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2022-12-15T18:31:59Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2022-06-22T15:52:53Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2022-05-26T17:54:03Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Save Our Seas 2.0 Amendments Act</title>
+        <congress>117</congress>
+        <number>9255</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-10-31</actionDate>
+          <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-12-23</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-12-23</actionDate>
+        <actionTime>09:58:36</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-12-23</actionDate>
+        <actionTime>09:39:01</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text: CR S10100-10102)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>The committee amendment withdrawn by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S10100-10102)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-12-15</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 663.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2022-12-15</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-12-15</actionDate>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Cantwell with an amendment. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-06-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-05-26</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-05-26</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001198</bioguideId>
+        <fullName>Sen. Sullivan, Dan [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <lastName>Sullivan</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <firstName>Sheldon</firstName>
+        <lastName>Whitehouse</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-05-26</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000595</bioguideId>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <firstName>Gary</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-06-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2022-11-16T20:26:00Z</pubDate>
+        <title>S. 4321, Save Our Seas 2.0 Amendments Act</title>
+        <url>https://www.cbo.gov/publication/58787</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Environmental Protection</name>
+      </policyArea>
+    </subjects>
+    <title>Save Our Seas 2.0 Amendments Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Save Our Seas 2.0 Amendments Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate</titleType>
+        <title>Save Our Seas 2.0 Amendments Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <title>Save Our Seas 2.0 Amendments Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Reported to Senate</billTextVersionName>
+        <billTextVersionCode>RS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Save Our Seas 2.0 Amendments Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Save Our Seas 2.0 Act to improve the administration of the Marine Debris Foundation, to amend the Marine Debris Act to improve the administration of the Marine Debris Program of the National Oceanic and Atmospheric Administration, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>6626</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of substitute.</purpose>
+        <updateDate>2022-12-29T14:46:15Z</updateDate>
+        <number>6626</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of substitute.</purpose>
+        <updateDate>2022-12-23T05:16:23Z</updateDate>
+        <latestAction>
+          <actionDate>2022-12-22</actionDate>
+          <text>Amendment SA 6626 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 6626</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/6626</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>S001198</bioguideId>
+            <fullName>Sen. Sullivan, Dan [R-AK]</fullName>
+            <firstName>Dan</firstName>
+            <lastName>Sullivan</lastName>
+            <party>R</party>
+            <state>AK</state>
+            <identifiers>
+              <bioguideId>S001198</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <proposedDate>2022-12-22T05:00:00Z</proposedDate>
+        <submittedDate>2022-12-22T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>4321</number>
+          <title>Save Our Seas 2.0 Amendments Act</title>
+          <updateDateIncludingText>2022-12-29T18:20:05Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6626 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 6626 proposed by Senator Schumer for Senator Sullivan. (consideration: CR S10100-10102; text: CR S10100-10102) In the nature of substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 6626 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-12-22</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 6626 proposed by Senator Schumer for Senator Sullivan.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2022-12-22T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s4321es/xml/BILLS-117s4321es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2022-12-15T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s4321rs/xml/BILLS-117s4321rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-05-26T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s4321is/xml/BILLS-117s4321is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-12-23</actionDate>
+      <text>Message on Senate action sent to the House.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>488</number>
+    <updateDate>2022-12-16T14:11:26Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:11:26Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-01-25</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 14 (Monday, January 25, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. STAUBER:H.R. 488.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18: ``To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H233]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsag00</systemCode>
+        <name>Agriculture Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Conservation and Forestry Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-24T20:04:03Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-01-25T18:33:35Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsii00</systemCode>
+        <name>Natural Resources Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii06</systemCode>
+            <name>Energy and Mineral Resources Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-18T22:57:48Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-01-25T18:33:30Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-02-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsag15</systemCode>
+            <name>Conservation and Forestry Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii06</systemCode>
+            <name>Energy and Mineral Resources Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-01-25</actionDate>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsag00</systemCode>
+            <name>Agriculture Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-01-25</actionDate>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-01-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-25</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001212</bioguideId>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <firstName>Pete</firstName>
+        <lastName>Stauber</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001212</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>E000294</bioguideId>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Emmer</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-01-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001088</bioguideId>
+        <fullName>Rep. Hagedorn, Jim [R-MN-1]</fullName>
+        <firstName>Jim</firstName>
+        <lastName>Hagedorn</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>H001088</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-01-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000470</bioguideId>
+        <fullName>Rep. Fischbach, Michelle [R-MN-7]</fullName>
+        <firstName>Michelle</firstName>
+        <lastName>Fischbach</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>F000470</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-01-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000189</bioguideId>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <firstName>Dan</firstName>
+        <lastName>Newhouse</lastName>
+        <party>R</party>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>N000189</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001192</bioguideId>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Stewart</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>S001192</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000578</bioguideId>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <firstName>Doug</firstName>
+        <lastName>LaMalfa</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000605</bioguideId>
+        <fullName>Rep. Perry, Scott [R-PA-10]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>Perry</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000165</bioguideId>
+        <fullName>Rep. Tiffany, Thomas P. [R-WI-7]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Tiffany</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>T000165</bioguideId>
+        </identifiers>
+        <middleName>P.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001180</bioguideId>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <firstName>David</firstName>
+        <lastName>McKinley</lastName>
+        <party>R</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <middleName>B.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-02-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000250</bioguideId>
+        <fullName>Rep. Sessions, Pete [R-TX-17]</fullName>
+        <firstName>PETE</firstName>
+        <lastName>SESSIONS</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2021-02-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000565</bioguideId>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <firstName>Paul</firstName>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-02-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001087</bioguideId>
+        <fullName>Rep. Crawford, Eric A. "Rick" [R-AR-1]</fullName>
+        <firstName>Eric</firstName>
+        <lastName>Crawford</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>C001087</bioguideId>
+        </identifiers>
+        <middleName>A. "Rick"</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-02-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001307</bioguideId>
+        <fullName>Rep. Baird, James R. [R-IN-4]</fullName>
+        <firstName>James</firstName>
+        <lastName>Baird</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001307</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>4</district>
+        <sponsorshipDate>2021-02-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001295</bioguideId>
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Bost</lastName>
+        <party>R</party>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>B001295</bioguideId>
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2021-02-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001109</bioguideId>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <firstName>Liz</firstName>
+        <lastName>Cheney</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>C001109</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2021-02-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000299</bioguideId>
+        <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Johnson</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>J000299</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-02-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>O000086</bioguideId>
+        <fullName>Rep. Owens, Burgess [R-UT-4]</fullName>
+        <firstName>Burgess</firstName>
+        <lastName>Owens</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>O000086</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-02-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000668</bioguideId>
+        <fullName>Rep. Bentz, Cliff [R-OR-2]</fullName>
+        <firstName>Cliff</firstName>
+        <lastName>Bentz</lastName>
+        <party>R</party>
+        <state>OR</state>
+        <identifiers>
+          <bioguideId>B000668</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-02-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000827</bioguideId>
+        <fullName>Rep. Wright, Ron [R-TX-6]</fullName>
+        <firstName>Ron</firstName>
+        <lastName>Wright</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000827</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-02-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000376</bioguideId>
+        <fullName>Rep. Kelly, Mike [R-PA-16]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Kelly</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <district>16</district>
+        <sponsorshipDate>2021-02-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001274</bioguideId>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <firstName>Mo</firstName>
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>B001274</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-02-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>F000469</bioguideId>
+        <fullName>Rep. Fulcher, Russ [R-ID-1]</fullName>
+        <firstName>Russ</firstName>
+        <lastName>Fulcher</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>F000469</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-02-05</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H001084</bioguideId>
+        <fullName>Rep. Herrell, Yvette [R-NM-2]</fullName>
+        <firstName>Yvette</firstName>
+        <lastName>Herrell</lastName>
+        <party>R</party>
+        <state>NM</state>
+        <identifiers>
+          <bioguideId>H001084</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-02-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001298</bioguideId>
+        <fullName>Rep. Bacon, Don [R-NE-2]</fullName>
+        <firstName>Don</firstName>
+        <lastName>Bacon</lastName>
+        <party>R</party>
+        <state>NE</state>
+        <identifiers>
+          <bioguideId>B001298</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-03-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001148</bioguideId>
+        <fullName>Rep. Simpson, Michael K. [R-ID-2]</fullName>
+        <firstName>MICHAEL</firstName>
+        <lastName>SIMPSON</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>S001148</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2022-03-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Congressional-executive branch relations</name>
+        </item>
+        <item>
+          <name>Forests, forestry, trees</name>
+        </item>
+        <item>
+          <name>Land use and conservation</name>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+        </item>
+        <item>
+          <name>Mining</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Public Lands and Natural Resources</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-01-25</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-02-21T01:39:49Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Saving America's Mines Act</b></p> <p>This bill bars the President, the Department of the Interior, or the Department of Agriculture from declaring a moratorium on or reversing any existing lease, permit, or claim, for the mining and extraction of any critical mineral or common varieties of sand, stone, and gravel on National Forest System or Bureau of Land Management land unless specifically authorized by statute or upon the lessee, permittee, or claimant's failure to comply with any of the provisions of its agreement.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Saving America’s Mines Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Saving America’s Mines Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Saving America’s Mines Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To prohibit a moratorium on mineral development on Bureau of Land Management and National Forest System land, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-01-25T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr488ih/xml/BILLS-117hr488ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-24</actionDate>
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

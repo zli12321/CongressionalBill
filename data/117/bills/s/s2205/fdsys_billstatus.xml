@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2205</number>
+    <updateDate>2022-12-30T13:03:08Z</updateDate>
+    <updateDateIncludingText>2022-12-30T13:03:08Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-06-24</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssev00</systemCode>
+        <name>Environment and Public Works Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2021-09-22T18:21:17Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2021-09-22T17:08:23Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-06-24T14:57:34Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-10-08</actionDate>
+        <actionTime>10:50:13</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-10-08</actionDate>
+        <actionTime>10:02:33</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-10-08</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2021-10-07</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (consideration: CR S6991-6992; text: CR S6992)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2021-10-07</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.(consideration: CR S6991-6992; text: CR S6992)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-09-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 132.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2021-09-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-09-22</actionDate>
+        <text>Committee on Environment and Public Works. Reported by Senator Carper without amendment. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-09-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Committee consideration held. Business Meeting printed. S. Hrg. 117-108.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-09-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-06-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssev00</systemCode>
+            <name>Environment and Public Works Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-06-24</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Burr</lastName>
+        <party>R</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <middleName>Mauze</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>Government buildings, facilities, and property</name>
+        </item>
+        <item>
+          <name>North Carolina</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Government Operations and Politics</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-06-24</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-09-02T20:36:09Z</updateDate>
+        <text>
+          <![CDATA[ <p>This bill designates the U.S. courthouse located at 201 South Evans Street in Greenville, North Carolina, as the Malcolm J. Howard United States Courthouse.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>25</versionCode>
+        <actionDate>2021-09-22</actionDate>
+        <actionDesc>Reported to Senate</actionDesc>
+        <updateDate>2021-10-14T19:49:48Z</updateDate>
+        <text>
+          <![CDATA[ <p>This bill designates the U.S. courthouse located at 201 South Evans Street in Greenville, North Carolina, as the Malcolm J. Howard United States Courthouse.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>55</versionCode>
+        <actionDate>2021-10-07</actionDate>
+        <actionDesc>Passed Senate</actionDesc>
+        <updateDate>2021-10-29T14:08:30Z</updateDate>
+        <text>
+          <![CDATA[ <p>This bill designates the U.S. courthouse located at 201 South Evans Street in Greenville, North Carolina, as the Malcolm J. Howard United States Courthouse.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>A bill to designate the United States courthouse located at 201 South Evans Street in Greenville, North Carolina, as the "Malcolm J. Howard United States Courthouse", and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A bill to designate the United States courthouse located at 201 South Evans Street in Greenville, North Carolina, as the "Malcolm J. Howard United States Courthouse", and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to designate the United States courthouse located at 201 South Evans Street in Greenville, North Carolina, as the "Malcolm J. Howard United States Courthouse", and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2021-10-07T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2205es/xml/BILLS-117s2205es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2021-09-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2205rs/xml/BILLS-117s2205rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-06-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2205is/xml/BILLS-117s2205is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-08</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>10:50:13</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

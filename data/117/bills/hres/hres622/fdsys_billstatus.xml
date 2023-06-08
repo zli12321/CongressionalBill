@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>622</number>
+    <updateDate>2022-12-30T11:33:15Z</updateDate>
+    <updateDateIncludingText>2022-12-30T11:33:15Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HRES</type>
+    <introducedDate>2021-09-03</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsfa05</systemCode>
+            <name>Asia, the Pacific, Central Asia, and Nonproliferation</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-10-12T13:58:38Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-09-03T16:02:50Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>A resolution commemorating the 70th anniversary of the signing of the Security Treaty among Australia, New Zealand, and the United States of America.</title>
+        <congress>117</congress>
+        <number>341</number>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2022-05-26</actionDate>
+          <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S2737; text: 08/07/2021 CR S6012-6013)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-10-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa05</systemCode>
+            <name>Asia, the Pacific, Central Asia, and Nonproliferation</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Asia, the Pacific, Central Asia and Nonproliferation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-09-03</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-09-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-09-03</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000579</bioguideId>
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Gallagher</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001069</bioguideId>
+        <fullName>Rep. Courtney, Joe [D-CT-2]</fullName>
+        <firstName>Joe</firstName>
+        <lastName>Courtney</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>C001069</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000815</bioguideId>
+        <fullName>Rep. Wenstrup, Brad R. [R-OH-2]</fullName>
+        <firstName>Brad</firstName>
+        <lastName>Wenstrup</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>W000815</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000613</bioguideId>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <firstName>Jimmy</firstName>
+        <lastName>Panetta</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000613</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipDate>2021-09-03</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000608</bioguideId>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <firstName>Scott</firstName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <middleName>H.</middleName>
+        <district>52</district>
+        <sponsorshipDate>2021-10-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Alliances</name>
+        </item>
+        <item>
+          <name>Australia</name>
+        </item>
+        <item>
+          <name>Collective security</name>
+        </item>
+        <item>
+          <name>Commemorative events and holidays</name>
+        </item>
+        <item>
+          <name>Competitiveness, trade promotion, trade deficits</name>
+        </item>
+        <item>
+          <name>Diplomacy, foreign officials, Americans abroad</name>
+        </item>
+        <item>
+          <name>International organizations and cooperation</name>
+        </item>
+        <item>
+          <name>Military assistance, sales, and agreements</name>
+        </item>
+        <item>
+          <name>New Zealand</name>
+        </item>
+        <item>
+          <name>Oceania</name>
+        </item>
+        <item>
+          <name>Scientific communication</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-09-03</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-02-14T17:09:33Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution commemorates the 70th anniversary of the security treaty between Australia, New Zealand, and the United States and reaffirms the U.S. commitments under the treaty. It also supports new opportunities to deepen and broaden security relations and economic ties between the three countries.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Commemorating the 70th anniversary of the signing of the Security Treaty among Australia, New Zealand, and the United States of America.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Commemorating the 70th anniversary of the signing of the Security Treaty among Australia, New Zealand, and the United States of America.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Commemorating the 70th anniversary of the signing of the Security Treaty among Australia, New Zealand, and the United States of America.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-09-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hres622ih/xml/BILLS-117hres622ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-12</actionDate>
+      <text>Referred to the Subcommittee on Asia, the Pacific, Central Asia and Nonproliferation.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

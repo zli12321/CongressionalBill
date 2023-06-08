@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>5991</number>
+    <updateDate>2022-12-30T08:18:24Z</updateDate>
+    <updateDateIncludingText>2022-12-30T08:18:24Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-11-17</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 200 (Wednesday, November 17, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. ARRINGTON:H.R. 5991.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 18[Page H6370]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif18</systemCode>
+            <name>Environment and Climate Change Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-11-18T15:12:12Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-11-17T15:04:00Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-11-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif18</systemCode>
+            <name>Environment and Climate Change Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Environment and Climate Change.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-11-17</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-11-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-11-17</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>A000375</bioguideId>
+        <fullName>Rep. Arrington, Jodey C. [R-TX-19]</fullName>
+        <firstName>Jodey</firstName>
+        <lastName>Arrington</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>A000375</bioguideId>
+        </identifiers>
+        <middleName>C.</middleName>
+        <district>19</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>E000071</bioguideId>
+        <fullName>Rep. Ellzey, Jake [R-TX-6]</fullName>
+        <firstName>Jake</firstName>
+        <lastName>Ellzey</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>E000071</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-11-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000816</bioguideId>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <firstName>Roger</firstName>
+        <lastName>Williams</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000816</bioguideId>
+        </identifiers>
+        <district>25</district>
+        <sponsorshipDate>2021-11-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000298</bioguideId>
+        <fullName>Rep. Estes, Ron [R-KS-4]</fullName>
+        <firstName>Ron</firstName>
+        <lastName>Estes</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>E000298</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-11-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>J000304</bioguideId>
+        <fullName>Rep. Jackson, Ronny [R-TX-13]</fullName>
+        <firstName>Ronny</firstName>
+        <lastName>Jackson</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>J000304</bioguideId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2021-11-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>Cole</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2021-11-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <sponsorshipDate>2021-11-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001109</bioguideId>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <firstName>Liz</firstName>
+        <lastName>Cheney</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>C001109</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2021-11-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001192</bioguideId>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <firstName>Chris</firstName>
+        <lastName>Stewart</lastName>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>S001192</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-11-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001291</bioguideId>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+        <lastName>Babin</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <district>36</district>
+        <sponsorshipDate>2021-11-17</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000266</bioguideId>
+        <fullName>Rep. LaTurner, Jake [R-KS-2]</fullName>
+        <firstName>Jake</firstName>
+        <lastName>LaTurner</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>L000266</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2021-11-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Air quality</name>
+        </item>
+        <item>
+          <name>Climate change and greenhouse gases</name>
+        </item>
+        <item>
+          <name>Environmental Protection Agency (EPA)</name>
+        </item>
+        <item>
+          <name>Environmental assessment, monitoring, research</name>
+        </item>
+        <item>
+          <name>Environmental regulatory procedures</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Oil and gas</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Environmental Protection</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-11-17</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-12-30T16:32:14Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Science-Based Emissions Standards Act of 2021</strong></p> <p>This bill prohibits the Environmental Protection Agency (EPA) from finalizing any rule to amend the new source performance standards for stationary sources under the Clean Air Act to reduce methane emissions from new and modified oil and natural gas facilities until the Department of Energy takes specified actions. Specifically, the Department of Energy must first (1) complete and publish the results of the study titled<em> Quantification of Methane Emissions from Marginal (Small Producing) Oil and Gas Wells,</em> and (2) provide a period of at least 90 days for public comment on the application of the study's results.</p> <p>The EPA must take the results of the study into consideration when finalizing the rule.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Science-Based Emissions Standards Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Science-Based Emissions Standards Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Science-Based Emissions Standards Act of 2021</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Administrator of the Environmental Protection Agency to ensure the completion of a marginal well study by the Secretary of Energy so as to inform the development of certain rules under the Clean Air Act, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-11-17T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr5991ih/xml/BILLS-117hr5991ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-11-18</actionDate>
+      <text>Referred to the Subcommittee on Environment and Climate Change.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

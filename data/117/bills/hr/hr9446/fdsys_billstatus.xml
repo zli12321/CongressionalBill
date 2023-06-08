@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>9446</number>
+    <updateDate>2022-12-20T17:45:20Z</updateDate>
+    <updateDateIncludingText>2022-12-20T17:45:20Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2022-12-06</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hssy00</systemCode>
+        <name>Science, Space, and Technology Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-12-06T14:01:20Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Housing, Opportunity, Mobility, and Equity Act of 2022</title>
+        <congress>117</congress>
+        <number>5223</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2022-12-08</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-12-06</actionDate>
+        <text>Referred to the House Committee on Science, Space, and Technology.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hssy00</systemCode>
+            <name>Science, Space, and Technology Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-12-06</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-12-06</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>T000469</bioguideId>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <firstName>Paul</firstName>
+        <lastName>Tonko</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>T000469</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B000740</bioguideId>
+        <fullName>Rep. Bice, Stephanie I. [R-OK-5]</fullName>
+        <firstName>Stephanie</firstName>
+        <lastName>Bice</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>B000740</bioguideId>
+        </identifiers>
+        <middleName>I.</middleName>
+        <district>5</district>
+        <sponsorshipDate>2022-12-06</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <title>To direct the Secretary of Energy to conduct a program of research, development, demonstration, and commercial application with respect to clean hydrogen and fuel cell energy, low-emission fuels, and coproducts, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Secretary of Energy to conduct a program of research, development, demonstration, and commercial application with respect to clean hydrogen and fuel cell energy, low-emission fuels, and coproducts, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To direct the Secretary of Energy to conduct a program of research, development, demonstration, and commercial application with respect to clean hydrogen and fuel cell energy, low-emission fuels, and coproducts, and for other purposes.</title>
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2022-12-06</actionDate>
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

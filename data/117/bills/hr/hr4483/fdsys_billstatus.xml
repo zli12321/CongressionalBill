@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>4483</number>
+    <updateDate>2022-12-30T13:47:55Z</updateDate>
+    <updateDateIncludingText>2022-12-30T13:47:55Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-07-16</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsif00</systemCode>
+        <name>Energy and Commerce Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsif17</systemCode>
+            <name>Consumer Protection and Commerce Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-07-19T18:10:36Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-16T13:05:30Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-07-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsif17</systemCode>
+            <name>Consumer Protection and Commerce Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Consumer Protection and Commerce.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-07-16</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsif00</systemCode>
+            <name>Energy and Commerce Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-07-16</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-07-16</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>R000602</bioguideId>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <firstName>Kathleen</firstName>
+        <lastName>Rice</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>4</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>U000031</bioguideId>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <firstName>FRED</firstName>
+        <lastName>UPTON</lastName>
+        <party>R</party>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>U000031</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-07-16</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Consumer affairs</name>
+        </item>
+        <item>
+          <name>Crime victims</name>
+        </item>
+        <item>
+          <name>Criminal investigation, prosecution, interrogation</name>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+        </item>
+        <item>
+          <name>Federal Trade Commission (FTC)</name>
+        </item>
+        <item>
+          <name>Fraud offenses and financial crimes</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Internet and video services</name>
+        </item>
+        <item>
+          <name>Internet, web applications, social media</name>
+        </item>
+        <item>
+          <name>Marketing and advertising</name>
+        </item>
+        <item>
+          <name>Military personnel and dependents</name>
+        </item>
+        <item>
+          <name>Postal service</name>
+        </item>
+        <item>
+          <name>Telephone and wireless communication</name>
+        </item>
+        <item>
+          <name>Television and film</name>
+        </item>
+        <item>
+          <name>Veterans' loans, housing, homeless programs</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Commerce</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-16</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-09-08T20:35:10Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Veterans and Servicemember Consumer Protection Act of 2021</strong></p> <p>This bill directs the Federal Trade Commission (FTC) to designate a coordinator within the Bureau of Consumer Protection to advise the FTC on preventing fraud targeting military veterans and service members and to assist the FTC in monitoring the market for mail, television, internet, telemarketing, and recorded message telephone call (robocall) fraud targeting those individuals.</p> <p>The coordinator must (1) disseminate to veterans, service members, and their families and caregivers information about the most common fraud schemes, including methods of reporting complaints to the FTC; (2) make complaints immediately available to relevant law enforcement authorities; (3) publish information regarding the FTC's enforcement actions; and (4) maintain a website as a resource for information on fraud targeting those individuals.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Veterans and Servicemember Consumer Protection Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Veterans and Servicemember Consumer Protection Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish a coordinator within the Federal Trade Commission to prevent fraud and scams targeting or adversely affecting military veterans and servicemembers, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Veterans and Servicemember Consumer Protection Act of 2021</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-07-16T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr4483ih/xml/BILLS-117hr4483ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-19</actionDate>
+      <text>Referred to the Subcommittee on Consumer Protection and Commerce.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

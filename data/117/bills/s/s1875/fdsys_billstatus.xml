@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1875</number>
+    <updateDate>2022-12-31T13:59:55Z</updateDate>
+    <updateDateIncludingText>2022-12-31T13:59:55Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-05-27</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssva00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged from</name>
+            <date>2022-04-07T20:57:50Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2021-07-28T15:30:20Z</date>
+          </item>
+          <item>
+            <name>Hearings by</name>
+            <date>2021-06-23T19:00:14Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-05-27T15:43:50Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-04-11</actionDate>
+        <actionTime>10:41:12</actionTime>
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-04-11</actionDate>
+        <actionTime>10:32:40</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-04-08</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-04-07</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S2079)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-04-07</actionDate>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.(text of amendment in the nature of a substitute: CR S2079)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-04-07</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S2079-2080)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-04-07</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2022-04-07</actionDate>
+        <text>Senate Committee on Veterans' Affairs discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-07-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-06-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-05-27</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-05-27</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike [R-SD]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Rounds</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2021-09-14T15:00:00Z</pubDate>
+        <title>S. 1875, Veterans’ Emergency Care Claims Parity Act</title>
+        <url>https://www.cbo.gov/publication/57463</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Disability and paralysis</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Health care costs and insurance</name>
+        </item>
+        <item>
+          <name>Veterans' medical care</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-05-27</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-07-21T12:56:52Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Veterans' Emergency Care Claims Parity Act</strong></p> <p>This bill modifies certain deadlines for the submittal of claims by a non-Department of Veterans Affairs (VA) individual or entity seeking reimbursement for the provision of emergency treatment to a veteran. Specifically, a non-VA individual or entity seeking such reimbursement must submit a claim not later than 180 days after the treatment was provided. (Under the VA's current policy, such claims for unauthorized emergency care must generally be submitted within 90 days for conditions that are not service-connected and within two years for conditions that are service-connected.)</p> <p>Veterans may not be held liable for payment if a claim was submitted by an individual or entity after the deadline due to an administrative error made by the individual or entity or by the VA.</p> <p>The VA must publish information regarding emergency care authorization for non-VA providers on a publicly available VA website.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>55</versionCode>
+        <actionDate>2022-04-07</actionDate>
+        <actionDesc>Passed Senate</actionDesc>
+        <updateDate>2022-08-18T16:04:44Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Veterans' Emergency Care Claims Parity Act</strong></p> <p>This bill modifies certain deadlines for the submittal of claims by a non-Department of Veterans Affairs (VA) individual or entity seeking reimbursement for the provision of emergency treatment to a veteran. Specifically, a non-VA individual or entity seeking such reimbursement must submit a claim not later than 180 days after the treatment was provided. (Under the VA's current policy, such claims for unauthorized emergency care must generally be submitted within 90 days for conditions that are not service-connected and within two years for conditions that are service-connected.)</p> <p>Veterans may not be held liable for payment if a claim was submitted by an individual or entity after the deadline due to an administrative error made by the individual or entity or by the VA.</p> <p>The VA must publish information regarding emergency care authorization for non-VA providers on a publicly available VA website.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Veterans' Emergency Care Claims Parity Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Veterans' Emergency Care Claims Parity Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to provide a deadline of 180 days for the filing of claims for payment for emergency treatment furnished to veterans, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed Senate</titleType>
+        <title>Veterans' Emergency Care Claims Parity Act</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Engrossed in Senate</billTextVersionName>
+        <billTextVersionCode>ES</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Veterans' Emergency Care Claims Parity Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>5026</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2022-04-08T14:16:37Z</updateDate>
+        <number>5026</number>
+        <congress>117</congress>
+        <type>SAMDT</type>
+        <purpose>In the nature of a substitute.</purpose>
+        <updateDate>2022-04-08T04:16:46Z</updateDate>
+        <latestAction>
+          <actionDate>2022-04-07</actionDate>
+          <text>Amendment SA 5026 agreed to in Senate by Unanimous Consent.</text>
+          <links>
+            <link>
+              <name>SA 5026</name>
+              <url>https://www.congress.gov/amendment/117th-congress/senate-amendment/5026</url>
+            </link>
+          </links>
+        </latestAction>
+        <sponsors>
+          <item>
+            <bioguideId>R000605</bioguideId>
+            <fullName>Sen. Rounds, Mike [R-SD]</fullName>
+            <firstName>Mike</firstName>
+            <lastName>Rounds</lastName>
+            <party>R</party>
+            <state>SD</state>
+            <identifiers>
+              <bioguideId>R000605</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <countIncludingWithdrawnCosponsors>1</countIncludingWithdrawnCosponsors>
+          <count>1</count>
+          <item>
+            <bioguideId>T000464</bioguideId>
+            <fullName>Sen. Tester, Jon [D-MT]</fullName>
+            <firstName>Jon</firstName>
+            <lastName>Tester</lastName>
+            <party>D</party>
+            <state>MT</state>
+            <identifiers>
+              <bioguideId>T000464</bioguideId>
+            </identifiers>
+            <sponsorshipDate>2022-04-07</sponsorshipDate>
+            <isOriginalCosponsor>True</isOriginalCosponsor>
+          </item>
+        </cosponsors>
+        <proposedDate>2022-04-07T04:00:00Z</proposedDate>
+        <submittedDate>2022-04-07T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>117</congress>
+          <type>S</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>1875</number>
+          <title>Veterans' Emergency Care Claims Parity Act</title>
+          <updateDateIncludingText>2022-12-31T13:59:55Z</updateDateIncludingText>
+        </amendedBill>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2022-04-07</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 5026 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-04-07</actionDate>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 5026 proposed by Senator Murphy for Senator Rounds. (consideration: CR S2079; text: CR S2079) In the nature of a substitute.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2022-04-07</actionDate>
+            </item>
+            <item>
+              <actionDate>2022-04-07</actionDate>
+              <text>Senate amendment proposed (on the floor): Amendment SA 5026 proposed by Senator Murphy for Senator Rounds.(consideration: CR S2079; text: CR S2079)</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-04-07</actionDate>
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+            <item>
+              <actionDate>2022-04-07</actionDate>
+              <text>Senate amendment agreed to: Amendment SA 5026 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2022-04-07T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1875es/xml/BILLS-117s1875es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-05-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s1875is/xml/BILLS-117s1875is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-04-11</actionDate>
+      <text>Held at the desk.</text>
+      <actionTime>10:41:12</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

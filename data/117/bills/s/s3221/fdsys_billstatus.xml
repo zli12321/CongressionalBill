@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3221</number>
+    <updateDate>2022-12-30T02:34:27Z</updateDate>
+    <updateDateIncludingText>2022-12-30T02:34:27Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-11-17</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssga00</systemCode>
+        <name>Homeland Security and Governmental Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-11-17T19:01:26Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-11-17</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssga00</systemCode>
+            <name>Homeland Security and Governmental Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-11-17</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001310</bioguideId>
+        <fullName>Sen. Braun, Mike [R-IN]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Braun</lastName>
+        <party>R</party>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>B001310</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Government Operations and Politics</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-11-17</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-04-20T21:27:34Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>IRS Improper Payments Act</strong></p> <p>This bill directs the Office of Management and Budget (OMB), the Department of the Treasury, the Department of Justice (DOJ), executive agencies, and inspectors general to take specified steps to reduce improper payments and eliminate waste in federal programs.</p> <p>Specifically, the OMB must (1) establish annual targets for reducing improper payments, (2) issue government-wide guidance on this bill's implementation, and (3) establish various working groups. The OMB must also develop policy recommendations, including potential legislative proposals, designed to reduce improper payments.</p> <p>The Department of the Treasury, in coordination with DOJ and the OMB, must (1) publish information about improper payments under programs identified as having the highest dollar value or majority of improper payments (i.e., high priority programs); and (2) establish a central internet-based method to collect from the public information relating to suspected incidents of waste, fraud, and abuse.</p> <p>Each agency that administers a high priority program shall designate a Senate-confirmed official to be accountable for meeting agency program reduction targets.</p> <p>The bill requires an agency that fails to meet high priority program reduction targets of the agency, or fails to implement the plans for not less than two consecutive years, to submit a report that describes the likely causes of the failure and proposes a remedial plan.</p> <p>The Chief Financial Officers Council must take specified actions.</p> <p>The Federal Acquisition Regulatory Council must recommend to the President actions designed to enhance contractor accountability for improper payments.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>IRS Improper Payments Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>IRS Improper Payments Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>IRS Improper Payments Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to reduce improper payments and eliminate waste in Federal programs, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-11-17T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3221is/xml/BILLS-117s3221is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-11-17</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

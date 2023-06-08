@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3714</number>
+    <updateDate>2022-12-29T21:33:29Z</updateDate>
+    <updateDateIncludingText>2022-12-29T21:33:29Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2022-02-28</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sseg00</systemCode>
+        <name>Energy and Natural Resources Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-03-01T02:02:29Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>American Energy Independence Act of 2022</title>
+        <congress>117</congress>
+        <number>6884</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2022-03-08</actionDate>
+          <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Keystone XL Pipeline Construction and Jobs Preservation Act</title>
+        <congress>117</congress>
+        <number>684</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-02-25</actionDate>
+          <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Keystone XL Pipeline Construction and Jobs Preservation Act</title>
+        <congress>117</congress>
+        <number>171</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-02-02</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2022-02-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-02-28</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>H001089</bioguideId>
+        <fullName>Sen. Hawley, Josh [R-MO]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Hawley</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>H001089</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>G000386</bioguideId>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>Charles</firstName>
+        <lastName>Grassley</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2022-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>H000601</bioguideId>
+        <fullName>Sen. Hagerty, Bill [R-TN]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Hagerty</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>H000601</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000278</bioguideId>
+        <fullName>Sen. Tuberville, Tommy [R-AL]</fullName>
+        <firstName>Tommy</firstName>
+        <lastName>Tuberville</lastName>
+        <party>R</party>
+        <state>AL</state>
+        <identifiers>
+          <bioguideId>T000278</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-02-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike [R-SD]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Rounds</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2022-03-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative law and regulatory procedures</name>
+        </item>
+        <item>
+          <name>Administrative remedies</name>
+        </item>
+        <item>
+          <name>Air quality</name>
+        </item>
+        <item>
+          <name>Alliances</name>
+        </item>
+        <item>
+          <name>Appropriations</name>
+        </item>
+        <item>
+          <name>Canada</name>
+        </item>
+        <item>
+          <name>Climate change and greenhouse gases</name>
+        </item>
+        <item>
+          <name>Commuting</name>
+        </item>
+        <item>
+          <name>Conflicts and wars</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Department of Energy</name>
+        </item>
+        <item>
+          <name>Department of Transportation</name>
+        </item>
+        <item>
+          <name>Department of the Interior</name>
+        </item>
+        <item>
+          <name>Electric power generation and transmission</name>
+        </item>
+        <item>
+          <name>Energy prices</name>
+        </item>
+        <item>
+          <name>Energy storage, supplies, demand</name>
+        </item>
+        <item>
+          <name>Environmental Protection Agency (EPA)</name>
+        </item>
+        <item>
+          <name>Environmental regulatory procedures</name>
+        </item>
+        <item>
+          <name>Europe</name>
+        </item>
+        <item>
+          <name>Federal Energy Regulatory Commission (FERC)</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>International law and treaties</name>
+        </item>
+        <item>
+          <name>Land use and conservation</name>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+        </item>
+        <item>
+          <name>Military operations and strategy</name>
+        </item>
+        <item>
+          <name>Montana</name>
+        </item>
+        <item>
+          <name>Motor fuels</name>
+        </item>
+        <item>
+          <name>Oil and gas</name>
+        </item>
+        <item>
+          <name>Pipelines</name>
+        </item>
+        <item>
+          <name>Presidents and presidential powers, Vice Presidents</name>
+        </item>
+        <item>
+          <name>Russia</name>
+        </item>
+        <item>
+          <name>Ukraine</name>
+        </item>
+        <item>
+          <name>Water quality</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Energy</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-02-28</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-07-12T13:55:01Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>American Energy Independence Act of 2022</b></p> <p>This bill addresses U.S. energy independence, the production and importation of oil and natural gas, and the rescission of specified environmental requirements. Specifically, the bill directs the President to develop a plan for the United States to achieve energy independence by 2024. The Department of Energy (DOE) must also develop a program and issue rules to ensure that the United States achieves such energy independence and becomes a net exporter of energy.</p> <p>The bill also addresses energy pipelines, including by approving the TransCanada Keystone Pipeline in Phillips County, Montana for the import of oil from Canada to the United States. It also provides for energy production, including by requiring regulations to be issued by</p> <ul> <li>DOE to reduce requirements on entities harvesting energy through hydraulic fracturing,</li> <li>the Department of Transportation to promote stable and affordable gasoline and diesel prices, and</li> <li>the Department of the Interior to promote the leasing of federal land for oil and natural gas production.</li> </ul> <p>In addition, the Environmental Protection Agency (EPA) must identify and repeal certain regulations that substantially reduce energy independence. Further, the bill prohibits the use of any funds to implement the Paris Agreement on climate change. Finally, the bill rescinds (1) Executive Order 14008 about tackling climate change, (2) the 2021 proposed rule issued by the EPA and the U.S. Army Corps of Engineers about the scope of the Clean Water Act, and (3) the 2021 proposed rule issued by the EPA about methane gas emissions.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>American Energy Independence Act of 2022</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>American Energy Independence Act of 2022</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>American Energy Independence Act of 2022</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to prioritize United States energy independence, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2022-02-28T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3714is/xml/BILLS-117s3714is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-02-28</actionDate>
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

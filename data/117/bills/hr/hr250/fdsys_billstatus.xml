@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>250</number>
+    <updateDate>2022-12-16T14:02:59Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:02:59Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-01-11</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 6 (Monday, January 11, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mrs. KIRKPATRICK:H.R. 250.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H123]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hsii00</systemCode>
+        <name>Natural Resources Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>National Parks, Forests, and Public Lands Subcommittee</name>
+            <activities>
+              <item>
+                <name>Hearings by</name>
+                <date>2021-10-14T21:47:53Z</date>
+              </item>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-18T15:34:53Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-01-11T16:05:05Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-10-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>National Parks, Forests, and Public Lands Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii10</systemCode>
+            <name>National Parks, Forests, and Public Lands Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on National Parks, Forests, and Public Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-01-11</actionDate>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-01-11</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-11</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000368</bioguideId>
+        <fullName>Rep. Kirkpatrick, Ann [D-AZ-2]</fullName>
+        <firstName>Ann</firstName>
+        <lastName>Kirkpatrick</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>K000368</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>O000171</bioguideId>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <firstName>Tom</firstName>
+        <lastName>O'Halleran</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>O000171</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2021-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raúl M. [D-AZ-3]</fullName>
+        <firstName>Raúl</firstName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <district>3</district>
+        <sponsorshipDate>2021-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001302</bioguideId>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <firstName>Andy</firstName>
+        <lastName>Biggs</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>B001302</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <sponsorshipDate>2021-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001183</bioguideId>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <firstName>David</firstName>
+        <lastName>Schweikert</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2021-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000574</bioguideId>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <firstName>Ruben</firstName>
+        <lastName>Gallego</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2021-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000589</bioguideId>
+        <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+        <firstName>Debbie</firstName>
+        <lastName>Lesko</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>L000589</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2021-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001211</bioguideId>
+        <fullName>Rep. Stanton, Greg [D-AZ-9]</fullName>
+        <firstName>Greg</firstName>
+        <lastName>Stanton</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <bioguideId>S001211</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2021-01-11</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Arizona</name>
+        </item>
+        <item>
+          <name>Congressional officers and employees</name>
+        </item>
+        <item>
+          <name>House of Representatives</name>
+        </item>
+        <item>
+          <name>Judges</name>
+        </item>
+        <item>
+          <name>Members of Congress</name>
+        </item>
+        <item>
+          <name>Monuments and memorials</name>
+        </item>
+        <item>
+          <name>Social work, volunteer service, charitable organizations</name>
+        </item>
+        <item>
+          <name>Violent crime</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Public Lands and Natural Resources</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-01-11</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-02-19T17:36:01Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>January 8th National Memorial Act</b></p> <p>This bill directs the Department of the Interior to establish the January 8th National Memorial in Tucson, Arizona, as an affiliated area of the National Park System in commemoration of the shooting of Congresswoman Gabrielle Giffords and 18 others in Tucson on January 8, 2011. </p> <p>The January 8th Memorial Foundation shall transfer to Pima County, Arizona, amounts equal to final funding pledges, in addition to the amounts that the foundation has raised and transferred to the county for the construction of the memorial.</p> <p>The memorial shall be constructed on property owned by Pima County. The bill makes the county responsible for the management of the construction contract for the memorial through the use of funds provided by the foundation. </p> <p>The foundation shall cease operations after (1) final funding pledge amounts have been paid to Pima County, and (2) construction of the memorial has been completed. </p> <p>Pima County shall (1) be the memorial's management entity, and (2) be responsible for the construction and operation of the memorial. </p> <p>Interior shall develop a general management plan for the memorial.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>January 8&lt;sup&gt;th&lt;/sup&gt; National Memorial Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>January 8&lt;sup&gt;th&lt;/sup&gt; National Memorial Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To authorize the Secretary of the Interior to establish the January 8&lt;sup&gt;th&lt;/sup&gt; National Memorial in Tucson, Arizona, as an affiliated area of the National Park System, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>January 8&lt;sup&gt;th&lt;/sup&gt; National Memorial Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-01-11T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr250ih/xml/BILLS-117hr250ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-10-14</actionDate>
+      <text>Subcommittee Hearings Held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

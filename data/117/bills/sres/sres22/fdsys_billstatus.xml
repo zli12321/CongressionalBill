@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>22</number>
+    <updateDate>2022-12-31T07:14:49Z</updateDate>
+    <updateDateIncludingText>2022-12-31T07:14:49Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>SRES</type>
+    <introducedDate>2021-01-28</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssfr00</systemCode>
+        <name>Foreign Relations Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2021-03-24T22:08:38Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2021-03-24T13:30:06Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-01-28T20:18:32Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-04-15</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1994; text: 01/28/2021 CR S203-204)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2021-04-15</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S1994; text: 01/28/2021 CR S203-204)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <text>Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-03-24</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-01-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-01-28</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <firstName>Robert</firstName>
+        <lastName>Menendez</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>R000584</bioguideId>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <firstName>James</firstName>
+        <lastName>Risch</lastName>
+        <party>R</party>
+        <state>ID</state>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C000141</bioguideId>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <firstName>Ben</firstName>
+        <lastName>Cardin</lastName>
+        <party>D</party>
+        <state>MD</state>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000384</bioguideId>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <firstName>Timothy</firstName>
+        <lastName>Kaine</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <firstName>Ted</firstName>
+        <lastName>Cruz</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-01-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Border security and unlawful immigration</name>
+        </item>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Competitiveness, trade promotion, trade deficits</name>
+        </item>
+        <item>
+          <name>Computer security and identity theft</name>
+        </item>
+        <item>
+          <name>Congressional tributes</name>
+        </item>
+        <item>
+          <name>Diplomacy, foreign officials, Americans abroad</name>
+        </item>
+        <item>
+          <name>Drug trafficking and controlled substances</name>
+        </item>
+        <item>
+          <name>Ecuador</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Foreign aid and international relief</name>
+        </item>
+        <item>
+          <name>Foreign language and bilingual programs</name>
+        </item>
+        <item>
+          <name>Fraud offenses and financial crimes</name>
+        </item>
+        <item>
+          <name>Government ethics and transparency, public corruption</name>
+        </item>
+        <item>
+          <name>Health programs administration and funding</name>
+        </item>
+        <item>
+          <name>Human rights</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Latin America</name>
+        </item>
+        <item>
+          <name>Law enforcement administration and funding</name>
+        </item>
+        <item>
+          <name>Marine and coastal resources, fisheries</name>
+        </item>
+        <item>
+          <name>Military assistance, sales, and agreements</name>
+        </item>
+        <item>
+          <name>News media and reporting</name>
+        </item>
+        <item>
+          <name>Peace Corps</name>
+        </item>
+        <item>
+          <name>Refugees, asylum, displaced persons</name>
+        </item>
+        <item>
+          <name>Rule of law and government transparency</name>
+        </item>
+        <item>
+          <name>Sovereignty, recognition, national governance and status</name>
+        </item>
+        <item>
+          <name>Teaching, teachers, curricula</name>
+        </item>
+        <item>
+          <name>U.S. Agency for International Development (USAID)</name>
+        </item>
+        <item>
+          <name>World health</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-01-28</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-02-03T19:34:05Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution reaffirms the Senate's commitment to the historic partnership between the United States and Ecuador, and it supports actions to strengthen this bilateral relationship. Further, it recognizes President Moreno and his administration for committing to democratic values and commends President Moreno for taking steps to protect freedom of expression and freedom of the press in Ecuador.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>25</versionCode>
+        <actionDate>2021-03-24</actionDate>
+        <actionDesc>Reported to Senate</actionDesc>
+        <updateDate>2021-04-05T18:52:48Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution reaffirms the Senate's commitment to the historic partnership between the United States and Ecuador, and it supports actions to strengthen this bilateral relationship. Further, it recognizes President Moreno and his administration for committing to democratic values and commends President Moreno for taking steps to protect freedom of expression and freedom of the press in Ecuador.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>55</versionCode>
+        <actionDate>2021-04-15</actionDate>
+        <actionDesc>Passed Senate</actionDesc>
+        <updateDate>2021-05-03T13:59:07Z</updateDate>
+        <text>
+          <![CDATA[ <p>This resolution reaffirms the Senate's commitment to the historic partnership between the United States and Ecuador, and it supports actions to strengthen this bilateral relationship. Further, it recognizes President Moreno and his administration for committing to democratic values and commends President Moreno for taking steps to protect freedom of expression and freedom of the press in Ecuador.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>A resolution reaffirming the partnership between the United States and the Republic of Ecuador and recognizing the restoration and advancement of economic relations, security, and development opportunities in both nations.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A resolution reaffirming the partnership between the United States and the Republic of Ecuador and recognizing the restoration and advancement of economic relations, security, and development opportunities in both nations.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution reaffirming the partnership between the United States and the Republic of Ecuador and recognizing the restoration and advancement of economic relations, security, and development opportunities in both nations.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2021-04-15T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sres22ats/xml/BILLS-117sres22ats.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2021-03-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sres22rs/xml/BILLS-117sres22rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-01-28T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sres22is/xml/BILLS-117sres22is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-04-15</actionDate>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1994; text: 01/28/2021 CR S203-204)</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

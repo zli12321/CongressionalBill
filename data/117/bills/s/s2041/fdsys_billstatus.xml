@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2041</number>
+    <updateDate>2022-12-30T13:03:13Z</updateDate>
+    <updateDateIncludingText>2022-12-30T13:03:13Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-06-14</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssva00</systemCode>
+        <name>Veterans' Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Markup by</name>
+            <date>2021-07-28T15:30:24Z</date>
+          </item>
+          <item>
+            <name>Hearings by</name>
+            <date>2021-06-23T19:00:18Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-06-14T21:13:41Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Improving Confidence in Veterans’ Care Act</title>
+        <congress>117</congress>
+        <number>217</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-02-17</actionDate>
+          <text>Referred to the Subcommittee on Health.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Department of Veteran Affairs Provider Accountability Act</title>
+        <congress>117</congress>
+        <number>1307</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-04-22</actionDate>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-07-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-06-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-06-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssva00</systemCode>
+            <name>Veterans' Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-06-14</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <firstName>Joseph</firstName>
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>M000934</bioguideId>
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <firstName>Jerry</firstName>
+        <lastName>Moran</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-06-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <firstName>John</firstName>
+        <lastName>Boozman</lastName>
+        <party>R</party>
+        <state>AR</state>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-06-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <firstName>Susan</firstName>
+        <lastName>Collins</lastName>
+        <party>R</party>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2021-06-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001075</bioguideId>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <firstName>Bill</firstName>
+        <lastName>Cassidy</lastName>
+        <party>R</party>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-06-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2021-09-09T15:05:00Z</pubDate>
+        <title>S. 2041, Department of Veterans Affairs Provider Accountability Act</title>
+        <url>https://www.cbo.gov/publication/57456</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Accounting and auditing</name>
+        </item>
+        <item>
+          <name>Administrative remedies</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Department of Veterans Affairs</name>
+        </item>
+        <item>
+          <name>Drug trafficking and controlled substances</name>
+        </item>
+        <item>
+          <name>Drug, alcohol, tobacco use</name>
+        </item>
+        <item>
+          <name>Employee hiring</name>
+        </item>
+        <item>
+          <name>Employee performance</name>
+        </item>
+        <item>
+          <name>Employment and training programs</name>
+        </item>
+        <item>
+          <name>Government employee pay, benefits, personnel management</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Health care quality</name>
+        </item>
+        <item>
+          <name>Health facilities and institutions</name>
+        </item>
+        <item>
+          <name>Health personnel</name>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+        </item>
+        <item>
+          <name>Medical ethics</name>
+        </item>
+        <item>
+          <name>Personnel records</name>
+        </item>
+        <item>
+          <name>Prescription drugs</name>
+        </item>
+        <item>
+          <name>Public contracts and procurement</name>
+        </item>
+        <item>
+          <name>Veterans' medical care</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Armed Forces and National Security</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-06-14</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-01-26T16:08:20Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Department of Veterans Affairs Provider Accountability Act</strong></p> <p>This bill prescribes oversight requirements for the Department of Veterans Affairs (VA) regarding health care professionals at VA medical centers.</p> <p>Specifically, the bill requires the VA to ensure each VA medical center consistently compiles, verifies, and reviews specified documentation for each VA health care professional (including contractors).</p> <p>The VA shall ensure that specified health care professionals hold an active Drug Enforcement Administration registration. </p> <p>Each VA medical center must implement (1) monitoring of the performance and quality of the health care delivered by each health care professional at the center, and (2) reviews of such care if an individual notifies the VA of any potential concerns relating to a failure to meet generally accepted standards of clinical practice.</p> <p>The bill imposes notification requirements in situations where the VA substantiates a concern relating to the clinical competency of, or quality of care delivered by, a current or former VA health care professional. </p> <p>The VA is prohibited from entering into a settlement agreement relating to an adverse action against a VA health care professional if such agreement includes terms that require the VA to conceal certain information from the employee's personnel file. Such prohibition does not apply to adverse actions determined to be prohibited personnel practices.</p> <p>The VA must provide mandatory training, at least annually, to employees who are responsible for specified tasks (e.g., those who are responsible for compiling, validating, or reviewing the credentials of VA health care professionals).</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Department of Veterans Affairs Provider Accountability Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Department of Veterans Affairs Provider Accountability Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Department of Veterans Affairs Provider Accountability Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to enforce the licensure requirement for medical providers of the Department of Veterans Affairs.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-06-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2041is/xml/BILLS-117s2041is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-28</actionDate>
+      <text>Committee on Veterans' Affairs. Ordered to be reported without amendment favorably.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

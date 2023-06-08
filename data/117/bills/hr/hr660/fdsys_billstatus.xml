@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>660</number>
+    <updateDate>2022-12-16T14:08:32Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:08:32Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-02-01</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsii00</systemCode>
+        <name>Natural Resources Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Oceans, and Wildlife Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-23T22:53:50Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Hearings by</name>
+            <date>2021-06-22T14:49:59Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-01T20:00:35Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw02</systemCode>
+            <name>Water Resources and Environment Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-04T18:16:03Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-01T20:00:40Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-06-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-23</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Oceans, and Wildlife Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-04</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw02</systemCode>
+            <name>Water Resources and Environment Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-01</actionDate>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-01</actionDate>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-01</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-01</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000610</bioguideId>
+        <fullName>Del. Plaskett, Stacey E. [D-VI-At Large]</fullName>
+        <firstName>Stacey</firstName>
+        <lastName>Plaskett</lastName>
+        <party>D</party>
+        <state>VI</state>
+        <identifiers>
+          <bioguideId>P000610</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>Y000033</bioguideId>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <firstName>DON</firstName>
+        <lastName>YOUNG</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <bioguideId>Y000033</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <district>0</district>
+        <sponsorshipDate>2021-02-01</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000582</bioguideId>
+        <fullName>Resident Commissioner González-Colón, Jenniffer [R-PR-At Large]</fullName>
+        <firstName>Jenniffer</firstName>
+        <lastName>Gonzalez-Colon</lastName>
+        <party>R</party>
+        <state>PR</state>
+        <identifiers>
+          <bioguideId>G000582</bioguideId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2021-06-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>P000619</bioguideId>
+        <fullName>Rep. Peltola, Mary Sattler [D-AK-At Large]</fullName>
+        <firstName>Mary</firstName>
+        <lastName>Peltola</lastName>
+        <party>D</party>
+        <state>AK</state>
+        <identifiers>
+          <bioguideId>P000619</bioguideId>
+        </identifiers>
+        <middleName>Sattler</middleName>
+        <district>0</district>
+        <sponsorshipDate>2022-10-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Air quality</name>
+        </item>
+        <item>
+          <name>Aquatic ecology</name>
+        </item>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Climate change and greenhouse gases</name>
+        </item>
+        <item>
+          <name>Economic performance and conditions</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Employee hiring</name>
+        </item>
+        <item>
+          <name>Endangered and threatened species</name>
+        </item>
+        <item>
+          <name>Environmental assessment, monitoring, research</name>
+        </item>
+        <item>
+          <name>Fishes</name>
+        </item>
+        <item>
+          <name>Floods and storm protection</name>
+        </item>
+        <item>
+          <name>Great Lakes</name>
+        </item>
+        <item>
+          <name>Higher education</name>
+        </item>
+        <item>
+          <name>Indian lands and resources rights</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Licensing and registrations</name>
+        </item>
+        <item>
+          <name>Marine and coastal resources, fisheries</name>
+        </item>
+        <item>
+          <name>Marine and inland water transportation</name>
+        </item>
+        <item>
+          <name>Marine pollution</name>
+        </item>
+        <item>
+          <name>Poverty and welfare assistance</name>
+        </item>
+        <item>
+          <name>Racial and ethnic relations</name>
+        </item>
+        <item>
+          <name>Rural conditions and development</name>
+        </item>
+        <item>
+          <name>Social work, volunteer service, charitable organizations</name>
+        </item>
+        <item>
+          <name>Solid waste and recycling</name>
+        </item>
+        <item>
+          <name>Unemployment</name>
+        </item>
+        <item>
+          <name>Wildlife conservation and habitat protection</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Public Lands and Natural Resources</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-01</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-03-15T16:13:34Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Shovel-Ready Restoration Grants for Coastlines and Fisheries Act of 2021</b></p> <p>This bill requires the National Oceanic and Atmospheric Administration (NOAA) to establish a grant program for states, tribal and local governments, and other entities to implement projects that restore a marine, estuarine, coastal, or Great Lakes habitat, or that provide adaptation to climate change.</p> <p>NOAA must prioritize projects that (1) stimulate the economy; (2) begin within 90 days after an entity is awarded a grant; (3) employ fishermen who have been negatively impacted by the COVID-19 (i.e., coronavirus disease 2019) pandemic or pay fishermen for the use of a fishing vessel; (4) demonstrate any required studies or permits have been completed or can be completed shortly after an award is made; or (5) include communities that may not have adequate resources, including communities of color, and low-income, tribal, indigenous, and rural communities.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Shovel-Ready Restoration Grants for Coastlines and Fisheries Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Shovel-Ready Restoration Grants for Coastlines and Fisheries Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Shovel-Ready Restoration Grants for Coastlines and Fisheries Act of 2021</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require the Secretary of Commerce to establish a grant program to benefit coastal habitats, resiliency, and the economy, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-02-01T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr660ih/xml/BILLS-117hr660ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-06-22</actionDate>
+      <text>Committee Hearings Held.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

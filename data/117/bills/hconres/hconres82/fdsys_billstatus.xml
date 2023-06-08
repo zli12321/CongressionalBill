@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>82</number>
+    <updateDate>2022-12-29T21:33:28Z</updateDate>
+    <updateDateIncludingText>2022-12-29T21:33:28Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HCONRES</type>
+    <introducedDate>2022-03-31</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>ssra00</systemCode>
+        <name>Rules and Administration Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged from</name>
+            <date>2022-12-21T23:40:02Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2022-09-22T15:28:58Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsha00</systemCode>
+        <name>Committee on House Administration</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Discharged from</name>
+            <date>2022-09-21T18:47:36Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2022-03-31T14:04:15Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-12-22</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-12-21</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S9755)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2022-12-21</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-12-21</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssra00</systemCode>
+            <name>Rules and Administration Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2022-12-21</actionDate>
+        <text>Senate Committee on Rules and Administration discharged by Unanimous Consent.</text>
+        <type>Committee</type>
+        <actionCode>14500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>ssra00</systemCode>
+            <name>Rules and Administration Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-09-22</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssra00</systemCode>
+            <name>Rules and Administration Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and referred to the Committee on Rules and Administration.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2022-09-21</actionDate>
+        <actionTime>14:48:15</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-09-21</actionDate>
+        <actionTime>14:48:08</actionTime>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H8032)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-09-21</actionDate>
+        <actionTime>14:48:08</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-09-21</actionDate>
+        <actionTime>14:47:52</actionTime>
+        <text>Considered by unanimous consent. (consideration: CR H8032)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-09-21</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-09-21</actionDate>
+        <text>Committee on House Administration discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-09-21</actionDate>
+        <actionTime>14:47:34</actionTime>
+        <text>Ms. Lofgren asked unanimous consent to discharge from committee and consider.</text>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-31</actionDate>
+        <text>Referred to the House Committee on House Administration.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-03-31</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-03-31</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>L000397</bioguideId>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <firstName>ZOE</firstName>
+        <lastName>LOFGREN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <district>19</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>J000294</bioguideId>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <firstName>Hakeem</firstName>
+        <lastName>Jeffries</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>J000294</bioguideId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <district>8</district>
+        <sponsorshipDate>2022-03-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001251</bioguideId>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <firstName>G. K.</firstName>
+        <lastName>Butterfield</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>B001251</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2022-03-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Congress</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2022-03-31</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2022-10-28T18:54:21Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution requires the printing of a revised and updated version of House Document 101-117, titled<i> Black Americans in Congress, 1870-1989</i>.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>53</versionCode>
+        <actionDate>2022-09-21</actionDate>
+        <actionDesc>Passed House</actionDesc>
+        <updateDate>2022-12-02T17:55:11Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution requires the printing of a revised and updated version of House Document 101-117, titled<i> Black Americans in Congress, 1870-1989</i>.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Authorizing the printing of a revised and updated version of the House document entitled "Black Americans in Congress, 1870-1989".</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Authorizing the printing of a revised and updated version of the House document entitled "Black Americans in Congress, 1870-1989".</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>Authorizing the printing of a revised and updated version of the House document entitled "Black Americans in Congress, 1870-1989".</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date/>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres82enr/xml/BILLS-117hconres82enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2022-09-22T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres82rfs/xml/BILLS-117hconres82rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2022-09-21T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres82eh/xml/BILLS-117hconres82eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2022-03-31T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hconres82ih/xml/BILLS-117hconres82ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-12-22</actionDate>
+      <text>Message on Senate action sent to the House.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1142</number>
+    <updateDate>2022-12-16T14:05:36Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:05:36Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-02-18</introducedDate>
+    <congress>117</congress>
+    <constitutionalAuthorityStatementText>
+      <![CDATA[<pre>[Congressional Record Volume 167, Number 31 (Thursday, February 18, 2021)][House]From the Congressional Record Online through the Government Publishing Office [<a href="https://www.gpo.gov">www.gpo.gov</a>]By Mr. KEATING:H.R. 1142.Congress has the power to enact this legislation pursuantto the following:Under Article I, Section 8 of the Constitution, Congresshas the power ``to make all Laws which shall be necessary andproper for carrying into Execution the foregoing Powers, andall other Powers vested by this Constitution in theGovernment of the United States, or any Department or Officerthereof''.[Page H537]</pre>]]>
+    </constitutionalAuthorityStatementText>
+    <committees>
+      <item>
+        <systemCode>hspw00</systemCode>
+        <name>Transportation and Infrastructure Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <subcommittees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-19T16:35:57Z</date>
+              </item>
+            </activities>
+          </item>
+          <item>
+            <systemCode>hspw12</systemCode>
+            <name>Highways and Transit Subcommittee</name>
+            <activities>
+              <item>
+                <name>Referred to</name>
+                <date>2021-02-19T16:35:43Z</date>
+              </item>
+            </activities>
+          </item>
+        </subcommittees>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-18T17:45:50Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>ESCAPE Act</title>
+        <congress>117</congress>
+        <number>430</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-02-24</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-02-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw13</systemCode>
+            <name>Economic Development, Public Buildings, and Emergency Management Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hspw12</systemCode>
+            <name>Highways and Transit Subcommittee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Highways and Transit.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-18</actionDate>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hspw00</systemCode>
+            <name>Transportation and Infrastructure Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-18</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-18</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000375</bioguideId>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <firstName>William</firstName>
+        <lastName>Keating</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>K000375</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <district>9</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>G000559</bioguideId>
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <firstName>John</firstName>
+        <lastName>Garamendi</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2021-02-18</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Aviation and airports</name>
+        </item>
+        <item>
+          <name>Emergency planning and evacuation</name>
+        </item>
+        <item>
+          <name>First responders and emergency personnel</name>
+        </item>
+        <item>
+          <name>Floods and storm protection</name>
+        </item>
+        <item>
+          <name>Infrastructure development</name>
+        </item>
+        <item>
+          <name>Natural disasters</name>
+        </item>
+        <item>
+          <name>Navigation, waterways, harbors</name>
+        </item>
+        <item>
+          <name>Public transit</name>
+        </item>
+        <item>
+          <name>Railroads</name>
+        </item>
+        <item>
+          <name>Roads and highways</name>
+        </item>
+        <item>
+          <name>Transportation programs funding</name>
+        </item>
+        <item>
+          <name>Transportation safety and security</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Transportation and Public Works</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-18</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-04-19T16:50:52Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Enhancing the Strength and Capacity of America's Primary Evacuation routes Act or the ESCAPE Act</strong></p> <p>This bill directs the Department of Transportation (DOT) to provide assistance for projects that strengthen and protect mass evacuation routes.</p> <p>Specifically, DOT must (1) establish criteria for states, tribal and local governments, and other entities to identify mass evacuation routes; (2) establish a competitive grant program to provide grants for resilience projects that strengthen and protect evacuation routes that are essential for providing and supporting mass evacuations caused by emergency events; and (3) provide grants to resilience projects that ensure the ability of the evacuation route to provide safe passage during a mass evacuation and reduce the risk of damage to evacuation routes as a result of future emergency events. </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>ESCAPE Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>ESCAPE Act</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Secretary of Transportation to establish a grant program for projects to strengthen and protect vulnerable infrastructure used during mass evacuations, and for other purposes.</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>ESCAPE Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Enhancing the Strength and Capacity of America's Primary Evacuation routes Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-02-18T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr1142ih/xml/BILLS-117hr1142ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-19</actionDate>
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

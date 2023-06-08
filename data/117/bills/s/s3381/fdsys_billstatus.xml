@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>3381</number>
+    <updateDate>2022-12-30T03:34:01Z</updateDate>
+    <updateDateIncludingText>2022-12-30T03:34:01Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-12-14</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>slia00</systemCode>
+        <name>Indian Affairs Committee</name>
+        <chamber>Senate</chamber>
+        <type>Other</type>
+        <activities>
+          <item>
+            <name>Reported by</name>
+            <date>2022-12-06T21:35:18Z</date>
+          </item>
+          <item>
+            <name>Markup by</name>
+            <date>2022-05-18T20:30:27Z</date>
+          </item>
+          <item>
+            <name>Hearings by</name>
+            <date>2022-02-16T22:40:55Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-12-14T16:12:55Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-12-06</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 590.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2022-12-06</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-232.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-12-06</actionDate>
+        <text>Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-232.</text>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-05-18</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2022-02-16</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-12-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>slia00</systemCode>
+            <name>Indian Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs. (text: CR S9162-9164)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-12-14</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <firstName>John</firstName>
+        <lastName>Thune</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+        </identifiers>
+        <middleName>R.</middleName>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <fullName>Sen. Rounds, Mike [R-SD]</fullName>
+        <firstName>Mike</firstName>
+        <lastName>Rounds</lastName>
+        <party>R</party>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-12-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000571</bioguideId>
+        <fullName>Sen. Lummis, Cynthia M. [R-WY]</fullName>
+        <firstName>Cynthia</firstName>
+        <lastName>Lummis</lastName>
+        <party>R</party>
+        <state>WY</state>
+        <identifiers>
+          <bioguideId>L000571</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <sponsorshipDate>2022-09-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2022-10-27T18:54:00Z</pubDate>
+        <title>S.3381, Tribal Trust Land Homeownership Act of 2021</title>
+        <url>https://www.cbo.gov/publication/58596</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Housing and Community Development</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Housing finance and home ownership</name>
+        </item>
+        <item>
+          <name>Indian lands and resources rights</name>
+        </item>
+        <item>
+          <name>Intergovernmental relations</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Housing and Community Development</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-12-14</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-05-06T16:20:10Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Tribal Trust Land Homeownership Act of 2021 </strong></p> <p>This bill sets forth requirements for the processing of a proposed residential leasehold mortgage, business leasehold mortgage, land mortgage, or right-of-way document by the Bureau of Indian Affairs. The bureau must notify lenders upon receipt of such documentation, perform a preliminary review of such documents not later than 10 days after receipt, and approve or disapprove of such documents within 20 or 30 days, depending on the type of application. </p> <p>Additionally, the bill sets forth requirements for the bureau regarding (1) response times for the completion of certified title status reports, (2) notification of delays in processing, and (3) the form of notices and delivery of certain reports. </p> <p>The bill also provides relevant federal agencies and Indian tribes with read-only access to the Trust Asset and Accounting Management System maintained by the bureau. </p> <p>The Government Accountability Office must report on digitizing documents for the purpose of streamlining and expediting the completion of mortgage packages for residential mortgages on Indian land. </p> <p>Finally, the bill establishes within the bureau's Division of Real Estate Services the position of Realty Ombudsman.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Tribal Trust Land Homeownership Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Tribal Trust Land Homeownership Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to Senate</titleType>
+        <title>Tribal Trust Land Homeownership Act of 2021</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <billTextVersionName>Reported to Senate</billTextVersionName>
+        <billTextVersionCode>RS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Tribal Trust Land Homeownership Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to require the Bureau of Indian Affairs to process and complete all mortgage packages associated with residential and business mortgages on Indian land by certain deadlines, and for other purposes.</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Reported to Senate</type>
+        <date>2022-12-06T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3381rs/xml/BILLS-117s3381rs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-12-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s3381is/xml/BILLS-117s3381is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2022-12-06</actionDate>
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 590.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

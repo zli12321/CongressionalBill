@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>300</number>
+    <updateDate>2022-12-16T14:11:34Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:11:34Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-02-08</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>ssaf00</systemCode>
+        <name>Agriculture, Nutrition, and Forestry Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-09T00:09:15Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Justice for Black Farmers Act of 2021</title>
+        <congress>117</congress>
+        <number>1393</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-04-28</actionDate>
+          <text>Referred to the Subcommittee on the Constitution, Civil Rights, and Civil Liberties.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Farm System Reform Act of 2021</title>
+        <congress>117</congress>
+        <number>4421</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2021-08-11</actionDate>
+          <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Farm System Reform Act of 2021</title>
+        <congress>117</congress>
+        <number>2332</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2021-07-13</actionDate>
+          <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2021-02-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssaf00</systemCode>
+            <name>Agriculture, Nutrition, and Forestry Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-02-08</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <firstName>Cory</firstName>
+        <lastName>Booker</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>W000817</bioguideId>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <firstName>Elizabeth</firstName>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2021-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000555</bioguideId>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <firstName>Kirsten</firstName>
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2021-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001203</bioguideId>
+        <fullName>Sen. Smith, Tina [D-MN]</fullName>
+        <firstName>Tina</firstName>
+        <lastName>Smith</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>S001203</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000790</bioguideId>
+        <fullName>Sen. Warnock, Raphael G. [D-GA]</fullName>
+        <firstName>Raphael</firstName>
+        <lastName>Warnock</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>W000790</bioguideId>
+        </identifiers>
+        <middleName>G.</middleName>
+        <sponsorshipDate>2021-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>L000174</bioguideId>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <firstName>Patrick</firstName>
+        <lastName>Leahy</lastName>
+        <party>D</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-02-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000033</bioguideId>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <firstName>Bernard</firstName>
+        <lastName>Sanders</lastName>
+        <party>I</party>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-03-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2021-11-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Administrative remedies</name>
+        </item>
+        <item>
+          <name>Agricultural conservation and pollution</name>
+        </item>
+        <item>
+          <name>Agricultural education</name>
+        </item>
+        <item>
+          <name>Agricultural marketing and promotion</name>
+        </item>
+        <item>
+          <name>Agricultural practices and innovations</name>
+        </item>
+        <item>
+          <name>Agricultural prices, subsidies, credit</name>
+        </item>
+        <item>
+          <name>Air quality</name>
+        </item>
+        <item>
+          <name>Alternative and renewable resources</name>
+        </item>
+        <item>
+          <name>Appropriations</name>
+        </item>
+        <item>
+          <name>Banking and financial institutions regulation</name>
+        </item>
+        <item>
+          <name>Cardiovascular and respiratory health</name>
+        </item>
+        <item>
+          <name>Census and government statistics</name>
+        </item>
+        <item>
+          <name>Climate change and greenhouse gases</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Consumer credit</name>
+        </item>
+        <item>
+          <name>Corporate finance and management</name>
+        </item>
+        <item>
+          <name>Department of Agriculture</name>
+        </item>
+        <item>
+          <name>Disability assistance</name>
+        </item>
+        <item>
+          <name>Education programs funding</name>
+        </item>
+        <item>
+          <name>Electric power generation and transmission</name>
+        </item>
+        <item>
+          <name>Emergency medical services and trauma care</name>
+        </item>
+        <item>
+          <name>Energy efficiency and conservation</name>
+        </item>
+        <item>
+          <name>Executive agency funding and structure</name>
+        </item>
+        <item>
+          <name>Farmland</name>
+        </item>
+        <item>
+          <name>Federally chartered organizations</name>
+        </item>
+        <item>
+          <name>Financial services and investments</name>
+        </item>
+        <item>
+          <name>Government information and archives</name>
+        </item>
+        <item>
+          <name>Government lending and loan guarantees</name>
+        </item>
+        <item>
+          <name>Government studies and investigations</name>
+        </item>
+        <item>
+          <name>Higher education</name>
+        </item>
+        <item>
+          <name>Housing finance and home ownership</name>
+        </item>
+        <item>
+          <name>Infectious and parasitic diseases</name>
+        </item>
+        <item>
+          <name>Land transfers</name>
+        </item>
+        <item>
+          <name>Land use and conservation</name>
+        </item>
+        <item>
+          <name>Legal fees and court costs</name>
+        </item>
+        <item>
+          <name>Livestock</name>
+        </item>
+        <item>
+          <name>Migrant, seasonal, agricultural labor</name>
+        </item>
+        <item>
+          <name>Minority and disadvantaged businesses</name>
+        </item>
+        <item>
+          <name>Minority education</name>
+        </item>
+        <item>
+          <name>Minority employment</name>
+        </item>
+        <item>
+          <name>Racial and ethnic relations</name>
+        </item>
+        <item>
+          <name>Rural conditions and development</name>
+        </item>
+        <item>
+          <name>Social security and elderly assistance</name>
+        </item>
+        <item>
+          <name>Student aid and college costs</name>
+        </item>
+        <item>
+          <name>Tax administration and collection, taxpayers</name>
+        </item>
+        <item>
+          <name>U.S. and foreign investments</name>
+        </item>
+        <item>
+          <name>U.S. history</name>
+        </item>
+        <item>
+          <name>Vocational and technical education</name>
+        </item>
+        <item>
+          <name>Wetlands</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Agriculture and Food</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-08</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-12-22T23:28:08Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Justice for Black Farmers Act of 2021</strong></p> <p>This bill directs the Department of Agriculture (USDA) to provide a variety of assistance to address historical discrimination and disparities in the agricultural sector. </p> <p>For example, the bill establishes an equity commission in USDA to examine discrimination by the agency against Black farmers and ranchers and recommend actions to end the systematic disparities in the treatment of Black farmers and ranchers.</p> <p>USDA must also establish a Farm Conservation Corps to provide young adults who are from socially disadvantaged groups with the skills necessary to pursue careers in farming and ranching.</p> <p>The bill provides funding for historically Black colleges and universities to commence and expand courses of study that are focused on careers in agriculture or related disciplines. The bill also increases the authorization of appropriations for a program to resolve issues relating to ownership and succession on farmland. Additionally, it expands credit assistance for socially disadvantaged farmers and ranchers.</p> <p>Further, the bill (1) establishes that a minimum of 50% of a covered packer's (not including a packer that owns only one livestock processing plant) daily volume of livestock slaughter must be purchased through spot market sales from nonaffiliated producers; (2) increases funding for the Local Agriculture Market Program; and (3) gives priority to socially disadvantaged farmers and ranchers for conservation technical assistance, the Conservation Stewardship Program, and the Rural Energy for America Program. </p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Justice for Black Farmers Act of 2021</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Justice for Black Farmers Act of 2021</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Justice for Black Farmers Act of 2021</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to address the history of discrimination against Black farmers and ranchers, to require reforms within the Department of Agriculture to prevent future discrimination, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-02-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s300is/xml/BILLS-117s300is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-02-08</actionDate>
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>9693</number>
+    <updateDate>2022-12-24T08:15:22Z</updateDate>
+    <updateDateIncludingText>2022-12-24T08:15:22Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2022-12-23</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2022-12-23T14:00:20Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2022-12-23</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2022-12-23</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2022-12-23</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>P000616</bioguideId>
+        <fullName>Rep. Phillips, Dean [D-MN-3]</fullName>
+        <firstName>Dean</firstName>
+        <lastName>Phillips</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>P000616</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <title>To amend the Lobbying Disclosure Act of 1995 to assign unique identification numbers to each lobbyist who registers under such Act and to each client of the lobbyist and each person who provides strategic lobbying services in support of the lobbyist, to require the disclosure of information on any persons who provide strategic lobbying services in support of registered lobbyists under such Act, to require the Clerk of the House of Representatives and the Secretary of the Senate to assign a unique identification number to each individual who registers as a lobbyist under such Act, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Lobbying Disclosure Act of 1995 to assign unique identification numbers to each lobbyist who registers under such Act and to each client of the lobbyist and each person who provides strategic lobbying services in support of the lobbyist, to require the disclosure of information on any persons who provide strategic lobbying services in support of registered lobbyists under such Act, to require the Clerk of the House of Representatives and the Secretary of the Senate to assign a unique identification number to each individual who registers as a lobbyist under such Act, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To amend the Lobbying Disclosure Act of 1995 to assign unique identification numbers to each lobbyist who registers under such Act and to each client of the lobbyist and each person who provides strategic lobbying services in support of the lobbyist, to require the disclosure of information on any persons who provide strategic lobbying services in support of registered lobbyists under such Act, to require the Clerk of the House of Representatives and the Secretary of the Senate to assign a unique identification number to each individual who registers as a lobbyist under such Act, and for other purposes.</title>
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2022-12-23</actionDate>
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1083</number>
+    <updateDate>2022-12-31T07:14:46Z</updateDate>
+    <updateDateIncludingText>2022-12-31T07:14:46Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <type>HR</type>
+    <introducedDate>2021-02-15</introducedDate>
+    <congress>117</congress>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>ssfr00</systemCode>
+        <name>Foreign Relations Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-04-20T16:00:20Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsfa00</systemCode>
+        <name>Foreign Affairs Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Markup by</name>
+            <date>2021-03-25T13:09:03Z</date>
+          </item>
+          <item>
+            <name>Referred to</name>
+            <date>2021-02-15T14:31:20Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-04-20</actionDate>
+        <committees>
+          <item>
+            <systemCode>ssfr00</systemCode>
+            <name>Foreign Relations Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-04-19</actionDate>
+        <actionTime>19:46:20</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-04-19</actionDate>
+        <actionTime>19:46:14</actionTime>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1944)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-04-19</actionDate>
+        <actionTime>19:46:14</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1944)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-04-19</actionDate>
+        <actionTime>19:40:10</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1083.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-04-19</actionDate>
+        <actionTime>19:40:07</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H1944-1945)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-04-19</actionDate>
+        <actionTime>19:39:50</actionTime>
+        <text>Mr. Castro (TX) moved to suspend the rules and pass the bill.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-03-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-03-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2021-02-15</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsfa00</systemCode>
+            <name>Foreign Affairs Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2021-02-15</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-02-15</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>W000812</bioguideId>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <firstName>Ann</firstName>
+        <lastName>Wagner</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>C001091</bioguideId>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <firstName>Joaquin</firstName>
+        <lastName>Castro</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001091</bioguideId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipDate>2021-02-15</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S000344</bioguideId>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+        <firstName>BRAD</firstName>
+        <lastName>SHERMAN</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+        </identifiers>
+        <district>30</district>
+        <sponsorshipDate>2021-04-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001084</bioguideId>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <firstName>David</firstName>
+        <lastName>Cicilline</lastName>
+        <party>D</party>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <middleName>N.</middleName>
+        <district>1</district>
+        <sponsorshipDate>2021-04-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001209</bioguideId>
+        <fullName>Rep. Spanberger, Abigail Davis [D-VA-7]</fullName>
+        <firstName>Abigail</firstName>
+        <lastName>Spanberger</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>S001209</bioguideId>
+        </identifiers>
+        <middleName>Davis</middleName>
+        <district>7</district>
+        <sponsorshipDate>2021-04-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2021-04-06T15:01:00Z</pubDate>
+        <title>H.R. 1083, Southeast Asia Strategy Act</title>
+        <url>https://www.cbo.gov/publication/57118</url>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>ASEAN countries</name>
+        </item>
+        <item>
+          <name>Alliances</name>
+        </item>
+        <item>
+          <name>Asia</name>
+        </item>
+        <item>
+          <name>Brunei</name>
+        </item>
+        <item>
+          <name>Burma</name>
+        </item>
+        <item>
+          <name>Cambodia</name>
+        </item>
+        <item>
+          <name>Collective security</name>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+        </item>
+        <item>
+          <name>Diplomacy, foreign officials, Americans abroad</name>
+        </item>
+        <item>
+          <name>Economic development</name>
+        </item>
+        <item>
+          <name>Human rights</name>
+        </item>
+        <item>
+          <name>Human trafficking</name>
+        </item>
+        <item>
+          <name>Indonesia</name>
+        </item>
+        <item>
+          <name>Infrastructure development</name>
+        </item>
+        <item>
+          <name>International organizations and cooperation</name>
+        </item>
+        <item>
+          <name>Laos</name>
+        </item>
+        <item>
+          <name>Malaysia</name>
+        </item>
+        <item>
+          <name>Marine and coastal resources, fisheries</name>
+        </item>
+        <item>
+          <name>Navigation, waterways, harbors</name>
+        </item>
+        <item>
+          <name>Pacific Ocean</name>
+        </item>
+        <item>
+          <name>Philippines</name>
+        </item>
+        <item>
+          <name>Public-private cooperation</name>
+        </item>
+        <item>
+          <name>Rule of law and government transparency</name>
+        </item>
+        <item>
+          <name>Singapore</name>
+        </item>
+        <item>
+          <name>Sovereignty, recognition, national governance and status</name>
+        </item>
+        <item>
+          <name>Terrorism</name>
+        </item>
+        <item>
+          <name>Thailand</name>
+        </item>
+        <item>
+          <name>Transportation safety and security</name>
+        </item>
+        <item>
+          <name>Vietnam</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>International Affairs</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-02-15</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2021-03-25T17:29:54Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Southeast Asia Strategy Act</b></p> <p>This bill directs the Department of State to submit to Congress a strategy for engagement with Southeast Asia and the Association of Southeast Asian Nations (ASEAN). The strategy shall include various elements including (1) an identification of enduring U.S. interests in the region and efforts to bolster ASEAN's effectiveness; (2) a list of ongoing and planned initiatives to strengthen U.S. relationships in the region, including efforts to promote inclusive economic growth and energy innovation; and (3) a summary of ongoing efforts to promote human rights and democracy and strengthen the rule of law.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>53</versionCode>
+        <actionDate>2021-04-19</actionDate>
+        <actionDesc>Passed House</actionDesc>
+        <updateDate>2021-05-03T13:44:23Z</updateDate>
+        <text>
+          <![CDATA[ <p><b>Southeast Asia Strategy Act</b></p> <p>This bill directs the Department of State to submit to Congress a strategy for engagement with Southeast Asia and the Association of Southeast Asian Nations (ASEAN). The strategy shall include various elements including (1) an identification of enduring U.S. interests in the region and efforts to bolster ASEAN's effectiveness; (2) a list of ongoing and planned initiatives to strengthen U.S. relationships in the region, including efforts to promote inclusive economic growth and energy innovation; and (3) a summary of ongoing efforts to promote human rights and democracy and strengthen the rule of law.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Southeast Asia Strategy Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Southeast Asia Strategy Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Southeast Asia Strategy Act</title>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require a strategy for engagement with Southeast Asia and the Association of Southeast Asian Nations (ASEAN).</title>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Passed House</titleType>
+        <title>Southeast Asia Strategy Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Southeast Asia Strategy Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2021-04-20T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr1083rfs/xml/BILLS-117hr1083rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2021-04-19T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr1083eh/xml/BILLS-117hr1083eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2021-02-15T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117hr1083ih/xml/BILLS-117hr1083ih.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-04-20</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

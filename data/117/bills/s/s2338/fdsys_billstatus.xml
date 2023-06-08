@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>2338</number>
+    <updateDate>2022-12-30T10:18:51Z</updateDate>
+    <updateDateIncludingText>2022-12-30T10:18:51Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>S</type>
+    <introducedDate>2021-07-14</introducedDate>
+    <congress>117</congress>
+    <committees>
+      <item>
+        <systemCode>sscm00</systemCode>
+        <name>Commerce, Science, and Transportation Committee</name>
+        <chamber>Senate</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred to</name>
+            <date>2021-07-14T15:17:53Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2021-07-14</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2021-07-14</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>D000618</bioguideId>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <firstName>Steve</firstName>
+        <lastName>Daines</lastName>
+        <party>R</party>
+        <state>MT</state>
+        <identifiers>
+          <bioguideId>D000618</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects/>
+      <policyArea>
+        <name>Government Operations and Politics</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-07-14</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2022-02-02T16:02:50Z</updateDate>
+        <text>
+          <![CDATA[ <p><strong>Preserving Political Speech Online Act</strong></p> <p>This bill addresses issues related to online political advertising.</p> <p>First, the bill directs the Federal Trade Commission (FTC) to initiate a rulemaking proceeding to require any online platform (e.g., a social network or search engine) or third-party advertiser that displays, hosts, or allows the advertisement of a legally qualified candidate for federal office to follow specific rules in advertising. These rules include affording equal advertisement opportunities to candidates and charging comparable rates to each candidate. An online platform or third-party advertiser may not censor these advertisements.</p> <p>In addition, the bill requires online platforms to maintain and make publicly available a complete record of any purchase of political advertising within 24 hours of the purchase.</p> <p>The FTC must enforce these requirements related to advertising and treat any violation as an unfair or deceptive act or practice.</p> <p>Next, the bill requires the Federal Communications Commission to initiate a rulemaking to apply certain existing laws related to political advertising to all licensees that engage in political advertising.</p> <p>The bill also establishes an exception to the immunity of a provider of an interactive computer service from liability for screening and blocking offensive content on its platform. The bill removes this immunity from a provider that blocks, censors, or screens material on the grounds of race, color, religion, sex, national origin, or political affiliation or speech. The bill includes an exception for services that are dedicated to a specific set of issues, policies, beliefs, or viewpoints.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>Preserving Political Speech Online Act</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Preserving Political Speech Online Act</title>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <title>Preserving Political Speech Online Act</title>
+        <billTextVersionName>Introduced in Senate</billTextVersionName>
+        <billTextVersionCode>IS</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to improve fairness in political speech, and for other purposes.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in Senate</type>
+        <date>2021-07-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117s2338is/xml/BILLS-117s2338is.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-07-14</actionDate>
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

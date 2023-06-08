@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1</number>
+    <updateDate>2022-12-16T14:07:21Z</updateDate>
+    <updateDateIncludingText>2022-12-16T14:07:21Z</updateDateIncludingText>
+    <originChamber>Senate</originChamber>
+    <type>SCONRES</type>
+    <introducedDate>2021-01-03</introducedDate>
+    <congress>117</congress>
+    <actions>
+      <item>
+        <actionDate>2021-01-03</actionDate>
+        <actionTime>19:23:26</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-03</actionDate>
+        <actionTime>19:23:23</actionTime>
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H10)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-03</actionDate>
+        <actionTime>19:23:23</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H10)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-03</actionDate>
+        <actionTime>19:21:44</actionTime>
+        <text>Considered as privileged matter. (consideration: CR H10)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-03</actionDate>
+        <actionTime>19:19:32</actionTime>
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-03</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2021-01-03</actionDate>
+        <sourceSystem>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7; text: CR S7)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2021-01-03</actionDate>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S7; text: CR S7)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2021-01-03</actionDate>
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M000355</bioguideId>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <firstName>Mitch</firstName>
+        <lastName>McConnell</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>M000355</bioguideId>
+        </identifiers>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Congressional operations and organization</name>
+        </item>
+        <item>
+          <name>Elections, voting, political campaign regulation</name>
+        </item>
+        <item>
+          <name>Presidents and presidential powers, Vice Presidents</name>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Congress</name>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2021-01-03</actionDate>
+        <actionDesc>Introduced in Senate</actionDesc>
+        <updateDate>2021-01-19T14:38:57Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution provides for the two houses of Congress to meet on January 6, 2021, to count the electoral votes and declare the persons elected President and Vice President of the United States.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>53</versionCode>
+        <actionDate>2021-01-03</actionDate>
+        <actionDesc>Passed House</actionDesc>
+        <updateDate>2021-01-22T19:32:25Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution provides for the two houses of Congress to meet on January 6, 2021, to count the electoral votes and declare the persons elected President and Vice President of the United States.</p>]]>
+        </text>
+      </summary>
+      <summary>
+        <versionCode>55</versionCode>
+        <actionDate>2021-01-03</actionDate>
+        <actionDesc>Passed Senate</actionDesc>
+        <updateDate>2021-01-19T19:11:44Z</updateDate>
+        <text>
+          <![CDATA[ <p>This concurrent resolution provides for the two houses of Congress to meet on January 6, 2021, to count the electoral votes and declare the persons elected President and Vice President of the United States.</p>]]>
+        </text>
+      </summary>
+    </summaries>
+    <title>A concurrent resolution to provide for the counting on January 6, 2021, of the electoral votes for President and Vice President of the United States.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>A concurrent resolution to provide for the counting on January 6, 2021, of the electoral votes for President and Vice President of the United States.</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A concurrent resolution to provide for the counting on January 6, 2021, of the electoral votes for President and Vice President of the United States.</title>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date/>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sconres1enr/xml/BILLS-117sconres1enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2021-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sconres1es/xml/BILLS-117sconres1es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2021-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-117sconres1ats/xml/BILLS-117sconres1ats.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <date/>
+        <formats/>
+        <type/>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2021-01-03</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>19:23:26</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
